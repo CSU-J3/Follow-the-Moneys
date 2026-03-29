@@ -2,11 +2,11 @@
 
 $19.3 billion committed to the Board of Peace. $1.25 billion moved out of disaster relief and peacekeeping accounts. Zero congressional votes. Zero independent audits. Zero dollars confirmed reaching Gaza.
 
-This is the only public ledger.
+This is the only public ledger.  
 
-**Live site:** [wannndows69.github.io/Follow-the-Money-](https://wannndows69.github.io/Follow-the-Money-)
-**Publication:** [das_DEMARC:/](https://dasdemarc.substack.com)
-**Related:** [iranwarcost.com](https://iranwarcost.com/) (not affiliated, same energy)
+**Live site:** [wannndows69.github.io/Follow-the-Money-](https://wannndows69.github.io/Follow-the-Money-)  
+**Publication:** [das_DEMARC:/](https://dasdemarc.substack.com)  
+**Related:** [iranwarcost.com](https://iranwarcost.com/) (not affiliated, same energy)  
 ---
 
 ## What this is
