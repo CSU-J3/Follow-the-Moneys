@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Board of Peace Financial Tracker — das_DEMARC</title>
+<meta name="description" content="Tracking every dollar flowing through Trump's Board of Peace. Automated, sourced, updated 4x daily.">
+<meta property="og:title" content="Board of Peace Financial Tracker">
+<meta property="og:description" content="$19.3 billion committed. $1.25 billion transferred. Zero congressional votes. Follow the money.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #FAFAF8;
+  --bg-card: #FFFFFF;
+  --bg-surface: #F3F2EE;
+  --text-primary: #1A1A18;
+  --text-secondary: #6B6B65;
+  --text-tertiary: #9C9C95;
+  --border: #E5E4DF;
+  --border-strong: #D0CFC8;
+  --accent: #1A5276;
+  --accent-light: #EBF3F8;
+  --red: #A83232;
+  --red-light: #FDF0F0;
+  --green: #2D6A4F;
+  --green-light: #EEF7F2;
+  --amber: #8B6914;
+  --amber-light: #FFF8E8;
+  --purple: #5B4BA0;
+  --purple-light: #F0EEF9;
+  --font-display: 'Source Serif 4', Georgia, serif;
+  --font-body: 'DM Sans', -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141413;
+    --bg-card: #1C1C1A;
+    --bg-surface: #222220;
+    --text-primary: #EDEDEB;
+    --text-secondary: #9C9C95;
+    --text-tertiary: #6B6B65;
+    --border: #333330;
+    --border-strong: #444440;
+    --accent: #5BA3D9;
+    --accent-light: #1A2A38;
+    --red: #E06060;
+    --red-light: #2A1A1A;
+    --green: #5DB88A;
+    --green-light: #1A2A22;
+    --amber: #D4A832;
+    --amber-light: #2A2410;
+    --purple: #9B8FD0;
+    --purple-light: #1E1A2E;
+  }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+.container { max-width: 900px; margin: 0 auto; padding: 0 24px; }
+
+/* Header */
+header {
+  position: relative;
+  padding: 32px 0 24px;
+  border-bottom: 1px solid var(--border);
+}
+.war-btn {
+  position: absolute;
+  top: 32px;
+  right: 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--red);
+  border: 1px solid var(--red);
+  border-radius: 4px;
+  padding: 6px 12px;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.war-btn:hover {
+  background: var(--red);
+  color: #fff;
+}
+.pub-name {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 8px;
+}
+.pub-name a { color: inherit; text-decoration: none; }
+.pub-name a:hover { color: var(--accent); }
+h1 {
+  font-family: var(--font-display);
+  font-size: clamp(26px, 5vw, 36px);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
+}
+.subtitle {
+  font-size: 15px;
+  color: var(--text-secondary);
+  max-width: 640px;
+  line-height: 1.5;
+}
+.meta {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--text-tertiary);
+  font-family: var(--font-mono);
+}
+.meta span { white-space: nowrap; }
+.meta-sep { color: var(--border-strong); }
+
+/* Stats bar */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0 12px;
+}
+.stat {
+  background: var(--bg-card);
+  padding: 14px 20px;
+}
+.stat-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 4px;
+}
+.stat-value {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.stat-note {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+.stat-link {
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+  cursor: pointer;
+  display: block;
+}
+.stat-link:hover { background: var(--bg-surface); }
+.stat-link .stat-note { color: var(--accent); }
+.stat-value.red { color: var(--red); }
+.stat-value.green { color: var(--green); }
+.stat-value.accent { color: var(--accent); }
+
+/* Filters */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  padding: 8px 0;
+  z-index: 10;
+  border-bottom: 1px solid var(--border);
+}
+.filter-btn {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.filter-btn:hover { border-color: var(--border-strong); color: var(--text-primary); }
+.filter-btn.active { background: var(--text-primary); color: var(--bg); border-color: var(--text-primary); }
+.filter-btn-sources { margin-left: auto; }
+
+/* Timeline */
+.timeline { padding: 4px 0 32px; position: relative; padding-left: 24px; }
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 12px;
+  bottom: 40px;
+  width: 1px;
+  background: var(--border);
+}
+.tl-event { margin-bottom: 2px; position: relative; }
+.tl-dot {
+  position: absolute;
+  left: -21px;
+  top: 14px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid var(--border-strong);
+  background: var(--bg);
+  z-index: 1;
+}
+.tl-dot.us_taxpayer { border-color: var(--red); }
+.tl-dot.gulf_pledge { border-color: var(--green); }
+.tl-dot.international { border-color: var(--purple); }
+.tl-dot.governance { border-color: var(--amber); }
+.tl-dot.fund_structure { border-color: var(--accent); }
+.tl-card {
+  display: grid;
+  grid-template-columns: 110px 1fr auto;
+  gap: 16px;
+  align-items: baseline;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border: 1px solid transparent;
+}
+.tl-card:hover { background: var(--bg-surface); }
+.tl-card.open { background: var(--bg-card); border-color: var(--border); }
+.tl-date {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--text-tertiary);
+  white-space: nowrap;
+}
+.tl-title {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+.tl-amount {
+  font-family: var(--font-mono);
+  font-size: 15px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.tl-amount.us { color: var(--red); }
+.tl-amount.gulf { color: var(--green); }
+.tl-amount.intl { color: var(--purple); }
+.tl-amount.fund { color: var(--accent); }
+
+/* Tags */
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.tag-us { background: var(--red-light); color: var(--red); }
+.tag-gulf { background: var(--green-light); color: var(--green); }
+.tag-intl { background: var(--purple-light); color: var(--purple); }
+.tag-gov { background: var(--bg-surface); color: var(--text-secondary); }
+.tag-struct { background: var(--accent-light); color: var(--accent); }
+.status-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+.status-transferred { background: var(--red-light); color: var(--red); }
+.status-pledged { background: var(--amber-light); color: var(--amber); }
+.status-target { background: var(--bg-surface); color: var(--text-tertiary); }
+.status-operational { background: var(--green-light); color: var(--green); }
+
+/* Detail panel */
+.tl-detail {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+}
+.tl-card.open + .tl-detail { max-height: 400px; }
+.tl-detail-inner {
+  padding: 0 14px 12px 128px;
+  font-size: 14px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.tl-detail-inner a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+.tl-detail-inner a:hover { text-decoration: underline; }
+.source-list {
+  margin-top: 8px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+.source-list a { font-weight: 400; }
+
+/* Sources panel */
+.sources-panel {
+  display: none;
+  padding: 8px 0 40px;
+}
+.sources-panel.active { display: block; }
+.sources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+.source-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 18px;
+}
+.source-type {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 4px;
+}
+.source-name {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.source-name a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.source-name a:hover { text-decoration: underline; }
+.source-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+.source-freq {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--green);
+  font-weight: 500;
+}
+.sources-note {
+  margin-top: 20px;
+  font-size: 13px;
+  color: var(--text-tertiary);
+  line-height: 1.6;
+  padding: 12px 16px;
+  background: var(--bg-surface);
+  border-radius: 6px;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 0;
+  font-size: 13px;
+  color: var(--text-tertiary);
+  line-height: 1.6;
+}
+footer a { color: var(--accent); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+/* Responsive */
+@media (max-width: 640px) {
+  .tl-card { grid-template-columns: 1fr; gap: 4px; }
+  .tl-detail-inner { padding-left: 14px; }
+  .stats { grid-template-columns: 1fr 1fr; }
+  .stat-value { font-size: 20px; }
+  .war-btn { position: static; display: inline-block; margin-bottom: 16px; }
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <a href="https://iranwarcost.com/" target="_blank" rel="noopener" class="war-btn">Follow the war money &rarr;</a>
+    <div class="pub-name"><a href="https://dasdemarc.substack.com" target="_blank" rel="noopener">das_DEMARC:/</a></div>
+    <h1>Follow the money.</h1>
+    <p class="subtitle">Receipts & no peace.</p>
+    <div class="meta">
+      <span id="last-updated">loading...</span>
+      <span class="meta-sep">·</span>
+      <span id="event-count"></span>
+      <span class="meta-sep">·</span>
+      <span id="since-last"></span>
+    </div>
+  </header>
+
+  <div class="stats" id="stats-bar"></div>
+
+  <div class="filter-bar" id="filters"></div>
+
+  <div class="timeline" id="timeline"></div>
+
+  <div class="sources-panel" id="sources-panel">
+    <div class="sources-grid">
+      <div class="source-card">
+        <div class="source-type">RSS</div>
+        <div class="source-name">Google News</div>
+        <div class="source-desc">5 query rotations targeting "Board of Peace" + financial keywords (pledge, transfer, billion, fund, allocate). Covers all major English-language outlets.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">API</div>
+        <div class="source-name"><a href="https://en.wikipedia.org/wiki/Board_of_Peace" target="_blank" rel="noopener">Wikipedia: Board of Peace</a></div>
+        <div class="source-desc">MediaWiki API revision tracking. Compares diffs for financial content changes (new amounts, pledge updates, fund structure edits).</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">API</div>
+        <div class="source-name"><a href="https://en.wikipedia.org/wiki/Gaza_peace_plan" target="_blank" rel="noopener">Wikipedia: Gaza peace plan</a></div>
+        <div class="source-desc">Same revision-diff tracking for the broader Gaza peace plan article. Catches financial events that don't land on the BoP page directly.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">Direct</div>
+        <div class="source-name"><a href="https://carnegieendowment.org" target="_blank" rel="noopener">Carnegie Endowment</a></div>
+        <div class="source-desc">Monitors for new BoP analyses and policy briefs. Primary source for fund structure, GRAD governance, and JPMorgan banking concerns.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">Direct</div>
+        <div class="source-name"><a href="https://www.semafor.com" target="_blank" rel="noopener">Semafor</a></div>
+        <div class="source-desc">Broke the $1.25B State Dept transfer story. Monitored for investigative reporting on BoP financial flows and fund movements.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">Direct</div>
+        <div class="source-name"><a href="https://www.worldbank.org/en/country/westbankandgaza/brief/financial-intermediary-fund-for-gaza-reconstruction-and-development" target="_blank" rel="noopener">World Bank GRAD Fund</a></div>
+        <div class="source-desc">Content-hash change detection on the GRAD FIF page. Catches updates to fund balance, governance structure, or disbursement status.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">Direct</div>
+        <div class="source-name"><a href="https://www.cortezmasto.senate.gov/news/press-releases" target="_blank" rel="noopener">Sen. Cortez Masto</a></div>
+        <div class="source-desc">Press releases filtered for BoP, Gaza, LIHEAP, and foreign aid keywords. Introduced the American Homes First Act to redirect $1B from BoP.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+      <div class="source-card">
+        <div class="source-type">Direct</div>
+        <div class="source-name"><a href="https://www.markey.senate.gov/news/press-releases" target="_blank" rel="noopener">Sen. Markey</a></div>
+        <div class="source-desc">Press releases filtered for BoP and Gaza. Sent oversight letter demanding answers on legal authority, conflicts of interest, and fund access.</div>
+        <div class="source-freq">4x daily</div>
+      </div>
+    </div>
+    <div class="sources-note">
+      Trusted sources (Reuters, AP, PBS, NPR, Semafor, Carnegie, Senate.gov, World Bank) are auto-added when financial data is detected. All other sources go to a candidate queue for review. Collectors run via GitHub Actions on a 6-hour cycle.
+    </div>
+  </div>
+
+  <footer>
+    <p>Built by <a href="https://dasdemarc.substack.com">das_DEMARC:/</a>. Data collected automatically from Google News, Wikipedia, Carnegie Endowment, Senate press releases, World Bank, and Semafor. Source code on <a href="https://github.com/ComradeCorium">GitHub</a>. See also: <a href="https://iranwarcost.com/">iranwarcost.com</a>.</p>
+    <p style="margin-top:8px">This tracker presents publicly reported financial information. All amounts reflect official pledges and transfers as reported by cited sources. "Committed" includes pledges, which are not binding obligations. Actual disbursements may differ.</p>
+  </footer>
+</div>
+
+<script>
+const CATEGORIES = {
+  us_taxpayer: { label: "U.S. taxpayer", tag: "tag-us", amtClass: "us" },
+  gulf_pledge: { label: "Gulf pledge", tag: "tag-gulf", amtClass: "gulf" },
+  international: { label: "International", tag: "tag-intl", amtClass: "intl" },
+  governance: { label: "Governance", tag: "tag-gov", amtClass: "" },
+  fund_structure: { label: "Fund structure", tag: "tag-struct", amtClass: "fund" },
+};
+
+function fmtMoney(n) {
+  if (!n) return "";
+  if (typeof n === "string") return n;
+  if (n >= 1e12) return "$" + (n / 1e12).toFixed(1) + "T";
+  if (n >= 1e9) return "$" + (n / 1e9).toFixed(1).replace(/\.0$/, "") + "B";
+  if (n >= 1e6) return "$" + Math.round(n / 1e6) + "M";
+  return "$" + n.toLocaleString();
+}
+
+function fmtDate(dateStr) {
+  const d = new Date(dateStr + "T12:00:00");
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+
+function renderStats(summary) {
+  const bar = document.getElementById("stats-bar");
+  bar.innerHTML = `
+    <div class="stat">
+      <div class="stat-label">Total committed</div>
+      <div class="stat-value">${fmtMoney(summary.total_committed)}</div>
+      <div class="stat-note">pledges + transfers</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Actually transferred</div>
+      <div class="stat-value red">${fmtMoney(summary.total_transferred)}</div>
+      <div class="stat-note">confirmed moved</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Congressional votes</div>
+      <div class="stat-value">${summary.congressional_votes}</div>
+      <div class="stat-note">for $${Math.round((summary.total_committed) / 1e9)}B+ in commitments</div>
+    </div>
+    <a href="https://www.worldbank.org/en/news/press-release/2025/02/18/new-report-assesses-damages-losses-and-needs-in-gaza-and-the-west-bank" target="_blank" rel="noopener" class="stat stat-link">
+      <div class="stat-label">Reconstruction need</div>
+      <div class="stat-value accent">$${summary.reconstruction_need_low / 1e9}–${summary.reconstruction_need_high / 1e9}B</div>
+      <div class="stat-note">UN / World Bank est. ↗</div>
+    </a>
+  `;
+}
+
+function renderFilters(events) {
+  const bar = document.getElementById("filters");
+  const cats = new Set(events.map(e => e.category));
+  let html = '<button class="filter-btn active" data-cat="all">All events</button>';
+  for (const [key, meta] of Object.entries(CATEGORIES)) {
+    if (cats.has(key)) {
+      html += `<button class="filter-btn" data-cat="${key}">${meta.label}</button>`;
+    }
+  }
+  html += '<button class="filter-btn filter-btn-sources" data-cat="sources">Sources</button>';
+  bar.innerHTML = html;
+
+  bar.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      bar.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const cat = btn.dataset.cat;
+      if (cat === "sources") {
+        document.getElementById("timeline").style.display = "none";
+        document.getElementById("sources-panel").classList.add("active");
+      } else {
+        document.getElementById("timeline").style.display = "";
+        document.getElementById("sources-panel").classList.remove("active");
+        filterTimeline(cat);
+      }
+    });
+  });
+}
+
+function renderTimeline(events) {
+  const tl = document.getElementById("timeline");
+  // Sort newest first
+  const sorted = [...events].sort((a, b) => b.date.localeCompare(a.date));
+
+  tl.innerHTML = sorted.map((ev, i) => {
+    const cat = CATEGORIES[ev.category] || CATEGORIES.governance;
+    const amtDisplay = ev.amount_display || fmtMoney(ev.amount);
+    const statusHtml = ev.status
+      ? `<span class="status-badge status-${ev.status}">${ev.status}</span>`
+      : "";
+    const sourcesHtml = (ev.sources || [])
+      .map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`)
+      .join(" · ");
+
+    return `
+      <div class="tl-event" data-cat="${ev.category}">
+        <div class="tl-dot ${ev.category}"></div>
+        <div class="tl-card" data-idx="${i}">
+          <span class="tl-date">${fmtDate(ev.date)}</span>
+          <span class="tl-title">
+            <span class="tag ${cat.tag}">${cat.label}</span>
+            ${ev.title}${statusHtml}
+          </span>
+          <span class="tl-amount ${cat.amtClass}">${amtDisplay}</span>
+        </div>
+        <div class="tl-detail">
+          <div class="tl-detail-inner">
+            ${ev.detail || ""}
+            ${sourcesHtml ? `<div class="source-list">Sources: ${sourcesHtml}</div>` : ""}
+          </div>
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  tl.querySelectorAll(".tl-card").forEach(card => {
+    card.addEventListener("click", () => {
+      const wasOpen = card.classList.contains("open");
+      tl.querySelectorAll(".tl-card.open").forEach(c => c.classList.remove("open"));
+      if (!wasOpen) card.classList.add("open");
+    });
+  });
+}
+
+function filterTimeline(cat) {
+  document.querySelectorAll(".tl-event").forEach(el => {
+    if (cat === "all" || el.dataset.cat === cat) {
+      el.style.display = "";
+    } else {
+      el.style.display = "none";
+    }
+  });
+}
+
+// Seed data embedded so the page works offline / local preview.
+// On GitHub Pages the fetch below will update it with the latest collector data.
+const SEED_DATA = {"last_updated":"2026-03-29T00:00:00Z","summary":{"total_committed":19325000000,"total_transferred":1250000000,"congressional_votes":0,"reconstruction_need_low":53000000000,"reconstruction_need_high":70000000000,"member_countries":22,"declined_countries":16},"events":[{"id":"ev-001","date":"2025-09-29","title":"Trump announces 20-point Gaza peace plan","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Concept of Board of Peace introduced alongside Netanyahu. Sets framework for ceasefire and reconstruction.","sources":[{"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Board_of_Peace"}]},{"id":"ev-002","date":"2025-10-10","title":"Gaza ceasefire takes effect","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Peace plan signed by Israel and Hamas on Oct 9. Ceasefire begins Oct 10.","sources":[{"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Gaza_peace_plan"}]},{"id":"ev-003","date":"2025-11-17","title":"UN Security Council adopts Resolution 2803","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Passed 13-0 (Russia and China abstaining). Endorses BoP, authorizes International Stabilization Force, sets mandate through Dec 31, 2027.","sources":[{"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Board_of_Peace"}]},{"id":"ev-004","date":"2025-11-25","title":"World Bank establishes GRAD Fund","amount":null,"amount_display":null,"category":"fund_structure","status":"operational","detail":"Gaza Reconstruction and Development Fund created as Financial Intermediary Fund. World Bank serves as 'limited trustee' with no fiduciary responsibility after funds are transferred to BoP.","sources":[{"name":"Carnegie Endowment","url":"https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"},{"name":"World Bank","url":"https://www.worldbank.org/en/country/westbankandgaza/brief/financial-intermediary-fund-for-gaza-reconstruction-and-development"}]},{"id":"ev-005","date":"2026-01-16","title":"Executive Order 14375 signed","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Designates BoP as 'public international organization' under IOIA. Grants immunity from lawsuits, inviolable archives, tax exemptions. Legal scholars question statutory basis.","sources":[{"name":"Just Security","url":"https://www.justsecurity.org/131113/some-questions-about-trumps-executive-order-granting-privileges-and-immunities-to-the-board-of-peace/"}]},{"id":"ev-006","date":"2026-01-19","title":"France declines invitation \u2014 first rejection","amount":null,"amount_display":null,"category":"international","status":null,"detail":"France states charter 'goes beyond the framework of Gaza.' Trump retaliates with threats of 200% wine tariffs. Germany, Norway, Sweden, Slovenia, Ireland also decline in following days.","sources":[{"name":"Daily Sabah","url":"https://www.dailysabah.com/world/germany-norway-sweden-decline-trumps-board-of-peace/news"}]},{"id":"ev-007","date":"2026-01-22","title":"Charter signed at Davos by 20 countries","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Signed at World Economic Forum. Charter establishes $1B permanent seats, 3-year terms, Trump as lifetime chairman. Canada's invitation rescinded after PM Carney criticizes structure.","sources":[{"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Board_of_Peace"},{"name":"Time","url":"https://time.com/7357067/trump-gaza-board-of-peace-members-davos/"}]},{"id":"ev-008","date":"2026-02-19","title":"Trump pledges $10 billion (U.S. taxpayer)","amount":10000000000,"amount_display":"$10B","category":"us_taxpayer","status":"pledged","detail":"Announced at inaugural BoP meeting. No congressional approval requested, no funding source identified. White House referred to Trump's own remarks when asked for details.","sources":[{"name":"The Hill","url":"https://thehill.com/policy/international/5745297-trump-funding-board-of-peace/"},{"name":"PBS","url":"https://www.pbs.org/newshour/show/trump-says-u-s-will-give-10-billion-to-board-of-peace-promising-to-rebuild-gaza"}]},{"id":"ev-009","date":"2026-02-19","title":"UAE pledges $1.2B + $1.5B for 'New Rafah'","amount":2700000000,"amount_display":"$2.7B","category":"gulf_pledge","status":"pledged","detail":"Largest single national pledge. $1.2B described as additional to ~$3B already provided since Oct 2023. Separate $1.5B commitment for 'New Rafah' construction.","sources":[{"name":"UAE Embassy","url":"https://www.uae-embassy.org/news/uae-announces-additional-12-billion-support-gaza-during-board-of-peace-meeting-chaired-trump"}]},{"id":"ev-010","date":"2026-02-19","title":"Saudi Arabia pledges $1B (multi-year)","amount":1000000000,"amount_display":"$1B","category":"gulf_pledge","status":"pledged","detail":"Pledged 'over the next few years' \u2014 multi-year disbursement, not lump sum.","sources":[{"name":"Anadolu Agency","url":"https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"}]},{"id":"ev-011","date":"2026-02-19","title":"Qatar pledges $1B","amount":1000000000,"amount_display":"$1B","category":"gulf_pledge","status":"pledged","detail":"Pledged in full by PM Sheikh Mohammed bin Abdulrahman Al Thani at inaugural meeting.","sources":[{"name":"Anadolu Agency","url":"https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"}]},{"id":"ev-012","date":"2026-02-19","title":"Kuwait pledges $1B (multi-year)","amount":1000000000,"amount_display":"$1B","category":"gulf_pledge","status":"pledged","detail":"'Over the coming years' \u2014 multi-year commitment similar to Saudi Arabia.","sources":[{"name":"Anadolu Agency","url":"https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"}]},{"id":"ev-013","date":"2026-02-19","title":"5 additional countries in $7B total","amount":2800000000,"amount_display":"~$2.8B","category":"gulf_pledge","status":"pledged","detail":"Kazakhstan, Azerbaijan, Morocco, Bahrain, Uzbekistan included in $7B announcement but individual amounts undisclosed. Azerbaijan's presidential assistant publicly disputed inclusion.","sources":[{"name":"Anadolu Agency","url":"https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"},{"name":"Middle East Eye","url":"https://www.middleeasteye.net/news/board-peace-members-commit-7bn-gaza-relief-us-adding-further-10bn"}]},{"id":"ev-014","date":"2026-02-19","title":"JPMorgan in talks to bank for BoP","amount":null,"amount_display":null,"category":"fund_structure","status":null,"detail":"Negotiations for private account accessible by chairman and designates. Conflict of interest: Trump simultaneously has $5B personal lawsuit against JPMorgan and CEO Jamie Dimon.","sources":[{"name":"Carnegie Endowment","url":"https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"},{"name":"Financial Times (via Reuters)","url":"https://whtc.com/2026/02/19/jpmorgan-in-talks-to-bank-for-trumps-board-of-peace-ft-says/"}]},{"id":"ev-015","date":"2026-02-19","title":"Sen. Markey demands oversight answers","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Letter to Sec. Rubio calls BoP a 'blatant power grab.' Demands answers on legal authority, congressional role, conflicts of interest by March 6. No public response as of March 29.","sources":[{"name":"Sen. Markey","url":"https://www.markey.senate.gov/news/press-releases/markey-slams-trump-administrations-brazen-board-of-peace-power-grab"}]},{"id":"ev-016","date":"2026-02-19","title":"BoP opens separate operational account","amount":65000000,"amount_display":"$60\u201370M","category":"fund_structure","status":"operational","detail":"Operational bank account funded by regional actors, separate from the World Bank GRAD Fund. Initial budget for BoP administrative operations.","sources":[]},{"id":"ev-017","date":"2026-02-19","title":"UN OCHA $2B fundraising target announced","amount":2000000000,"amount_display":"$2B","category":"international","status":"target","detail":"Announced by Trump at inaugural meeting. OCHA would separately solicit from member states \u2014 this is a fundraising goal, not a direct pledge of existing funds.","sources":[{"name":"Time","url":"https://time.com/7379788/trump-gaza-board-of-peace-first-meeting-takeaways/"}]},{"id":"ev-018","date":"2026-02-20","title":"FIFA pledges $75M partnership","amount":75000000,"amount_display":"$75M","category":"international","status":"pledged","detail":"Four-phase plan: 50 mini-pitches, 5 full-size pitches, FIFA Academy, 20,000-seat stadium. Strategic partnership agreement signed with FIFA President Infantino.","sources":[{"name":"FIFA","url":"https://inside.fifa.com/media-releases/board-of-peace-strategic-partnership-recovery-peace-gaza"}]},{"id":"ev-019","date":"2026-03-16","title":"Carnegie publishes major fund structure analysis","amount":null,"amount_display":null,"category":"fund_structure","status":null,"detail":"'On Whose Account?' warns BoP 'will likely devolve into Trump\u2019s private enterprise' when UNSC mandate expires Dec 2027. Details World Bank limited trustee risks, JPMorgan conflicts, lack of safeguards.","sources":[{"name":"Carnegie Endowment","url":"https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"}]},{"id":"ev-020","date":"2026-03-26","title":"State Dept transfers $1.25B to BoP","amount":1250000000,"amount_display":"$1.25B","category":"us_taxpayer","status":"transferred","detail":"$1B from International Disaster Assistance, $200M from Peacekeeping Operations, $50M from International Organizations. Executed without congressional consultation during partial government shutdown.","sources":[{"name":"Semafor","url":"https://www.semafor.com/article/03/26/2026/state-department-sends-125b-in-foreign-aid-to-board-of-peace"},{"name":"The New Republic","url":"https://newrepublic.com/post/208237/trump-state-department-funding-board-peace"}]},{"id":"ev-021","date":"2026-03-26","title":"Sen. Cortez Masto introduces American Homes First Act","amount":null,"amount_display":null,"category":"governance","status":null,"detail":"Would redirect $1B from BoP to LIHEAP. LIHEAP served ~6M households in FY2024. Cortez Masto: 'no transparency about how it is investing its money.'","sources":[{"name":"Sen. Cortez Masto","url":"https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-proposes-bill-to-lower-costs-for-american-families/"}]}]};
+
+function loadData(data) {
+  const updated = new Date(data.last_updated);
+  const now = new Date();
+  const diffMs = now - updated;
+  const diffHrs = Math.floor(diffMs / 3600000);
+  const diffDays = Math.floor(diffMs / 86400000);
+
+  let agoStr;
+  if (diffHrs < 1) agoStr = "just now";
+  else if (diffHrs < 24) agoStr = diffHrs + "h ago";
+  else if (diffDays < 30) agoStr = diffDays + "d ago";
+  else agoStr = updated.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+
+  document.getElementById("last-updated").textContent = "Updated " + agoStr;
+  document.getElementById("event-count").textContent = data.events.length + " tracked events";
+
+  // Count financial transactions in last 7 days
+  const weekAgo = new Date(now);
+  weekAgo.setDate(weekAgo.getDate() - 7);
+  const recentCount = data.events.filter(e => {
+    const d = new Date(e.date + "T12:00:00");
+    return d >= weekAgo && e.amount;
+  }).length;
+
+  const sinceEl = document.getElementById("since-last");
+  if (recentCount > 0) {
+    sinceEl.textContent = recentCount + " transaction" + (recentCount === 1 ? "" : "s") + " this week";
+  } else {
+    sinceEl.textContent = "no new transactions this week";
+  }
+
+  renderStats(data.summary);
+  renderFilters(data.events);
+  renderTimeline(data.events);
+}
+
+async function init() {
+  // Render immediately from embedded seed data
+  loadData(SEED_DATA);
+
+  // Then try to fetch latest from data.json (works on GitHub Pages)
+  try {
+    const resp = await fetch("data.json?" + Date.now());
+    if (resp.ok) {
+      const text = await resp.text();
+      if (text.trim().startsWith("{")) {
+        const fresh = JSON.parse(text);
+        loadData(fresh);
+      }
+    }
+  } catch (e) {
+    // Seed data already rendered, no problem
+  }
+}
+
+init();
+</script>
+</body>
+</html>
