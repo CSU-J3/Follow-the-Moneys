@@ -112,8 +112,17 @@ def categorize(title: str, detail: str = "") -> str:
     return "uncategorized"
 
 
+# Google News RSS titles consistently end with " - Source Name" (1–5 words).
+# Strip that before hashing so the same article doesn't dedup as two events
+# depending on whether the source suffix happens to be present.
+_SOURCE_SUFFIX_RE = re.compile(r"\s+[-–—|]\s+\w+(?:\s+\w+){0,4}$")
+_NON_WORD_RE = re.compile(r"[^\w\s]")
+
+
 def _normalize_title(title: str) -> str:
-    return " ".join(title.lower().split())
+    title = _SOURCE_SUFFIX_RE.sub("", title)
+    title = _NON_WORD_RE.sub("", title.lower())
+    return " ".join(title.split())
 
 
 def event_hash(event: dict) -> str:
@@ -125,19 +134,46 @@ def event_hash(event: dict) -> str:
     return sha256(f"{title}|{date}|{amount_str}".encode("utf-8")).hexdigest()
 
 
+# Minimum normalized-title length before prefix-matching kicks in. Short
+# strings like "trump pledges" would over-match.
+_MIN_PREFIX_LEN = 20
+
+
 def dedup(new_events: list[dict], existing: list[dict]) -> list[dict]:
     """Return events from `new_events` not already present in `existing`.
 
-    Also dedupes within `new_events` itself (same query rotation can return the
-    same article twice).
+    Two-stage match:
+    1. Hash equality on normalized title + date + amount (fast common case).
+    2. Prefix match on normalized title, gated on identical date AND amount —
+       catches Google News headlines where one title is a clean extension of
+       another (e.g. with vs. without a trailing context phrase). The date/
+       amount gate keeps this from collapsing distinct same-day events that
+       share opening words (Saudi / Qatar / Kuwait $1B pledges all begin
+       with the country name, so they don't trigger).
+
+    Also dedupes within `new_events` itself.
     """
-    seen = {event_hash(e) for e in existing}
+    seen_hashes = {event_hash(e) for e in existing}
+    by_key: dict[tuple, list[str]] = {}
+    for e in existing:
+        norm = _normalize_title(e.get("title", ""))
+        if len(norm) >= _MIN_PREFIX_LEN:
+            by_key.setdefault((e.get("date"), e.get("amount")), []).append(norm)
+
     out: list[dict] = []
     for e in new_events:
         h = event_hash(e)
-        if h not in seen:
-            seen.add(h)
-            out.append(e)
+        if h in seen_hashes:
+            continue
+        norm = _normalize_title(e.get("title", ""))
+        key = (e.get("date"), e.get("amount"))
+        if len(norm) >= _MIN_PREFIX_LEN:
+            siblings = by_key.get(key, ())
+            if any(norm.startswith(o) or o.startswith(norm) for o in siblings):
+                continue
+            by_key.setdefault(key, []).append(norm)
+        seen_hashes.add(h)
+        out.append(e)
     return out
 
 

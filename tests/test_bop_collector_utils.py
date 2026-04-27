@@ -99,6 +99,23 @@ class TestEventHash:
         b = {"title": "Resolution adopted", "date": "2025-11-17", "amount": None}
         assert event_hash(a) == event_hash(b)
 
+    def test_strips_punctuation_and_dashes(self):
+        a = {"title": "U.S. State Dept: $1.25B sent to Board of Peace!",
+             "date": "2026-03-26", "amount": 1_250_000_000}
+        b = {"title": "US State Dept $1.25B sent to Board of Peace",
+             "date": "2026-03-26", "amount": 1_250_000_000}
+        assert event_hash(a) == event_hash(b)
+
+    def test_strips_google_news_source_suffix(self):
+        # Google News appends " - Source" to RSS titles. The same article
+        # shouldn't dedup as two separate events depending on whether the
+        # suffix happens to be present.
+        a = {"title": "State Department sends $1.25B to Board of Peace",
+             "date": "2026-03-26", "amount": 1_250_000_000}
+        b = {"title": "State Department sends $1.25B to Board of Peace - Semafor",
+             "date": "2026-03-26", "amount": 1_250_000_000}
+        assert event_hash(a) == event_hash(b)
+
 
 class TestDedup:
     def test_drops_already_existing(self):
@@ -115,11 +132,54 @@ class TestDedup:
         # The 5 Google News query rotations will frequently return the same
         # article, so dedup must collapse intra-batch duplicates too.
         incoming = [
-            {"title": "Same story", "date": "2026-03-01", "amount": 100},
-            {"title": "Same   STORY", "date": "2026-03-01", "amount": 100},
+            {"title": "Same story headline reporting on the news",
+             "date": "2026-03-01", "amount": 100},
+            {"title": "Same   STORY   headline reporting on the news",
+             "date": "2026-03-01", "amount": 100},
         ]
         result = dedup(incoming, [])
         assert len(result) == 1
+
+    def test_prefix_match_collapses_extended_title(self):
+        # Real Google News case: PBS published the same article with two
+        # title variants — one with a trailing context phrase, one without.
+        existing = [{
+            "title": "Trump says U.S. will give $10 billion to Board of Peace - PBS",
+            "date": "2026-02-19", "amount": 10_000_000_000,
+        }]
+        incoming = [{
+            "title": "Trump says U.S. will give $10 billion to Board of Peace promising to rebuild Gaza - PBS",
+            "date": "2026-02-19", "amount": 10_000_000_000,
+        }]
+        assert dedup(incoming, existing) == []
+
+    def test_prefix_match_requires_same_amount(self):
+        # Same prefix but different amounts → genuinely different events.
+        existing = [{"title": "BoP receives major contribution from donor",
+                     "date": "2026-02-19", "amount": 1_000_000_000}]
+        incoming = [{"title": "BoP receives major contribution from donor today",
+                     "date": "2026-02-19", "amount": 2_000_000_000}]
+        assert len(dedup(incoming, existing)) == 1
+
+    def test_prefix_match_requires_same_date(self):
+        existing = [{"title": "Board of Peace receives major pledge from donor",
+                     "date": "2026-02-19", "amount": 1_000_000_000}]
+        incoming = [{"title": "Board of Peace receives major pledge from donor at meeting",
+                     "date": "2026-03-01", "amount": 1_000_000_000}]
+        assert len(dedup(incoming, existing)) == 1
+
+    def test_prefix_match_safe_for_distinct_same_day_same_amount_events(self):
+        # The Saudi / Qatar / Kuwait $1B pledges all share date and amount
+        # but have distinct opening words — must not collapse.
+        incoming = [
+            {"title": "Saudi Arabia pledges $1B to Board of Peace",
+             "date": "2026-02-19", "amount": 1_000_000_000},
+            {"title": "Qatar pledges $1B to Board of Peace at meeting",
+             "date": "2026-02-19", "amount": 1_000_000_000},
+            {"title": "Kuwait pledges $1B to Board of Peace multi-year",
+             "date": "2026-02-19", "amount": 1_000_000_000},
+        ]
+        assert len(dedup(incoming, [])) == 3
 
 
 class TestIsTrusted:

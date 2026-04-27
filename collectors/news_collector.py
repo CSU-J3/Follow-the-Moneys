@@ -7,6 +7,15 @@ Returns event dicts with the data shape from CLAUDE.md. Items without a
 parseable dollar amount are dropped — the tracker tracks money, and a
 no-amount BoP article is noise the manual review queue shouldn't have to
 filter out by hand.
+
+Known limitation — Phase 4 paragraph parsing:
+  parse_amount() reads only headline + RSS summary. An article that
+  mentions "Board of Peace" alongside an unrelated dollar figure (e.g. a
+  Trump-admin policy roundup that lists both BoP and a separate $625M
+  coal-mining allocation) will produce a spurious event. The fix is to
+  fetch the article body and require paragraph-level co-occurrence of
+  "Board of Peace" and the dollar figure before promoting an item. Tracked
+  for Phase 4 once the direct-source collectors land.
 """
 
 from __future__ import annotations
