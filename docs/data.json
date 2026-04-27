@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-27T20:46:07+00:00",
+  "last_updated": "2026-04-27T20:57:59+00:00",
   "summary": {
     "congressional_votes": 0,
     "reconstruction_need_low": 53000000000,
     "reconstruction_need_high": 70000000000,
     "member_countries": 22,
     "declined_countries": 16,
-    "total_committed": 21890000000,
+    "total_committed": 40140000000,
     "total_transferred": 1250000000
   },
   "events": [
@@ -364,6 +364,96 @@
           "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-proposes-bill-to-lower-costs-for-american-families/"
         }
       ]
+    },
+    {
+      "id": "ev-022",
+      "date": "2026-02-19",
+      "title": "Trump says U.S. will give $10 billion to Board of Peace promising to rebuild Gaza - PBS",
+      "amount": 10000000000,
+      "amount_display": "$10B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUVHUzNIdzBVWXVFSDMzbjF0V194cmhHck1BV05SdFhjTlJacHpmNjRWUmlta1NzNklEN1ZvRk9xaVl5MEdPb2xFYVZEVlN6TmNKME9CRExmNjFuYzVKa1J4cVlkY05HUlNkdmJnSC16SmV4M1AyQXp4SC1ub0dMQlJmdFZYdnAwVzBNcUgyYW9JLUhsajh4WFc2SkwtRDdwQ2F1Vk1mRXRnVGdSaTV6SllDWQ?oc=5\" target=\"_blank\">Trump says U.S. will give $10 billion to Board of Peace promising to rebuild Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUVHUzNIdzBVWXVFSDMzbjF0V194cmhHck1BV05SdFhjTlJacHpmNjRWUmlta1NzNklEN1ZvRk9xaVl5MEdPb2xFYVZEVlN6TmNKME9CRExmNjFuYzVKa1J4cVlkY05HUlNkdmJnSC16SmV4M1AyQXp4SC1ub0dMQlJmdFZYdnAwVzBNcUgyYW9JLUhsajh4WFc2SkwtRDdwQ2F1Vk1mRXRnVGdSaTV6SllDWQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" pledge"
+    },
+    {
+      "id": "ev-023",
+      "date": "2026-02-16",
+      "title": "Board of Peace members have pledged more than $5 billion for Gaza, Trump says - Reuters",
+      "amount": 5000000000,
+      "amount_display": "$5B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOalQ2YlFiNmxlcDlDaWJyTVpzRXlGTHZjdjRsNDlRLXlzUkZ0N09DY2FINnNLQW54eXducy1feVB3YjR0QWpzb3FxT29YOFJyNXZWVFR2XzNyaTZGYUVQdEJiYVkwQjJ5cWNjTXFFcmdHTy1fSDhmal85Qk5TZzZjUnMyUjJNNUtwWUh3Y2ZYYUpGTmdUSUlPUFp6a0l2d1Y1N2htZGd3QmtMUXI3aFNUS3AyTjloZG05RHU3a0J3WQ?oc=5\" target=\"_blank\">Board of Peace members have pledged more than $5 billion for Gaza, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalQ2YlFiNmxlcDlDaWJyTVpzRXlGTHZjdjRsNDlRLXlzUkZ0N09DY2FINnNLQW54eXducy1feVB3YjR0QWpzb3FxT29YOFJyNXZWVFR2XzNyaTZGYUVQdEJiYVkwQjJ5cWNjTXFFcmdHTy1fSDhmal85Qk5TZzZjUnMyUjJNNUtwWUh3Y2ZYYUpGTmdUSUlPUFp6a0l2d1Y1N2htZGd3QmtMUXI3aFNUS3AyTjloZG05RHU3a0J3WQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" pledge"
+    },
+    {
+      "id": "ev-024",
+      "date": "2026-03-26",
+      "title": "Exclusive / State Department sends $1.25B from other programs to Board of Peace - Semafor",
+      "amount": 1250000000,
+      "amount_display": "$1.25B",
+      "category": "us_taxpayer",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0pRR04zZC1rcmNIWThGUkV3cFhwTXZaaFlGNW5CcE9zYmpheXpGYWhzdDY4c2lUVVc0UXJfVkI0bUVGaGN4YkxxbkFBZ1RyMERjSEFTR1lweFVyb2xtRFZ4TWZkNE9PY2ZXZ0huXzY0X3hZTWdFR2t4anlrcGRYSk1Mb19FcW5JVmFTMkZZV19hMlc0RTdkN3E5dVhNb0gtdWl4UTNn?oc=5\" target=\"_blank\">Exclusive / State Department sends $1.25B from other programs to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
+      "sources": [
+        {
+          "name": "Semafor",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0pRR04zZC1rcmNIWThGUkV3cFhwTXZaaFlGNW5CcE9zYmpheXpGYWhzdDY4c2lUVVc0UXJfVkI0bUVGaGN4YkxxbkFBZ1RyMERjSEFTR1lweFVyb2xtRFZ4TWZkNE9PY2ZXZ0huXzY0X3hZTWdFR2t4anlrcGRYSk1Mb19FcW5JVmFTMkZZV19hMlc0RTdkN3E5dVhNb0gtdWl4UTNn?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" transfer"
+    },
+    {
+      "id": "ev-025",
+      "date": "2026-01-19",
+      "title": "$1 billion contribution secures permanent seat on Trump's 'Board of Peace' - PBS",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHJHbHNzaFh2VzVrcW9lSWp4NFVwZ1EwMjVYdTlnejFoTXFsZ21qdjRSOWNmVXdKcUNfWVpSTU9kRVFaOHZCaVlZYkhGVzBWd3Rpa1hzNUhORTZZTEx0d3RGYWdRN1RjbXNnX1I3Z2pKS1Q5OWlZcy1FWHE0UHZpY1NQVUxsbVRvTEFLT0VVNDdhcnpsck1lemRmaE5MNHo1NmM5LVZQU0fSAa4BQVVfeXFMTTFPWVJBTWdjalF2RHZtWFlFeFJJSGRwV1c5RjJ0bDN5U3NvRVdGUEVTczZkSmtMbXBMcU5OZlFmLXQ3bk5YQVV2OGdmRzB2S3hNUi1Yc3FGWFFJR1k5aDlMWElTdVRjV0FTUnNKQVl0NFduSnlRQURSYU9jRUFLYTJfT2lQVFI0VXEtVXN4TEVjZnB6ZktQZlRyYjBNdUo1Tmt1WGRJSHJQemhCdF9B?oc=5\" target=\"_blank\">$1 billion contribution secures permanent seat on Trump's 'Board of Peace'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHJHbHNzaFh2VzVrcW9lSWp4NFVwZ1EwMjVYdTlnejFoTXFsZ21qdjRSOWNmVXdKcUNfWVpSTU9kRVFaOHZCaVlZYkhGVzBWd3Rpa1hzNUhORTZZTEx0d3RGYWdRN1RjbXNnX1I3Z2pKS1Q5OWlZcy1FWHE0UHZpY1NQVUxsbVRvTEFLT0VVNDdhcnpsck1lemRmaE5MNHo1NmM5LVZQU0fSAa4BQVVfeXFMTTFPWVJBTWdjalF2RHZtWFlFeFJJSGRwV1c5RjJ0bDN5U3NvRVdGUEVTczZkSmtMbXBMcU5OZlFmLXQ3bk5YQVV2OGdmRzB2S3hNUi1Yc3FGWFFJR1k5aDlMWElTdVRjV0FTUnNKQVl0NFduSnlRQURSYU9jRUFLYTJfT2lQVFI0VXEtVXN4TEVjZnB6ZktQZlRyYjBNdUo1Tmt1WGRJSHJQemhCdF9B?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" transfer"
+    },
+    {
+      "id": "ev-026",
+      "date": "2026-01-18",
+      "title": "Trump's Gaza peace board charter seeks $1 billion for extended membership, document shows - Reuters",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "governance",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnU4aDRhV2hPb2N4TlJGY2NzcGFBZWxZNExLS1hIQ1E4bjhzVTNvSmFjZV8xUnY2MVBOQ2pUdEIta0o4TWZVNkk1Vk1GbnFicG82dDdGQlZ4NUNzR2FNY2FoUG14RUY4LXlPWTlkLW9iZTNOQ0YxaTJ1QTAtYVJFQ2dNRGdhSGRfd21lQVVpZGRoQXk1RDgwZzhSNG9KT0tfR0lTZUt0WXJDcG0yNGsxaHhja3psUHROQ3pZc1VFMWJjdjh3Ui1iVEpB?oc=5\" target=\"_blank\">Trump's Gaza peace board charter seeks $1 billion for extended membership, document shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnU4aDRhV2hPb2N4TlJGY2NzcGFBZWxZNExLS1hIQ1E4bjhzVTNvSmFjZV8xUnY2MVBOQ2pUdEIta0o4TWZVNkk1Vk1GbnFicG82dDdGQlZ4NUNzR2FNY2FoUG14RUY4LXlPWTlkLW9iZTNOQ0YxaTJ1QTAtYVJFQ2dNRGdhSGRfd21lQVVpZGRoQXk1RDgwZzhSNG9KT0tfR0lTZUt0WXJDcG0yNGsxaHhja3psUHROQ3pZc1VFMWJjdjh3Ui1iVEpB?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }

@@ -1,1 +1,9 @@
-{}
+{
+  "news": {
+    "started": "2026-04-27T20:57:57+00:00",
+    "ok": true,
+    "raw_count": 150,
+    "added_to_finances": 5,
+    "added_to_candidates": 76
+  }
+}
