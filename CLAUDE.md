@@ -29,7 +29,7 @@ Follow-the-Moneys/
 ├── README.md
 ├── CLAUDE.md
 ├── requirements.txt
-├── site/
+├── docs/                   # GitHub Pages serves from this directory
 │   ├── index.html          # Existing landing page; fetches data.json on load
 │   └── data.json           # Auto-generated copy of bop_finances.json
 ├── data/
@@ -50,9 +50,9 @@ Follow-the-Moneys/
 
 Build in order. Ship after Phase 1 (narrow but working) and again after Phase 3 (real automation, the credible "ship" point for portfolio publishing).
 
-1. **Phase 0 — Scaffolding.** Directory structure, move `index.html` into `site/`, empty `requirements.txt`.
+1. **Phase 0 — Scaffolding.** Directory structure, move `index.html` into `docs/` (GitHub Pages source), empty `requirements.txt`.
 2. **Phase 1 — Data layer + one collector.** Extract the 21 hardcoded events into `bop_finances.json`. Build `bop_collector_utils.py` (amount extraction, categorization, dedup) and `news_collector.py` (Google News RSS). Wire up `run_all.py`. Goal: running locally produces new entries in `candidates.json`.
-3. **Phase 2 — Static site wiring.** `index.html` fetches `site/data.json`; `run_all.py` writes that file as the last step.
+3. **Phase 2 — Static site wiring.** `index.html` fetches `docs/data.json`; `run_all.py` writes that file as the last step.
 4. **Phase 3 — GitHub Actions.** `collect-and-deploy.yml` with 6-hour cron, manual trigger, `contents: write` permission. Commits use `[skip ci]` to prevent loops. **First credible ship point.**
 5. **Phase 4 — Wikipedia + direct source collectors.** MediaWiki API for revision diffs. Content-hash monitoring for Carnegie, Semafor, Senate.gov, World Bank GRAD Fund.
 6. **Phase 5 — Candidates review system.** A way to review and promote pending events. Lightweight v1: a `review.html` that generates copy-paste JSON for a PR. Out of scope for now: a full Flask/FastAPI review app.
@@ -100,7 +100,7 @@ Everything else goes to `candidates.json` for manual review.
 - **Fail gracefully.** One source going down should never break the full run. Each collector wraps its work in try/except and logs to `last_run.json`.
 - **Idempotent.** Running the orchestrator twice in a row should not create duplicates. Dedup is keyed on a hash of normalized title + date + amount.
 - **No editorial filtering in code.** Trust/distrust is at the source level (which sources auto-promote vs. queue). Do not filter individual events based on content.
-- **Don't touch `site/index.html`'s visual design.** The existing landing page is intentionally polished. Add data-fetching JS, but don't rewrite the CSS, change colors, or restructure the layout.
+- **Don't touch `docs/index.html`'s visual design.** The existing landing page is intentionally polished. Add data-fetching JS, but don't rewrite the CSS, change colors, or restructure the layout.
 
 ## House style for code
 

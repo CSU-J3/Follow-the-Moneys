@@ -43,7 +43,7 @@ Trusted sources (Reuters, AP, PBS, NPR, Semafor, Carnegie, Senate.gov, World Ban
 
 ```
 bop-tracker/
-├── site/
+├── docs/                    # GitHub Pages serves from this directory
 │   ├── index.html          # Tracker (seed data embedded, fetches data.json for updates)
 │   └── data.json            # Auto-updated by collectors
 ├── data/
