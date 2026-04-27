@@ -1,0 +1,5 @@
+# Runtime
+feedparser>=6.0,<7.0
+
+# Dev / test
+pytest>=8.0

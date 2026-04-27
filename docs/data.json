@@ -1,0 +1,369 @@
+{
+  "last_updated": "2026-04-27T20:29:09+00:00",
+  "summary": {
+    "congressional_votes": 0,
+    "reconstruction_need_low": 53000000000,
+    "reconstruction_need_high": 70000000000,
+    "member_countries": 22,
+    "declined_countries": 16,
+    "total_committed": 21890000000,
+    "total_transferred": 1250000000
+  },
+  "events": [
+    {
+      "id": "ev-001",
+      "date": "2025-09-29",
+      "title": "Trump announces 20-point Gaza peace plan",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Concept of Board of Peace introduced alongside Netanyahu. Sets framework for ceasefire and reconstruction.",
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Board_of_Peace"
+        }
+      ]
+    },
+    {
+      "id": "ev-002",
+      "date": "2025-10-10",
+      "title": "Gaza ceasefire takes effect",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Peace plan signed by Israel and Hamas on Oct 9. Ceasefire begins Oct 10.",
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gaza_peace_plan"
+        }
+      ]
+    },
+    {
+      "id": "ev-003",
+      "date": "2025-11-17",
+      "title": "UN Security Council adopts Resolution 2803",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Passed 13-0 (Russia and China abstaining). Endorses BoP, authorizes International Stabilization Force, sets mandate through Dec 31, 2027.",
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Board_of_Peace"
+        }
+      ]
+    },
+    {
+      "id": "ev-004",
+      "date": "2025-11-25",
+      "title": "World Bank establishes GRAD Fund",
+      "amount": null,
+      "amount_display": null,
+      "category": "fund_structure",
+      "status": "operational",
+      "detail": "Gaza Reconstruction and Development Fund created as Financial Intermediary Fund. World Bank serves as 'limited trustee' with no fiduciary responsibility after funds are transferred to BoP.",
+      "sources": [
+        {
+          "name": "Carnegie Endowment",
+          "url": "https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"
+        },
+        {
+          "name": "World Bank",
+          "url": "https://www.worldbank.org/en/country/westbankandgaza/brief/financial-intermediary-fund-for-gaza-reconstruction-and-development"
+        }
+      ]
+    },
+    {
+      "id": "ev-005",
+      "date": "2026-01-16",
+      "title": "Executive Order 14375 signed",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Designates BoP as 'public international organization' under IOIA. Grants immunity from lawsuits, inviolable archives, tax exemptions. Legal scholars question statutory basis.",
+      "sources": [
+        {
+          "name": "Just Security",
+          "url": "https://www.justsecurity.org/131113/some-questions-about-trumps-executive-order-granting-privileges-and-immunities-to-the-board-of-peace/"
+        }
+      ]
+    },
+    {
+      "id": "ev-006",
+      "date": "2026-01-19",
+      "title": "France declines invitation — first rejection",
+      "amount": null,
+      "amount_display": null,
+      "category": "international",
+      "status": null,
+      "detail": "France states charter 'goes beyond the framework of Gaza.' Trump retaliates with threats of 200% wine tariffs. Germany, Norway, Sweden, Slovenia, Ireland also decline in following days.",
+      "sources": [
+        {
+          "name": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/germany-norway-sweden-decline-trumps-board-of-peace/news"
+        }
+      ]
+    },
+    {
+      "id": "ev-007",
+      "date": "2026-01-22",
+      "title": "Charter signed at Davos by 20 countries",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Signed at World Economic Forum. Charter establishes $1B permanent seats, 3-year terms, Trump as lifetime chairman. Canada's invitation rescinded after PM Carney criticizes structure.",
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Board_of_Peace"
+        },
+        {
+          "name": "Time",
+          "url": "https://time.com/7357067/trump-gaza-board-of-peace-members-davos/"
+        }
+      ]
+    },
+    {
+      "id": "ev-008",
+      "date": "2026-02-19",
+      "title": "Trump pledges $10 billion (U.S. taxpayer)",
+      "amount": 10000000000,
+      "amount_display": "$10B",
+      "category": "us_taxpayer",
+      "status": "pledged",
+      "detail": "Announced at inaugural BoP meeting. No congressional approval requested, no funding source identified. White House referred to Trump's own remarks when asked for details.",
+      "sources": [
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/policy/international/5745297-trump-funding-board-of-peace/"
+        },
+        {
+          "name": "PBS",
+          "url": "https://www.pbs.org/newshour/show/trump-says-u-s-will-give-10-billion-to-board-of-peace-promising-to-rebuild-gaza"
+        }
+      ]
+    },
+    {
+      "id": "ev-009",
+      "date": "2026-02-19",
+      "title": "UAE pledges $1.2B + $1.5B for 'New Rafah'",
+      "amount": 2700000000,
+      "amount_display": "$2.7B",
+      "category": "gulf_pledge",
+      "status": "pledged",
+      "detail": "Largest single national pledge. $1.2B described as additional to ~$3B already provided since Oct 2023. Separate $1.5B commitment for 'New Rafah' construction.",
+      "sources": [
+        {
+          "name": "UAE Embassy",
+          "url": "https://www.uae-embassy.org/news/uae-announces-additional-12-billion-support-gaza-during-board-of-peace-meeting-chaired-trump"
+        }
+      ]
+    },
+    {
+      "id": "ev-010",
+      "date": "2026-02-19",
+      "title": "Saudi Arabia pledges $1B (multi-year)",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "gulf_pledge",
+      "status": "pledged",
+      "detail": "Pledged 'over the next few years' — multi-year disbursement, not lump sum.",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"
+        }
+      ]
+    },
+    {
+      "id": "ev-011",
+      "date": "2026-02-19",
+      "title": "Qatar pledges $1B",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "gulf_pledge",
+      "status": "pledged",
+      "detail": "Pledged in full by PM Sheikh Mohammed bin Abdulrahman Al Thani at inaugural meeting.",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"
+        }
+      ]
+    },
+    {
+      "id": "ev-012",
+      "date": "2026-02-19",
+      "title": "Kuwait pledges $1B (multi-year)",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "gulf_pledge",
+      "status": "pledged",
+      "detail": "'Over the coming years' — multi-year commitment similar to Saudi Arabia.",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"
+        }
+      ]
+    },
+    {
+      "id": "ev-013",
+      "date": "2026-02-19",
+      "title": "5 additional countries in $7B total",
+      "amount": 2800000000,
+      "amount_display": "~$2.8B",
+      "category": "gulf_pledge",
+      "status": "pledged",
+      "detail": "Kazakhstan, Azerbaijan, Morocco, Bahrain, Uzbekistan included in $7B announcement but individual amounts undisclosed. Azerbaijan's presidential assistant publicly disputed inclusion.",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/gulf-countries-pledge-over-4b-to-trump-s-board-of-peace/3835081"
+        },
+        {
+          "name": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/board-peace-members-commit-7bn-gaza-relief-us-adding-further-10bn"
+        }
+      ]
+    },
+    {
+      "id": "ev-014",
+      "date": "2026-02-19",
+      "title": "JPMorgan in talks to bank for BoP",
+      "amount": null,
+      "amount_display": null,
+      "category": "fund_structure",
+      "status": null,
+      "detail": "Negotiations for private account accessible by chairman and designates. Conflict of interest: Trump simultaneously has $5B personal lawsuit against JPMorgan and CEO Jamie Dimon.",
+      "sources": [
+        {
+          "name": "Carnegie Endowment",
+          "url": "https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"
+        },
+        {
+          "name": "Financial Times (via Reuters)",
+          "url": "https://whtc.com/2026/02/19/jpmorgan-in-talks-to-bank-for-trumps-board-of-peace-ft-says/"
+        }
+      ]
+    },
+    {
+      "id": "ev-015",
+      "date": "2026-02-19",
+      "title": "Sen. Markey demands oversight answers",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Letter to Sec. Rubio calls BoP a 'blatant power grab.' Demands answers on legal authority, congressional role, conflicts of interest by March 6. No public response as of March 29.",
+      "sources": [
+        {
+          "name": "Sen. Markey",
+          "url": "https://www.markey.senate.gov/news/press-releases/markey-slams-trump-administrations-brazen-board-of-peace-power-grab"
+        }
+      ]
+    },
+    {
+      "id": "ev-016",
+      "date": "2026-02-19",
+      "title": "BoP opens separate operational account",
+      "amount": 65000000,
+      "amount_display": "$60–70M",
+      "category": "fund_structure",
+      "status": "operational",
+      "detail": "Operational bank account funded by regional actors, separate from the World Bank GRAD Fund. Initial budget for BoP administrative operations.",
+      "sources": []
+    },
+    {
+      "id": "ev-017",
+      "date": "2026-02-19",
+      "title": "UN OCHA $2B fundraising target announced",
+      "amount": 2000000000,
+      "amount_display": "$2B",
+      "category": "international",
+      "status": "target",
+      "detail": "Announced by Trump at inaugural meeting. OCHA would separately solicit from member states — this is a fundraising goal, not a direct pledge of existing funds.",
+      "sources": [
+        {
+          "name": "Time",
+          "url": "https://time.com/7379788/trump-gaza-board-of-peace-first-meeting-takeaways/"
+        }
+      ]
+    },
+    {
+      "id": "ev-018",
+      "date": "2026-02-20",
+      "title": "FIFA pledges $75M partnership",
+      "amount": 75000000,
+      "amount_display": "$75M",
+      "category": "international",
+      "status": "pledged",
+      "detail": "Four-phase plan: 50 mini-pitches, 5 full-size pitches, FIFA Academy, 20,000-seat stadium. Strategic partnership agreement signed with FIFA President Infantino.",
+      "sources": [
+        {
+          "name": "FIFA",
+          "url": "https://inside.fifa.com/media-releases/board-of-peace-strategic-partnership-recovery-peace-gaza"
+        }
+      ]
+    },
+    {
+      "id": "ev-019",
+      "date": "2026-03-16",
+      "title": "Carnegie publishes major fund structure analysis",
+      "amount": null,
+      "amount_display": null,
+      "category": "fund_structure",
+      "status": null,
+      "detail": "'On Whose Account?' warns BoP 'will likely devolve into Trump’s private enterprise' when UNSC mandate expires Dec 2027. Details World Bank limited trustee risks, JPMorgan conflicts, lack of safeguards.",
+      "sources": [
+        {
+          "name": "Carnegie Endowment",
+          "url": "https://carnegieendowment.org/russia-eurasia/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"
+        }
+      ]
+    },
+    {
+      "id": "ev-020",
+      "date": "2026-03-26",
+      "title": "State Dept transfers $1.25B to BoP",
+      "amount": 1250000000,
+      "amount_display": "$1.25B",
+      "category": "us_taxpayer",
+      "status": "transferred",
+      "detail": "$1B from International Disaster Assistance, $200M from Peacekeeping Operations, $50M from International Organizations. Executed without congressional consultation during partial government shutdown.",
+      "sources": [
+        {
+          "name": "Semafor",
+          "url": "https://www.semafor.com/article/03/26/2026/state-department-sends-125b-in-foreign-aid-to-board-of-peace"
+        },
+        {
+          "name": "The New Republic",
+          "url": "https://newrepublic.com/post/208237/trump-state-department-funding-board-peace"
+        }
+      ]
+    },
+    {
+      "id": "ev-021",
+      "date": "2026-03-26",
+      "title": "Sen. Cortez Masto introduces American Homes First Act",
+      "amount": null,
+      "amount_display": null,
+      "category": "governance",
+      "status": null,
+      "detail": "Would redirect $1B from BoP to LIHEAP. LIHEAP served ~6M households in FY2024. Cortez Masto: 'no transparency about how it is investing its money.'",
+      "sources": [
+        {
+          "name": "Sen. Cortez Masto",
+          "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-proposes-bill-to-lower-costs-for-american-families/"
+        }
+      ]
+    }
+  ]
+}
