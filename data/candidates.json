@@ -1600,5 +1600,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-116",
+    "date": "2026-01-20",
+    "title": "Trump could potentially chair Board of Peace for life; $1 billion contributions are voluntary: US official - ABC News - Breaking News, Latest News and Videos",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVNvZFRtMVBQcy1lc2dzSGZmZW8tZ3BITldaWUlDX2ZBUWtlbldNcTl6MWFlRHJCRDI2YjdTMjZjcTk0dHpaaDVUZXl3ckVSZjk5Yk4wVHJhR29fWDN5Mzgzb2trY0xHSV80U0xSTlFRbFdWOW5IQjNjQ3BVRjJ6X1NsT1JFeHR6aUpRMHYxY0NHTkNPUGlCWkN6R0tmS3NXeEJPMzNn0gGrAUFVX3lxTFBIcnJSR3VMaWp4WHF0TXk1M0ozXzdHQkRxdjc4Z29XSjNpb3NYQ0ZQazRuMW16VFo3ZGNibGhSYThFeE5hOTNtRzRIdlVxeUVnZm5OTklTY1ZNa0ZpbFgzbFAtLUlaeDU2Vld0RF9OSi1iUjg5SFRNWWNVOXlzUkV5cl9JWEY0dWRfZ0dJZmlXOWc1Y1RaejhwNTdnSVFHYXZ5bF92Vm9iTTRkYw?oc=5\" target=\"_blank\">Trump could potentially chair Board of Peace for life; $1 billion contributions are voluntary: US official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+    "sources": [
+      {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVNvZFRtMVBQcy1lc2dzSGZmZW8tZ3BITldaWUlDX2ZBUWtlbldNcTl6MWFlRHJCRDI2YjdTMjZjcTk0dHpaaDVUZXl3ckVSZjk5Yk4wVHJhR29fWDN5Mzgzb2trY0xHSV80U0xSTlFRbFdWOW5IQjNjQ3BVRjJ6X1NsT1JFeHR6aUpRMHYxY0NHTkNPUGlCWkN6R0tmS3NXeEJPMzNn0gGrAUFVX3lxTFBIcnJSR3VMaWp4WHF0TXk1M0ozXzdHQkRxdjc4Z29XSjNpb3NYQ0ZQazRuMW16VFo3ZGNibGhSYThFeE5hOTNtRzRIdlVxeUVnZm5OTklTY1ZNa0ZpbFgzbFAtLUlaeDU2Vld0RF9OSi1iUjg5SFRNWWNVOXlzUkV5cl9JWEY0dWRfZ0dJZmlXOWc1Y1RaejhwNTdnSVFHYXZ5bF92Vm9iTTRkYw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
