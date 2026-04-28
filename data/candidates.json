@@ -1456,5 +1456,77 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-108",
+    "date": "2026-02-19",
+    "title": "Trump gathers members of Board of Peace for first meeting, 9 members agree to pledge $7B toward Gaza relief package - The Sumter Item",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPczFVRTV0amJDYVAyRkhrRVAwQ0JmQjNWdlJXd0lzRXQ3LUpNVjFQMWxSU1ZMSWJRSVU5d1hVYWRGeExtS3JpYmkwQUg4R2tlTkw1Rms1a0xKX3VZMmU2eUE0cGxoMFFoVFV4Ml9VMkUyUW1BLWhoMENYNDR6S2ZTWjJDM3gxNE9SWmE4VEtQb2dFTUFEY3c?oc=5\" target=\"_blank\">Trump gathers members of Board of Peace for first meeting, 9 members agree to pledge $7B toward Gaza relief package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sumter Item</font>",
+    "sources": [
+      {
+        "name": "The Sumter Item",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczFVRTV0amJDYVAyRkhrRVAwQ0JmQjNWdlJXd0lzRXQ3LUpNVjFQMWxSU1ZMSWJRSVU5d1hVYWRGeExtS3JpYmkwQUg4R2tlTkw1Rms1a0xKX3VZMmU2eUE0cGxoMFFoVFV4Ml9VMkUyUW1BLWhoMENYNDR6S2ZTWjJDM3gxNE9SWmE4VEtQb2dFTUFEY3c?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-109",
+    "date": "2026-02-19",
+    "title": "Trump announces $10 billion U.S. contribution to Board of Peace - fox8live.com",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHRjc1FUVkd4VW9LQlpwYTJMSzFYQml0eVJ5aVpJTWdaYzRuTEJ6Um1GV3Rrd19hVzJURVAtTDRPYmVqWFRYQTF3LTdGT3dQMHNRR1dSMENPaERqRHh2cEZBTVVQU1FrVnRrM0F3aGoyREhkSHNyb0Q1emVuU0luTkdxbGV4dGloS3o1SmczenBySEYwa2fSAaoBQVVfeXFMTzhEVjhCMEdhZXVnUllNZm5mR3k1QmZHTU52amU4UVYwTGhRYWNqREkxNnhnV1dBUEg3Z0F1WmtWX3FGbzYtcldTMVJTTENXMllEZTh5WjYtbXpxbENEQ0ktWGM5Rm9hd1Z1a1c1bE1WMWlmZFhHV1gyeVhrNUFfdGZLVUtleWlWd2owd1VHVFd3bDdHU0RhRGhsTGI1M3FfVVdXb2I4SlJRUUE?oc=5\" target=\"_blank\">Trump announces $10 billion U.S. contribution to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox8live.com</font>",
+    "sources": [
+      {
+        "name": "fox8live.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHRjc1FUVkd4VW9LQlpwYTJMSzFYQml0eVJ5aVpJTWdaYzRuTEJ6Um1GV3Rrd19hVzJURVAtTDRPYmVqWFRYQTF3LTdGT3dQMHNRR1dSMENPaERqRHh2cEZBTVVQU1FrVnRrM0F3aGoyREhkSHNyb0Q1emVuU0luTkdxbGV4dGloS3o1SmczenBySEYwa2fSAaoBQVVfeXFMTzhEVjhCMEdhZXVnUllNZm5mR3k1QmZHTU52amU4UVYwTGhRYWNqREkxNnhnV1dBUEg3Z0F1WmtWX3FGbzYtcldTMVJTTENXMllEZTh5WjYtbXpxbENEQ0ktWGM5Rm9hd1Z1a1c1bE1WMWlmZFhHV1gyeVhrNUFfdGZLVUtleWlWd2owd1VHVFd3bDdHU0RhRGhsTGI1M3FfVVdXb2I4SlJRUUE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-110",
+    "date": "2026-02-19",
+    "title": "Trump’s U.S. pledge of $10B to new Board of Peace fuels funding source questions - oann.com",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHlHclIwR3ktNWVmWVBHTTVkeko4ZUU4dndwMWdrLU5SWTk0bGZhbXp5eC1wa3h6WUh4R0tpSFlydXZKclBKQ1V6WlhXalNaeGRSaDRJY3VRYnhpUnI5TENtejlJcmNkY2VNbnpBaXNCc01UTmEyWDc3Q1VuOVotcnB0NEFTa1ZuSDlYYTkxWVZDZy1KcUhmdXV0V2ZQY1FFTjFjLXpSTElxRnJZ?oc=5\" target=\"_blank\">Trump’s U.S. pledge of $10B to new Board of Peace fuels funding source questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">oann.com</font>",
+    "sources": [
+      {
+        "name": "oann.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHlHclIwR3ktNWVmWVBHTTVkeko4ZUU4dndwMWdrLU5SWTk0bGZhbXp5eC1wa3h6WUh4R0tpSFlydXZKclBKQ1V6WlhXalNaeGRSaDRJY3VRYnhpUnI5TENtejlJcmNkY2VNbnpBaXNCc01UTmEyWDc3Q1VuOVotcnB0NEFTa1ZuSDlYYTkxWVZDZy1KcUhmdXV0V2ZQY1FFTjFjLXpSTElxRnJZ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-111",
+    "date": "2026-01-18",
+    "title": "$1 billion gets a permanent seat on Trump's Board of Peace for Gaza, as India and others invited - AP News",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPR25mWUh1NlFLblV1aXBuZHVQWXZFR0VmY1RCVmlvdFRFbHhSNVozMVMybk5waThTbHlmVjhPbVNxM1BwWlNYUDdYR3lJRmJtTV8xSUZiaHpUWkJmZUNrSEc1QXZoRVFsb1NHZThoNWpEY1p3emNWWVhTTHFMYWNOcTYyd1ByRWNCa1NHNWozZGhJTDF6aUpZUWtzTW0ySVV1NXZTaQ?oc=5\" target=\"_blank\">$1 billion gets a permanent seat on Trump's Board of Peace for Gaza, as India and others invited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+    "sources": [
+      {
+        "name": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR25mWUh1NlFLblV1aXBuZHVQWXZFR0VmY1RCVmlvdFRFbHhSNVozMVMybk5waThTbHlmVjhPbVNxM1BwWlNYUDdYR3lJRmJtTV8xSUZiaHpUWkJmZUNrSEc1QXZoRVFsb1NHZThoNWpEY1p3emNWWVhTTHFMYWNOcTYyd1ByRWNCa1NHNWozZGhJTDF6aUpZUWtzTW0ySVV1NXZTaQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
