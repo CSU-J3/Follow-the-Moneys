@@ -1366,5 +1366,95 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-103",
+    "date": "2026-02-15",
+    "title": "Sky News Australia. . US President Donald Trump is demanding for the disarmament of Hamas as his Board of Peace pledges $7 billion to Gaza’s reconstruction. - facebook.com",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2ZYWjFTWS1HNzNUdjYxOTNmSzlrM2ZBWE9NTWhfdWVNaDBYV0prUE54UUN6MEh3dkxJSXkyRWZUX09aTDk3UzJCc1dVRExWSFlUYkNWZW9FQ2k5NFlRN0RuWnFCam9yT3A2WVJzdmRZMEhaNWhNWVU4ZVdoa1RDYkprTXFDS19yM184OTZsdXBhZVFVVkFES3R5YlhVOE1MN1lUaDdhRWhkQ1pmUG04dVEyZVdJUGJ6NFFjWExvcENoTXZmNmtnSVVPT3JRcGk0V0E?oc=5\" target=\"_blank\">Sky News Australia. . US President Donald Trump is demanding for the disarmament of Hamas as his Board of Peace pledges $7 billion to Gaza’s reconstruction.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+    "sources": [
+      {
+        "name": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2ZYWjFTWS1HNzNUdjYxOTNmSzlrM2ZBWE9NTWhfdWVNaDBYV0prUE54UUN6MEh3dkxJSXkyRWZUX09aTDk3UzJCc1dVRExWSFlUYkNWZW9FQ2k5NFlRN0RuWnFCam9yT3A2WVJzdmRZMEhaNWhNWVU4ZVdoa1RDYkprTXFDS19yM184OTZsdXBhZVFVVkFES3R5YlhVOE1MN1lUaDdhRWhkQ1pmUG04dVEyZVdJUGJ6NFFjWExvcENoTXZmNmtnSVVPT3JRcGk0V0E?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-104",
+    "date": "2026-02-19",
+    "title": "Trump announces $7 billion Gaza relief fund at Board of Peace's first meeting - 13WMAZ",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaEhLZVZsVGdkWlJLeUJ4NmY1UDk3YlA2VkhoNkR1c2xTX3U4RlJLa2lpQ2prNWM2bm5lYWo4YTNuNEJhcHV1d3dIM2Vhd2Z4eFhFZnJEQ0N5emFnX3NHUnhoSWhwNll5N2RObFVvTnRlOE1UM3hISE02WTdFY2hMVzViTWRETXNGZlp0b2FCOWs5NlJwWXlsT1R2ZUZ2OFFjRWZucVFndl91TUw1Um55ODRiblFWcFlYYVp3ZHktT0F1ZXd6M3BpSmd5V3YyOUgzZzRjUjN5V1NEVUtpUVVnSzVLTlQ4ajJZa0pFUXFzOWl6ZEhF?oc=5\" target=\"_blank\">Trump announces $7 billion Gaza relief fund at Board of Peace's first meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+    "sources": [
+      {
+        "name": "13WMAZ",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaEhLZVZsVGdkWlJLeUJ4NmY1UDk3YlA2VkhoNkR1c2xTX3U4RlJLa2lpQ2prNWM2bm5lYWo4YTNuNEJhcHV1d3dIM2Vhd2Z4eFhFZnJEQ0N5emFnX3NHUnhoSWhwNll5N2RObFVvTnRlOE1UM3hISE02WTdFY2hMVzViTWRETXNGZlp0b2FCOWs5NlJwWXlsT1R2ZUZ2OFFjRWZucVFndl91TUw1Um55ODRiblFWcFlYYVp3ZHktT0F1ZXd6M3BpSmd5V3YyOUgzZzRjUjN5V1NEVUtpUVVnSzVLTlQ4ajJZa0pFUXFzOWl6ZEhF?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-105",
+    "date": "2026-02-16",
+    "title": "Board of Peace to unveil $5 billion in Gaza reconstruction, Trump says - Euronews.com",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXBpcXZKV2RCMmkzanFrRkd2Rk1OU0hiaEp5bzloSGQxc19YbkZHRF9LWXR6bGMtc0t2dXFkR2xwcFBhVE5mVTJWYXMzOGdBNTE1aVd2UU5oRThDdzlfRzBKbGdVclZPdkVjc21TQVRMR2FyanAtdnpWMkJBQmJCR3RUZG5MSWtsYXo1UzYtM0F1akwtWThjbFFvVTI2ZG5UM0NOV3BQYzJIN3NOX2RfaFJ1ZXdBS0xvR1pGaGNaUnJpTnc?oc=5\" target=\"_blank\">Board of Peace to unveil $5 billion in Gaza reconstruction, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+    "sources": [
+      {
+        "name": "Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXBpcXZKV2RCMmkzanFrRkd2Rk1OU0hiaEp5bzloSGQxc19YbkZHRF9LWXR6bGMtc0t2dXFkR2xwcFBhVE5mVTJWYXMzOGdBNTE1aVd2UU5oRThDdzlfRzBKbGdVclZPdkVjc21TQVRMR2FyanAtdnpWMkJBQmJCR3RUZG5MSWtsYXo1UzYtM0F1akwtWThjbFFvVTI2ZG5UM0NOV3BQYzJIN3NOX2RfaFJ1ZXdBS0xvR1pGaGNaUnJpTnc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-106",
+    "date": "2026-01-22",
+    "title": "Russia Offers $1 Billion From Frozen Assets for Gaza Reconstruction, Putin Says - AL24 News",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTVCREFKU000RFI3MUtfeVh0X0h3TU94VVpRdnpJaElPS0xDR1FfaGZrcFE5bmRhdGVzRzF0SHFwZ0lNVW1JRDU5WjZ6a053QWZic0xCU0tkeEtlMUY0LTZiLXhKMjN3MDI1TmI2dUxEN24zcDkzNDlQTkN2Z0FXOGRvd3BNeWpnc3Y0VXpaUkY2YjRqaldaZVhaR2hMSGE1S3Y4?oc=5\" target=\"_blank\">Russia Offers $1 Billion From Frozen Assets for Gaza Reconstruction, Putin Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL24 News</font>",
+    "sources": [
+      {
+        "name": "AL24 News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTVCREFKU000RFI3MUtfeVh0X0h3TU94VVpRdnpJaElPS0xDR1FfaGZrcFE5bmRhdGVzRzF0SHFwZ0lNVW1JRDU5WjZ6a053QWZic0xCU0tkeEtlMUY0LTZiLXhKMjN3MDI1TmI2dUxEN24zcDkzNDlQTkN2Z0FXOGRvd3BNeWpnc3Y0VXpaUkY2YjRqaldaZVhaR2hMSGE1S3Y4?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-107",
+    "date": "2026-01-22",
+    "title": "Video | Putin News | \"Russia Ready To Pay $1B...\": Putin's First Reaction On Trump's 'Board of Peace' Invite - NDTV",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2QzOGJ6d0ZDWEFKSzdLLUtpd0h1RThxUDBYM2lRdVdtckdzQ2tkcEVHVlhxOEZReXpsNGNGOWFjdzlTWVhrTW1wdXIwcVh0RUJlNW54OFNSb1BGTUVxRjRFTzh5N1VyUnREbUtKNGs4SHgyNDFLOUx1MzJTQ19HTENKb3J1clhPaEZoMUJiWF8yRjV2dy1WUFF6VFgyS2daVmowVDk2Rnh0bE43TGhzVl9mVnlyOWRLN1VfOE9PZ2RZdw?oc=5\" target=\"_blank\">Video | Putin News | \"Russia Ready To Pay $1B...\": Putin's First Reaction On Trump's 'Board of Peace' Invite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+    "sources": [
+      {
+        "name": "NDTV",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2QzOGJ6d0ZDWEFKSzdLLUtpd0h1RThxUDBYM2lRdVdtckdzQ2tkcEVHVlhxOEZReXpsNGNGOWFjdzlTWVhrTW1wdXIwcVh0RUJlNW54OFNSb1BGTUVxRjRFTzh5N1VyUnREbUtKNGs4SHgyNDFLOUx1MzJTQ19HTENKb3J1clhPaEZoMUJiWF8yRjV2dy1WUFF6VFgyS2daVmowVDk2Rnh0bE43TGhzVl9mVnlyOWRLN1VfOE9PZ2RZdw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
