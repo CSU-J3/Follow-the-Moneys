@@ -1672,5 +1672,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-120",
+    "date": "2026-04-25",
+    "title": "Trump's 'Board of Peace' members pledge $7 billion for Gaza - MSN",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxNOEVzR0lOcU1iVkpkbnRKb1drNzZqWVYwend0NkN4aF9WSjlva091YnBFaUhCWklxR29UbU9NYVZzT01wc0dzbUdkVWpMV2tMbS1IOTh2bEVGMmd1RGlxRmEtNHREbEp2UjA1RnhTVVh4Q2ZTVWpZeXVrVm53alNfZThodldNLXhoN1M0d1AwYjIyOHZhZmxkR0dSdXRtUndDMFl5cy1ISmdCVjY2YWo2ejI5Slp1blJKZnBFWHRXd245Sy1EQjdkTmUwWkZBdkJ5LVBieksxeTNTYVg0UXE1bVlGMzBNUlFfOU02dGhvTzZzb3drbmtxODEzelVXMEhnTXU3M2U1a1RGdlFvakNBWFRFU1RNTDFTYVBibzlHczBIamhzdDVSZlRhbnZkYzZOd3JUbzBzZXp2b1BnMTVhWld2czFwR050LUM1VG83dmpfSG81MEdJdElfdw?oc=5\" target=\"_blank\">Trump's 'Board of Peace' members pledge $7 billion for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNOEVzR0lOcU1iVkpkbnRKb1drNzZqWVYwend0NkN4aF9WSjlva091YnBFaUhCWklxR29UbU9NYVZzT01wc0dzbUdkVWpMV2tMbS1IOTh2bEVGMmd1RGlxRmEtNHREbEp2UjA1RnhTVVh4Q2ZTVWpZeXVrVm53alNfZThodldNLXhoN1M0d1AwYjIyOHZhZmxkR0dSdXRtUndDMFl5cy1ISmdCVjY2YWo2ejI5Slp1blJKZnBFWHRXd245Sy1EQjdkTmUwWkZBdkJ5LVBieksxeTNTYVg0UXE1bVlGMzBNUlFfOU02dGhvTzZzb3drbmtxODEzelVXMEhnTXU3M2U1a1RGdlFvakNBWFRFU1RNTDFTYVBibzlHczBIamhzdDVSZlRhbnZkYzZOd3JUbzBzZXp2b1BnMTVhWld2czFwR050LUM1VG83dmpfSG81MEdJdElfdw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
