@@ -1654,5 +1654,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-119",
+    "date": "2026-02-16",
+    "title": "Trump says ‘Board of Peace’ has pledged $5 billion in funding - middle-east-online.com",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDVaTi1wWkZDOE14V3BXTUV5cUNpd196YVdTTEZFanVJV1VORDFFS0ZUbTZOeURRSHlZWVE5bFRMS3B1Ujc4ZHFNdE10RGhZdmowUGVlU3N3WURPQUc4TUg0M3V4WWtsejdYQXpCS3lBMmFoWEpmV1RJYVVXYjR0ZDRxMkpTX19jNk15RTB5dzkwZ1NISVBPd1hSTW14QUViMXByZjVUdw?oc=5\" target=\"_blank\">Trump says ‘Board of Peace’ has pledged $5 billion in funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">middle-east-online.com</font>",
+    "sources": [
+      {
+        "name": "middle-east-online.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDVaTi1wWkZDOE14V3BXTUV5cUNpd196YVdTTEZFanVJV1VORDFFS0ZUbTZOeURRSHlZWVE5bFRMS3B1Ujc4ZHFNdE10RGhZdmowUGVlU3N3WURPQUc4TUg0M3V4WWtsejdYQXpCS3lBMmFoWEpmV1RJYVVXYjR0ZDRxMkpTX19jNk15RTB5dzkwZ1NISVBPd1hSTW14QUViMXByZjVUdw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
