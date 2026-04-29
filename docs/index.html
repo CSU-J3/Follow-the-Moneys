@@ -263,6 +263,7 @@ h1 {
 .tl-dot.international { border-color: var(--purple); }
 .tl-dot.governance { border-color: var(--amber); }
 .tl-dot.fund_structure { border-color: var(--accent); }
+.tl-dot.uncategorized { border-color: var(--text-tertiary); }
 .tl-card {
   display: grid;
   grid-template-columns: 110px 1fr auto;
@@ -538,7 +539,15 @@ const CATEGORIES = {
   international: { label: "International", tag: "tag-intl", amtClass: "intl" },
   governance: { label: "Governance", tag: "tag-gov", amtClass: "" },
   fund_structure: { label: "Fund structure", tag: "tag-struct", amtClass: "fund" },
+  uncategorized: { label: "Uncategorized", tag: "tag-gov", amtClass: "" },
 };
+
+// Google News RSS summaries end with "&nbsp;&nbsp;<font color="…">Source</font>".
+// The link above already credits the source; strip the trailing tag soup.
+function cleanDetail(s) {
+  if (!s) return "";
+  return s.replace(/(?:&nbsp;)+<font[^>]*>[^<]*<\/font>\s*$/i, "").trim();
+}
 
 function fmtMoney(n) {
   if (!n) return "";
@@ -637,7 +646,7 @@ function renderTimeline(events) {
         </div>
         <div class="tl-detail">
           <div class="tl-detail-inner">
-            ${ev.detail || ""}
+            ${cleanDetail(ev.detail)}
             ${sourcesHtml ? `<div class="source-list">Sources: ${sourcesHtml}</div>` : ""}
           </div>
         </div>
