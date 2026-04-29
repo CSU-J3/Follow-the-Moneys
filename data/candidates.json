@@ -1618,5 +1618,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-117",
+    "date": "2026-02-19",
+    "title": "Trump Announces $7 Billion Gaza Aid Pledges and International Troop Commitments - Kurdistan24",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTlZSEx0ckhzLVhDQjNTcWNReGJtbXJucExsU3lTYVpZQUl6RVplZVNMdzFrQkxHOGtXZHQ2aS1nTmtrLXdDNFkwT3ZyLU5kVWJIdFQ3QlBRaFZubTV5YkRYdVhRakxhUWR6UnlZNkpOaXRfR0VlcWRaWUw1NldlbFlOdEs5S0c4Sjc5dlRyYWd1TVNsNGE4Uzh4SEhiTWtuWHI4RGpXaHM1Qm41SmZYclRndkZpNGk1QWpoZ2Nydw?oc=5\" target=\"_blank\">Trump Announces $7 Billion Gaza Aid Pledges and International Troop Commitments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kurdistan24</font>",
+    "sources": [
+      {
+        "name": "Kurdistan24",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTlZSEx0ckhzLVhDQjNTcWNReGJtbXJucExsU3lTYVpZQUl6RVplZVNMdzFrQkxHOGtXZHQ2aS1nTmtrLXdDNFkwT3ZyLU5kVWJIdFQ3QlBRaFZubTV5YkRYdVhRakxhUWR6UnlZNkpOaXRfR0VlcWRaWUw1NldlbFlOdEs5S0c4Sjc5dlRyYWd1TVNsNGE4Uzh4SEhiTWtuWHI4RGpXaHM1Qm41SmZYclRndkZpNGk1QWpoZ2Nydw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-118",
+    "date": "2026-01-22",
+    "title": "Russian leader tells Palestinian counterpart Moscow prepared to fund Gaza with $1 billion - video - Caliber.Az",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0pxWi1HMzd2LVdfYmFpbVNXdkxWdTVsbGE4MUE2a2FORzJIdzZ5VVFyRS1kTV9hRkloek92NXg0OFZyNFpDVzdwVVFvaGl6Tl9mTjh0SmxvamFpbENBclQ4RmxwYTRBLXNvLWx4OFhBU0pya1pvTzhSaWNOSUl6eHZLQXpQWFhXYjFEa2VPNGVqWllpVGdGX3RvTGJlbWppdXA0RzhKZEh4ZkZKSWFnSV8wSTRkdw?oc=5\" target=\"_blank\">Russian leader tells Palestinian counterpart Moscow prepared to fund Gaza with $1 billion - video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caliber.Az</font>",
+    "sources": [
+      {
+        "name": "Caliber.Az",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0pxWi1HMzd2LVdfYmFpbVNXdkxWdTVsbGE4MUE2a2FORzJIdzZ5VVFyRS1kTV9hRkloek92NXg0OFZyNFpDVzdwVVFvaGl6Tl9mTjh0SmxvamFpbENBclQ4RmxwYTRBLXNvLWx4OFhBU0pya1pvTzhSaWNOSUl6eHZLQXpQWFhXYjFEa2VPNGVqWllpVGdGX3RvTGJlbWppdXA0RzhKZEh4ZkZKSWFnSV8wSTRkdw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
