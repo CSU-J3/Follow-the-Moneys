@@ -1690,5 +1690,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-121",
+    "date": "2026-02-18",
+    "title": "Russia pledges $1 billion aid to Palestine for Gaza reconstruction - Roya News",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFZmV2FvMEY3cUtZNGVXbzBNeVBtSDlXR3ItbGZScllpdnNZOUNvQzRIZU1oYWU4TlhUMU82WEkza29NOGljR1JPWWp6ZUVPS1R2UVRzRmhpRXJ0bGdqaDExUlIyNkI3UUFKclI5empVSks5dXBuOU5rcnNwU3B1UWk2amotc295dC14bjJrMjZLZEVwcUhGcnBxaFcyUk5kU2U3Yw?oc=5\" target=\"_blank\">Russia pledges $1 billion aid to Palestine for Gaza reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roya News</font>",
+    "sources": [
+      {
+        "name": "Roya News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFZmV2FvMEY3cUtZNGVXbzBNeVBtSDlXR3ItbGZScllpdnNZOUNvQzRIZU1oYWU4TlhUMU82WEkza29NOGljR1JPWWp6ZUVPS1R2UVRzRmhpRXJ0bGdqaDExUlIyNkI3UUFKclI5empVSks5dXBuOU5rcnNwU3B1UWk2amotc295dC14bjJrMjZLZEVwcUhGcnBxaFcyUk5kU2U3Yw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
