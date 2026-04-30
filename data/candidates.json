@@ -1816,5 +1816,59 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-128",
+    "date": "2026-03-23",
+    "title": "Indonesia says no to $1 billion fee for Trump’s ‘Board of Peace’ seat - The Japan Times",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEJ6R2h5QXF5YndMaEtmN29XTzhMSFE1RUU4YnZxSWFFUGdtd3hRcEN2SVdkbjFMVlJfdURXT3llNTd3U2pGYkZuNTJwUm5QUUltSkh1ZER3TVhDOUo3NmpRRnRPYl9WY2V5dWNSZkFYLXN1Qk4ycEpuLUFUeUpnUS1CZzk0YUp6cjFlSEJwNGtmMUZEOHFWZF8tc2ZxTDg?oc=5\" target=\"_blank\">Indonesia says no to $1 billion fee for Trump’s ‘Board of Peace’ seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+    "sources": [
+      {
+        "name": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEJ6R2h5QXF5YndMaEtmN29XTzhMSFE1RUU4YnZxSWFFUGdtd3hRcEN2SVdkbjFMVlJfdURXT3llNTd3U2pGYkZuNTJwUm5QUUltSkh1ZER3TVhDOUo3NmpRRnRPYl9WY2V5dWNSZkFYLXN1Qk4ycEpuLUFUeUpnUS1CZzk0YUp6cjFlSEJwNGtmMUZEOHFWZF8tc2ZxTDg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-129",
+    "date": "2026-01-22",
+    "title": "Jared Kushner unveils $25 billion plan to transform Gaza into economic hub by 2035 - The Jerusalem Post",
+    "amount": 25000000000,
+    "amount_display": "$25B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DckZkWF9sNTZERUJkX3VJZnNzYVRnWVBiT2ZYYjNWb3c1aFBEZWRzRUZTR0MyOEl3Y0pwdzJBSzJqZE1qZXIyeU5NOGxtdzItUlJPV0xod0lyTjB3?oc=5\" target=\"_blank\">Jared Kushner unveils $25 billion plan to transform Gaza into economic hub by 2035</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+    "sources": [
+      {
+        "name": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DckZkWF9sNTZERUJkX3VJZnNzYVRnWVBiT2ZYYjNWb3c1aFBEZWRzRUZTR0MyOEl3Y0pwdzJBSzJqZE1qZXIyeU5NOGxtdzItUlJPV0xod0lyTjB3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-130",
+    "date": "2022-09-06",
+    "title": "US authorities to allocate $ 50 billion for development of semiconductor production - NEWS.am",
+    "amount": 50000000000,
+    "amount_display": "$50B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1GQk95U3JmMndwLTlaeTd1TEw4VFVVS1ZGdTFCWnRjRmI0SHdYRzFhUktBM0dpYm95eVFJS01NOWZobjY0?oc=5\" target=\"_blank\">US authorities to allocate $ 50 billion for development of semiconductor production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS.am</font>",
+    "sources": [
+      {
+        "name": "NEWS.am",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GQk95U3JmMndwLTlaeTd1TEw4VFVVS1ZGdTFCWnRjRmI0SHdYRzFhUktBM0dpYm95eVFJS01NOWZobjY0?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
