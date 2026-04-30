@@ -1708,5 +1708,59 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-122",
+    "date": "2026-02-19",
+    "title": "Gulf countries pledge over $4B to Trump’s Board of Peace - Anadolu Ajansı",
+    "amount": 4000000000,
+    "amount_display": "$4B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONFZxU1pHOWkydnJkREZLdWxYamY1MDV4cG9nX3h3R3RvUWctTWJZaExRRkVNNGtlN1hWWXM2cThsVUZCOWxuLTV3d1lDSmM2TDRKdEc5ZjRrNTNwei1JblF5MWg3ZVE2bVFWLVhCeVJvZGJ1VDRoUU5pczRXOG8xQnIxNy15U1d0Ym9CZThudmtYcWhXREhEc0ZR?oc=5\" target=\"_blank\">Gulf countries pledge over $4B to Trump’s Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+    "sources": [
+      {
+        "name": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFZxU1pHOWkydnJkREZLdWxYamY1MDV4cG9nX3h3R3RvUWctTWJZaExRRkVNNGtlN1hWWXM2cThsVUZCOWxuLTV3d1lDSmM2TDRKdEc5ZjRrNTNwei1JblF5MWg3ZVE2bVFWLVhCeVJvZGJ1VDRoUU5pczRXOG8xQnIxNy15U1d0Ym9CZThudmtYcWhXREhEc0ZR?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-123",
+    "date": "2026-02-19",
+    "title": "Trump announces $10 billion donation to Board of Peace - New York Post",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxON2VkTmxnWEFOUFRXUktXMkt0Vm12SWVSS0pyY1ozVHBXMnZWc0tTZzRTVVRDVlo1RVJxbFBDMm85OVNSNHNyRFl4NGU5U1JFOGlnMWdWd1J5bmtibEVIUmR4MWRvZlhNby1sM0NaWm1pYlVLZXQtVzdCaTBVWG5KdGlpWVA4VndIa1JlblItc1J5emE1TlRj?oc=5\" target=\"_blank\">Trump announces $10 billion donation to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2VkTmxnWEFOUFRXUktXMkt0Vm12SWVSS0pyY1ozVHBXMnZWc0tTZzRTVVRDVlo1RVJxbFBDMm85OVNSNHNyRFl4NGU5U1JFOGlnMWdWd1J5bmtibEVIUmR4MWRvZlhNby1sM0NaWm1pYlVLZXQtVzdCaTBVWG5KdGlpWVA4VndIa1JlblItc1J5emE1TlRj?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-124",
+    "date": "2026-01-18",
+    "title": "On Trump’s ‘Board of Peace’ for Gaza, $1 billion buys a permanent seat - Los Angeles Times",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUZuMnNScGZ2eWdUQUw0eDhsTG9rdGQ1eGtvMmdpSW9GRGdmMDAzeC12Xzk3TC1kaW1JYkNvMUFNOFRfcTZaWWliVkhkelJodGxITE85QjZuQmJfN3ZjQzlySWxsUGtWZXJqTk5DdEFfNHNvZU1wZEdBR2Qtamg2RENoT3RrdjVycDVXZ3AxeUhJSnlNZUNiTzM2dFItSEdhQXZFQUhiOHZGX3ozWHRWT3NPS2hfSGRJ?oc=5\" target=\"_blank\">On Trump’s ‘Board of Peace’ for Gaza, $1 billion buys a permanent seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+    "sources": [
+      {
+        "name": "Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUZuMnNScGZ2eWdUQUw0eDhsTG9rdGQ1eGtvMmdpSW9GRGdmMDAzeC12Xzk3TC1kaW1JYkNvMUFNOFRfcTZaWWliVkhkelJodGxITE85QjZuQmJfN3ZjQzlySWxsUGtWZXJqTk5DdEFfNHNvZU1wZEdBR2Qtamg2RENoT3RrdjVycDVXZ3AxeUhJSnlNZUNiTzM2dFItSEdhQXZFQUhiOHZGX3ozWHRWT3NPS2hfSGRJ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
