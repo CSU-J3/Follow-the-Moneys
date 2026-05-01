@@ -1870,5 +1870,95 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-131",
+    "date": "2026-02-16",
+    "title": "Trump announces pledges of over $5 billion for Gaza by Board of Peace members - The Arab Weekly",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRHVyNl84Q0wtbTdyd1hBd3BjMmdiMzlya1h3SHhTbUVNWElRaWh6ODdQOHRmWWJqcjhXN1Vuc1lYQXg3cmw1MlpJcGFvQXJXWUxNVE9qWmI1ajNTMnV1UElSWnhoc3Y5eDFvbUJwYldIbjNWbW5reE0yUmFwNlA5UlY1QUluR0hTTUU0RUtrcXloNnM?oc=5\" target=\"_blank\">Trump announces pledges of over $5 billion for Gaza by Board of Peace members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arab Weekly</font>",
+    "sources": [
+      {
+        "name": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRHVyNl84Q0wtbTdyd1hBd3BjMmdiMzlya1h3SHhTbUVNWElRaWh6ODdQOHRmWWJqcjhXN1Vuc1lYQXg3cmw1MlpJcGFvQXJXWUxNVE9qWmI1ajNTMnV1UElSWnhoc3Y5eDFvbUJwYldIbjNWbW5reE0yUmFwNlA5UlY1QUluR0hTTUU0RUtrcXloNnM?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-132",
+    "date": "2021-05-21",
+    "title": "China to allocate $ 1 million for Palestine - NEWS.am",
+    "amount": 1000000,
+    "amount_display": "$1M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE42Rmd5YUFISm5UMHRxazYybkQyMU1OSXVrZEl3bW5pcmJZTXhiM0Jqbk55ME9uckZmazlZR09fTkFBMkJf?oc=5\" target=\"_blank\">China to allocate $ 1 million for Palestine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS.am</font>",
+    "sources": [
+      {
+        "name": "NEWS.am",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE42Rmd5YUFISm5UMHRxazYybkQyMU1OSXVrZEl3bW5pcmJZTXhiM0Jqbk55ME9uckZmazlZR09fTkFBMkJf?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-133",
+    "date": "2019-10-13",
+    "title": "US to allocate $ 50 million to stabilize situation in Syria - NEWS.am",
+    "amount": 50000000,
+    "amount_display": "$50M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1UdGthZVNlRnBNTU5zVmE2NFE1dWd5MmdEWGNRMjU5NWpzM09KdmFPNkxRZWUyZFY1Uktyc2J1bGpuREU2?oc=5\" target=\"_blank\">US to allocate $ 50 million to stabilize situation in Syria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS.am</font>",
+    "sources": [
+      {
+        "name": "NEWS.am",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1UdGthZVNlRnBNTU5zVmE2NFE1dWd5MmdEWGNRMjU5NWpzM09KdmFPNkxRZWUyZFY1Uktyc2J1bGpuREU2?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-134",
+    "date": "2020-03-24",
+    "title": "US plans to allocate $ 16 million as an aid to Armenia for 2021 - NEWS.am",
+    "amount": 16000000,
+    "amount_display": "$16M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1hbnpmendIQ1BuMDZYcXd1N2NmOVB5SzVKR25CaXNlWmZiNjBFTG1CT2ltTnhWMEwxX1MtVmZJNWZqYjd6?oc=5\" target=\"_blank\">US plans to allocate $ 16 million as an aid to Armenia for 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS.am</font>",
+    "sources": [
+      {
+        "name": "NEWS.am",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hbnpmendIQ1BuMDZYcXd1N2NmOVB5SzVKR25CaXNlWmZiNjBFTG1CT2ltTnhWMEwxX1MtVmZJNWZqYjd6?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-135",
+    "date": "2015-04-14",
+    "title": "Eurasian Development Bank to allocate $150 million for North-South road corridor (PHOTOS) - NEWS.am",
+    "amount": 150000000,
+    "amount_display": "$150M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5tSmlteG5RZVZxRzJmRnJHRE1WdXZ3d0tDRjR2cE53RlEtRlh2YU1hdGFHYzVabVRNNTdNb2FDaW5KaHJB?oc=5\" target=\"_blank\">Eurasian Development Bank to allocate $150 million for North-South road corridor (PHOTOS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS.am</font>",
+    "sources": [
+      {
+        "name": "NEWS.am",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5tSmlteG5RZVZxRzJmRnJHRE1WdXZ3d0tDRjR2cE53RlEtRlh2YU1hdGFHYzVabVRNNTdNb2FDaW5KaHJB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
