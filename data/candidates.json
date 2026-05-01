@@ -1978,5 +1978,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-137",
+    "date": "2026-02-20",
+    "title": "Regional states lead $7 billion Gaza pledge at board of peace summit - middle-east-online.com",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHRCN2xwVG44ZW40OGZ6YlNIWkgyNTl3a1Zybmg2aXIzRk1oMWUyMldfQW9iTkpRamZpT2VWN1ZuX1JDbl9qeVhKVnFYTm9pSEtBM3pTdHJael9NRXZxT2dnYjNNNmFjUThLRno1RnVFamVwZ1NfOFB2Sk9ndjlWRVJFMDN5YjNLWlBNdlN4dHl0QlliWkN2YVIyWQ?oc=5\" target=\"_blank\">Regional states lead $7 billion Gaza pledge at board of peace summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">middle-east-online.com</font>",
+    "sources": [
+      {
+        "name": "middle-east-online.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHRCN2xwVG44ZW40OGZ6YlNIWkgyNTl3a1Zybmg2aXIzRk1oMWUyMldfQW9iTkpRamZpT2VWN1ZuX1JDbl9qeVhKVnFYTm9pSEtBM3pTdHJael9NRXZxT2dnYjNNNmFjUThLRno1RnVFamVwZ1NfOFB2Sk9ndjlWRVJFMDN5YjNLWlBNdlN4dHl0QlliWkN2YVIyWQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
