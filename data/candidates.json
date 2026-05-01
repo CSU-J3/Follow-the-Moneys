@@ -1960,5 +1960,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-136",
+    "date": "2026-04-24",
+    "title": "UK’s Blair distances himself from Trump’s $1 billion peace board fee - MSN",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisANBVV95cUxNOGlvQTQ2YndnbDI1UEZhTWdSMTZTLVlqbV9BY2ctRENjWlBFR0dlUXI4TERFaFJkM0I3SEFvUEhveDNVYkJDQlNRS1FJNm1wVWlJbXBGQnpNeXRGTDRFQ2tlSldYTXUzdDFNWGpXQlR4VkJYWnFUSkpBMmlDM2ZZY0FINEU2VHltbUxPTk5SZG5OV0NoQmF4a0ZJcG1YQVFTZVlud3EtWXVHWU5KVTFVbE92U3ZHV3c2RUZyQThXMjd1UTdZUU11OTBEblUyNll1aXFTYXZpaHRCam9aa2gtVGQ4RGVzTThYR1F6dlhTMklYeWV5ampOYVl4dkFzWVhjR3k5dlp2ZWlyQmppdnVIWER5dGl6X3RodHpyeWVkODFTT1VWanpPZWZaUzJleG9DTXV2WGM1dVN6bExWUUFSZU1wUUxXc0V2MUpwTHpxYy1JS3d2c0swVWYzLS02SDBvTzRLQjdoQTg1VVJEejVjbF8tcWRZR3BBSHVxSzNTckp6cFJzd3VvanZWaVJDb19zUGwzUGxlVy1ZcGxwMWN3emFPak1EdXItWjBMSE12M0g?oc=5\" target=\"_blank\">UK’s Blair distances himself from Trump’s $1 billion peace board fee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNOGlvQTQ2YndnbDI1UEZhTWdSMTZTLVlqbV9BY2ctRENjWlBFR0dlUXI4TERFaFJkM0I3SEFvUEhveDNVYkJDQlNRS1FJNm1wVWlJbXBGQnpNeXRGTDRFQ2tlSldYTXUzdDFNWGpXQlR4VkJYWnFUSkpBMmlDM2ZZY0FINEU2VHltbUxPTk5SZG5OV0NoQmF4a0ZJcG1YQVFTZVlud3EtWXVHWU5KVTFVbE92U3ZHV3c2RUZyQThXMjd1UTdZUU11OTBEblUyNll1aXFTYXZpaHRCam9aa2gtVGQ4RGVzTThYR1F6dlhTMklYeWV5ampOYVl4dkFzWVhjR3k5dlp2ZWlyQmppdnVIWER5dGl6X3RodHpyeWVkODFTT1VWanpPZWZaUzJleG9DTXV2WGM1dVN6bExWUUFSZU1wUUxXc0V2MUpwTHpxYy1JS3d2c0swVWYzLS02SDBvTzRLQjdoQTg1VVJEejVjbF8tcWRZR3BBSHVxSzNTckp6cFJzd3VvanZWaVJDb19zUGwzUGxlVy1ZcGxwMWN3emFPak1EdXItWjBMSE12M0g?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
