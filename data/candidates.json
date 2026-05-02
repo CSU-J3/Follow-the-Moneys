@@ -1996,5 +1996,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-138",
+    "date": "2026-02-19",
+    "title": "PBS News Hour Clip Trump says U.S. will give $10 billion to Board of Peace - THIRTEEN - New York Public Media",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnZUZS0tTzRjSGpyYUxBb3NKd29kYmp2dGRDdnF1MGFPcFhsaHpNWUo4ZXhKa0ZPcG1hSVA5X1E1MjhNdDYxOGNmVWdjVE9YZi1URmZ3ajVoRE1kbDQzcVBmaG16bW9VZG1yX2s4OUdDU0VTNzBRTGgtcGJidmFKQkJhX1M1dw?oc=5\" target=\"_blank\">PBS News Hour Clip Trump says U.S. will give $10 billion to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THIRTEEN - New York Public Media</font>",
+    "sources": [
+      {
+        "name": "THIRTEEN - New York Public Media",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnZUZS0tTzRjSGpyYUxBb3NKd29kYmp2dGRDdnF1MGFPcFhsaHpNWUo4ZXhKa0ZPcG1hSVA5X1E1MjhNdDYxOGNmVWdjVE9YZi1URmZ3ajVoRE1kbDQzcVBmaG16bW9VZG1yX2s4OUdDU0VTNzBRTGgtcGJidmFKQkJhX1M1dw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
