@@ -329,6 +329,20 @@ h1 {
 .status-pledged { background: var(--amber-light); color: var(--amber); }
 .status-target { background: var(--bg-surface); color: var(--text-tertiary); }
 .status-operational { background: var(--green-light); color: var(--green); }
+.flag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-left: 8px;
+  vertical-align: middle;
+  background: var(--bg-surface);
+  color: var(--text-tertiary);
+  border: 1px dashed var(--border-strong);
+  cursor: help;
+}
 
 /* Detail panel */
 .tl-detail {
@@ -558,6 +572,29 @@ function fmtMoney(n) {
   return "$" + n.toLocaleString();
 }
 
+// Methodology filter: pledged or transferred, not flagged out.
+// Mirrors collectors/run_all.py:_counts_toward_total — keep the two in sync.
+function countsTowardTotal(e) {
+  if (!["pledged", "transferred"].includes(e.status)) return false;
+  if (e.superseded_by) return false;
+  if (e.excluded_from_total) return false;
+  return true;
+}
+
+function computeTotals(events) {
+  const counted = events.filter(countsTowardTotal);
+  return {
+    total_committed: counted.reduce((s, e) => s + (e.amount || 0), 0),
+    total_transferred: counted
+      .filter(e => e.status === "transferred")
+      .reduce((s, e) => s + (e.amount || 0), 0),
+  };
+}
+
+function attrSafe(s) {
+  return (s || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+}
+
 function fmtDate(dateStr) {
   const d = new Date(dateStr + "T12:00:00");
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
@@ -629,6 +666,16 @@ function renderTimeline(events) {
     const statusHtml = ev.status
       ? `<span class="status-badge status-${ev.status}">${ev.status}</span>`
       : "";
+    const supersededHtml = ev.superseded_by
+      ? `<span class="flag" title="${attrSafe(ev.supersede_reason)}">duplicate reporting → ${ev.superseded_by}</span>`
+      : "";
+    // Status badges of "operational" and "target" already explain the
+    // exclusion; only flag the cases where the badge would mislead.
+    const showExcludedFlag = ev.excluded_from_total
+      && !["operational", "target"].includes(ev.status);
+    const excludedHtml = showExcludedFlag
+      ? `<span class="flag" title="${attrSafe(ev.exclude_reason)}">not in total</span>`
+      : "";
     const sourcesHtml = (ev.sources || [])
       .map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`)
       .join(" · ");
@@ -640,7 +687,7 @@ function renderTimeline(events) {
           <span class="tl-date">${fmtDate(ev.date)}</span>
           <span class="tl-title">
             <span class="tag ${cat.tag}">${cat.label}</span>
-            ${ev.title}${statusHtml}
+            ${ev.title}${statusHtml}${supersededHtml}${excludedHtml}
           </span>
           <span class="tl-amount ${cat.amtClass}">${amtDisplay}</span>
         </div>
@@ -708,7 +755,10 @@ function loadData(data) {
     sinceEl.textContent = "no new transactions this week";
   }
 
-  renderStats(data.summary);
+  // Recompute totals from events so the headline always reflects the
+  // current methodology filter, regardless of what the JSON summary says.
+  const computed = computeTotals(data.events);
+  renderStats({ ...data.summary, ...computed });
   renderFilters(data.events);
   renderTimeline(data.events);
 }
