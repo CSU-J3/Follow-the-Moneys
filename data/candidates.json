@@ -2014,5 +2014,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-139",
+    "date": "2026-05-01",
+    "title": "US approves military sales of over $8.6 billion to Middle East allies - Al-Monitor",
+    "amount": 8600000000,
+    "amount_display": "$8.6B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmNZV1AwNUFLZU9MdktwSUxHd2FnSWdwckd4RG9kUnZVY2JpNEMxbDgtNm9Qa2hneEZyMVJTV0M1bjJpUGdSSm50Zll1RjVHTnltLWhJNTAyNC1qTmpoNXJlMGJwZUtFTFNWTHRZbzFjYWxoVVJSZ004UHdCQllCQmxHWUdURk9sWUk5QzhLaTlYc0hOMEdZZkxzV0dHRmh2QnVwZHZUZWtvZw?oc=5\" target=\"_blank\">US approves military sales of over $8.6 billion to Middle East allies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al-Monitor</font>",
+    "sources": [
+      {
+        "name": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmNZV1AwNUFLZU9MdktwSUxHd2FnSWdwckd4RG9kUnZVY2JpNEMxbDgtNm9Qa2hneEZyMVJTV0M1bjJpUGdSSm50Zll1RjVHTnltLWhJNTAyNC1qTmpoNXJlMGJwZUtFTFNWTHRZbzFjYWxoVVJSZ004UHdCQllCQmxHWUdURk9sWUk5QzhLaTlYc0hOMEdZZkxzV0dHRmh2QnVwZHZUZWtvZw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
