@@ -1,6 +1,6 @@
 # Follow the money. Receipts & no peace.
 
-$19.3 billion committed to the Board of Peace. $1.25 billion moved out of disaster relief and peacekeeping accounts. Zero congressional votes. Zero independent audits. Zero dollars confirmed reaching Gaza.
+$19.75 billion committed to the Board of Peace. $1.25 billion moved out of disaster relief and peacekeeping accounts. Zero congressional votes. Zero independent audits. Zero dollars confirmed reaching Gaza.
 
 This is the only public ledger.  
 

@@ -6,7 +6,7 @@
 <title>Board of Peace Financial Tracker — das_DEMARC</title>
 <meta name="description" content="Tracking every dollar flowing through Trump's Board of Peace. Automated, sourced, updated 4x daily.">
 <meta property="og:title" content="Board of Peace Financial Tracker">
-<meta property="og:description" content="$19.3 billion committed. $1.25 billion transferred. Zero congressional votes. Follow the money.">
+<meta property="og:description" content="$19.75 billion committed. $1.25 billion transferred. Zero congressional votes. Follow the money.">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -438,6 +438,19 @@ footer {
 }
 footer a { color: var(--accent); text-decoration: none; }
 footer a:hover { text-decoration: underline; }
+footer .methodology summary {
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  margin-bottom: 4px;
+}
+footer .methodology code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: var(--bg-surface);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
 
 /* Responsive */
 @media (max-width: 640px) {
@@ -541,7 +554,13 @@ footer a:hover { text-decoration: underline; }
   </div>
 
   <footer>
-    <p>Built by <a href="https://dasdemarc.substack.com">das_DEMARC:/</a>. Data collected automatically from Google News, Wikipedia, Carnegie Endowment, Senate press releases, World Bank, and Semafor. Source code on <a href="https://github.com/CSU-J3/Follow-the-Moneys">GitHub</a>. See also: <a href="https://iranwarcost.com/">iranwarcost.com</a>.</p>
+    <details class="methodology" open>
+      <summary>Methodology</summary>
+      <p style="margin-top:8px"><strong>Total Committed</strong> sums events with status <em>pledged</em> or <em>transferred</em>, excluding records flagged as duplicate reporting and records flagged as not-reconstruction. The figure is intended to represent funds that a named party has committed to the BoP reconstruction effort.</p>
+      <p style="margin-top:8px"><strong>Duplicate reporting.</strong> News collectors pull from multiple syndications and occasionally surface two records describing the same underlying transaction. Where this is identified, the later or secondary record carries a <code>superseded_by</code> reference to the canonical event. The full record stays in the timeline with a visible flag.</p>
+      <p style="margin-top:8px"><strong>Not-reconstruction.</strong> Some tracked events involve money associated with the BoP but not a reconstruction commitment: the BoP's own operational account, FIFA's stadium partnership, OCHA's fundraising target, and the $1B-per-seat charter clause. They appear in the timeline but do not count toward Total Committed.</p>
+    </details>
+    <p style="margin-top:16px">Built by <a href="https://dasdemarc.substack.com">das_DEMARC:/</a>. Data collected automatically from Google News, Wikipedia, Carnegie Endowment, Senate press releases, World Bank, and Semafor. Source code on <a href="https://github.com/CSU-J3/Follow-the-Moneys">GitHub</a>. See also: <a href="https://iranwarcost.com/">iranwarcost.com</a>.</p>
     <p style="margin-top:8px">This tracker presents publicly reported financial information. All amounts reflect official pledges and transfers as reported by cited sources. "Committed" includes pledges, which are not binding obligations. Actual disbursements may differ.</p>
   </footer>
 </div>
