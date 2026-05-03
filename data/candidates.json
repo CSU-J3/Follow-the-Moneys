@@ -2032,5 +2032,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-140",
+    "date": "2026-04-29",
+    "title": "Trump says Board of Peace members pledged more than $5 billion - MSN",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMirANBVV95cUxNeWI5Y3dWbm9nRmhLeV85ZFJjQjJHS1R2ZHB1OW4yWmdoWFM4MEVrU1F1cVVMYWF6RzI2X3NzdlZTYUJ5WWJnSVFKMW0tWW05RFlKOUJnaHB1Zi1TWi1qSmNoUjlwT1B0YnNTdDF3UzdJVzV6UkpDWVg4OUJpYThWNm11ZExkSEh0Q2Qtc2loS3hSZFVSbjdlY2lJbmx5ZkV0cjZJQ19VVktYeENWNGdrUnRjdnFnTFdFLVBGa2RpclVFc2NDUnVGbGw2R1BRQlJSaElqa0hBbkh6N0RGWm9pakxJaTRZVF9ZcU52ODc3UWxQNkhkOGJ3OVlrT3UtQ09pZEJCdDBoVVpLcWc4Q2otXzVpVGNVbjlUT3A1SEttVS0yeGVYUmJlQWNBcld6dWw0amQ2NFc2ODc1T01wZzk4Y0o0S3FmbHU1aEtqM2wxZHZabnFUeG5qX3NsUE45ZFI5MVB0NkdaY1B4SUprTkt3aGhWTE9PY1dkNVJrbWUybHY0MkEzMmJyOEtnMkVtMHhqT3dXbnZJX0w1NXVRaVNmX3FWYmRyX2x4cjVyTQ?oc=5\" target=\"_blank\">Trump says Board of Peace members pledged more than $5 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNeWI5Y3dWbm9nRmhLeV85ZFJjQjJHS1R2ZHB1OW4yWmdoWFM4MEVrU1F1cVVMYWF6RzI2X3NzdlZTYUJ5WWJnSVFKMW0tWW05RFlKOUJnaHB1Zi1TWi1qSmNoUjlwT1B0YnNTdDF3UzdJVzV6UkpDWVg4OUJpYThWNm11ZExkSEh0Q2Qtc2loS3hSZFVSbjdlY2lJbmx5ZkV0cjZJQ19VVktYeENWNGdrUnRjdnFnTFdFLVBGa2RpclVFc2NDUnVGbGw2R1BRQlJSaElqa0hBbkh6N0RGWm9pakxJaTRZVF9ZcU52ODc3UWxQNkhkOGJ3OVlrT3UtQ09pZEJCdDBoVVpLcWc4Q2otXzVpVGNVbjlUT3A1SEttVS0yeGVYUmJlQWNBcld6dWw0amQ2NFc2ODc1T01wZzk4Y0o0S3FmbHU1aEtqM2wxZHZabnFUeG5qX3NsUE45ZFI5MVB0NkdaY1B4SUprTkt3aGhWTE9PY1dkNVJrbWUybHY0MkEzMmJyOEtnMkVtMHhqT3dXbnZJX0w1NXVRaVNmX3FWYmRyX2x4cjVyTQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-141",
+    "date": "2025-10-14",
+    "title": "UN Allocates Additional $11 Million for Humanitarian Operations in Gaza - Tempo.co English",
+    "amount": 11000000,
+    "amount_display": "$11M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzIzUUh2QjhnQzR6dkpQa1ZiU2dabEg5QUpmenB1Yi1CamIzQmNtRFBfeUlHT1owLTUwR3MtNzNkNVZnMnBKU3RkQzdweGRRTjlSSGF2ZUY1a245V0p6TFdMT1prN0NjbldSTEtqOWthb2lHaHZhejZzbzl6b3pIR3l6enNNdEhubXhUcktrTEdEODAwZWplaWNVVEFrM1p3VU1qTmRB?oc=5\" target=\"_blank\">UN Allocates Additional $11 Million for Humanitarian Operations in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
+    "sources": [
+      {
+        "name": "Tempo.co English",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzIzUUh2QjhnQzR6dkpQa1ZiU2dabEg5QUpmenB1Yi1CamIzQmNtRFBfeUlHT1owLTUwR3MtNzNkNVZnMnBKU3RkQzdweGRRTjlSSGF2ZUY1a245V0p6TFdMT1prN0NjbldSTEtqOWthb2lHaHZhejZzbzl6b3pIR3l6enNNdEhubXhUcktrTEdEODAwZWplaWNVVEFrM1p3VU1qTmRB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
