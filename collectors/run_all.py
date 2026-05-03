@@ -78,15 +78,30 @@ def _route(events: list[dict]) -> tuple[list[dict], list[dict]]:
     return trusted, candidates
 
 
+def _counts_toward_total(event: dict) -> bool:
+    """Apply the methodology filter: pledged or transferred, not flagged out."""
+    if event.get("status") not in ("pledged", "transferred"):
+        return False
+    if event.get("superseded_by"):
+        return False
+    if event.get("excluded_from_total"):
+        return False
+    return True
+
+
 def _compute_summary(base_summary: dict, events: list[dict]) -> dict:
     """Re-derive total_committed and total_transferred from events.
 
     Non-derivable fields (congressional_votes, reconstruction_need_*, etc.)
     are passed through from bop_finances.json so they can't drift.
     """
-    total_committed = sum(e.get("amount") or 0 for e in events)
+    total_committed = sum(
+        e.get("amount") or 0 for e in events if _counts_toward_total(e)
+    )
     total_transferred = sum(
-        e.get("amount") or 0 for e in events if e.get("status") == "transferred"
+        e.get("amount") or 0
+        for e in events
+        if _counts_toward_total(e) and e.get("status") == "transferred"
     )
     return {
         **base_summary,
