@@ -68,58 +68,8 @@ body {
 
 /* Header */
 header {
-  position: relative;
   padding: 32px 0 24px;
   border-bottom: 1px solid var(--border);
-}
-.hdr-btns {
-  position: absolute;
-  top: 32px;
-  right: 0;
-  display: flex;
-  gap: 16px;
-}
-.btn-group {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 4px;
-}
-.btn-label {
-  font-family: var(--font-mono);
-  font-size: 9px;
-  font-weight: 500;
-  letter-spacing: 0.8px;
-  text-transform: uppercase;
-  color: var(--text-tertiary);
-}
-.hdr-btn {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.3px;
-  text-transform: uppercase;
-  text-decoration: none;
-  border: 1px solid var(--border-strong);
-  border-radius: 4px;
-  padding: 6px 12px;
-  transition: all 0.15s;
-  white-space: nowrap;
-  color: var(--text-secondary);
-}
-.hdr-btn:hover {
-  background: var(--text-primary);
-  color: var(--bg);
-  border-color: var(--text-primary);
-}
-.hdr-btn.war {
-  color: var(--red);
-  border-color: var(--red);
-}
-.hdr-btn.war:hover {
-  background: var(--red);
-  color: #fff;
-  border-color: var(--red);
 }
 .pub-name {
   font-family: var(--font-mono);
@@ -458,8 +408,6 @@ footer .methodology code {
   .tl-detail-inner { padding-left: 14px; }
   .stats { grid-template-columns: 1fr 1fr; }
   .stat-value { font-size: 20px; }
-  .hdr-btns { position: static; margin-bottom: 12px; }
-  .btn-group { align-items: flex-start; }
 }
 </style>
 </head>
@@ -467,16 +415,6 @@ footer .methodology code {
 
 <div class="container">
   <header>
-    <div class="hdr-btns">
-      <div class="btn-group">
-        <span class="btn-label">das_DEMARC:/</span>
-        <a href="https://comradecorium.github.io/specterwatch/" target="_blank" rel="noopener" class="hdr-btn">SpecterWatch</a>
-      </div>
-      <div class="btn-group">
-        <span class="btn-label">External</span>
-        <a href="https://iranwarcost.com/" target="_blank" rel="noopener" class="hdr-btn war">War money &rarr;</a>
-      </div>
-    </div>
     <div class="pub-name"><a href="https://dasdemarc.substack.com" target="_blank" rel="noopener">das_DEMARC:/</a></div>
     <h1>BoP &rarr; Follow the money.</h1>
     <p class="subtitle">Receipts & no peace.</p>
