@@ -275,10 +275,10 @@
       "date": "2026-02-19",
       "title": "BoP opens separate operational account",
       "amount": 65000000,
-      "amount_display": "$60–70M",
+      "amount_display": "est. $60–70M",
       "category": "fund_structure",
       "status": "operational",
-      "detail": "Operational bank account funded by regional actors, separate from the World Bank GRAD Fund. Initial budget for BoP administrative operations.",
+      "detail": "Operational bank account funded by regional actors, separate from the World Bank GRAD Fund. Initial budget for BoP administrative operations. Dollar range reported in early February 2026 coverage but a primary source for the $60–70M figure has not yet been traced; flagged for source identification.",
       "sources": [],
       "excluded_from_total": true,
       "exclude_reason": "Operational bank account, not a reconstruction commitment."
