@@ -95,6 +95,11 @@ Categories: `us_taxpayer`, `gulf_pledge`, `international`, `governance`, `fund_s
 
 Status: `transferred`, `pledged`, `target`, `operational`, or `null`
 
+## Related work
+
+- [Connected-Procurement](https://github.com/CSU-J3/Connected-Procurement) — federal civilian contract awards and GSA leases to entities with named-family-member financial interests
+- [Sovereign-Connections](https://github.com/CSU-J3/Sovereign-Connections) — foreign sovereign and sovereign-adjacent money flowing to family-member-connected businesses. Live: https://sovereign-connections.vercel.app
+
 ## License
 
 Public accountability project. Use it, fork it, build on it.
