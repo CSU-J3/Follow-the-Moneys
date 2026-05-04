@@ -2086,5 +2086,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-143",
+    "date": "2026-03-23",
+    "title": "Prabowo said no $1 billion—but his ministers signalled otherwise on the Board of Peace - Middle East Monitor",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1o1LTl3aDFkNEo1dW10Z3huX083WURJSFRqTFhKVzRWems3c2JRUUdnZ1dKcWNzTXVRQWlGWWIyc3VRek14MFRYY2JPOWVveFpRM2NPbnRCSW54eVcySHZCWXFkYldwblBWWEpERHNXRXhzSHpDWHF1TlZTMWJhNjZ1N3hqbi1JRzVpRG5uVzlUX0hiTm1HZ21mQ3A3OWItd2pjUlJhMGhuTE56Yzk5bVVNOXczR09CRzQwRHZoOVBBMGlCdWQ00gHMAUFVX3lxTE03MVFkVktTSjR6ZW56SVNleENsUFhEWVdQbVBCTldoNER0Y3hudDlzbGl0elR3VjZWN2JxWU9xd0lZZ0M1V09Ja290eWdweTJwc0xZVHpzY29yaktWTmQtUzc1VUk3OTBfdmFoRXdBcFFrUU0yQ3pOVXhTWGIyVEtTMWx5U2tuV1p2LWpNS3czYXJ4bmVKUW1TYUcwTE1KRm1MeTdYQ05mZ1pvSU9oeng5aU1JQWcxSjVwRmxReFJ0WnRmeC1wSDVuMDc0Mw?oc=5\" target=\"_blank\">Prabowo said no $1 billion—but his ministers signalled otherwise on the Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Monitor</font>",
+    "sources": [
+      {
+        "name": "Middle East Monitor",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1o1LTl3aDFkNEo1dW10Z3huX083WURJSFRqTFhKVzRWems3c2JRUUdnZ1dKcWNzTXVRQWlGWWIyc3VRek14MFRYY2JPOWVveFpRM2NPbnRCSW54eVcySHZCWXFkYldwblBWWEpERHNXRXhzSHpDWHF1TlZTMWJhNjZ1N3hqbi1JRzVpRG5uVzlUX0hiTm1HZ21mQ3A3OWItd2pjUlJhMGhuTE56Yzk5bVVNOXczR09CRzQwRHZoOVBBMGlCdWQ00gHMAUFVX3lxTE03MVFkVktTSjR6ZW56SVNleENsUFhEWVdQbVBCTldoNER0Y3hudDlzbGl0elR3VjZWN2JxWU9xd0lZZ0M1V09Ja290eWdweTJwc0xZVHpzY29yaktWTmQtUzc1VUk3OTBfdmFoRXdBcFFrUU0yQ3pOVXhTWGIyVEtTMWx5U2tuV1p2LWpNS3czYXJ4bmVKUW1TYUcwTE1KRm1MeTdYQ05mZ1pvSU9oeng5aU1JQWcxSjVwRmxReFJ0WnRmeC1wSDVuMDc0Mw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-144",
+    "date": "2026-02-15",
+    "title": "Trump says over $5 billion in funds for Gaza will be pledged at Board of Peace summit - The Times of Israel",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTNWeVJDb2piSjdMUzZrbTZMQUJZMS1JSjUtZkRvRkZCYmdKMnJLd0RvQk9kMEtOekRYLS13NFp1RU5xQzlMSDJiTEx1Q0pWWHUxWnNETlUyQlJrYUtUVFFfMnFVNzcyajJld3NLbU5TSGJLZ2JBTXRkd3plQlk1RzRWVGJ3d1l3cEN6UkdrRGl1elFoM3VST2lZdktkZmw4eVp6dllvUVczU2RXM0I4anBLRFUtTG1KaGxaSGhKNjF5TWc0RGlUd01B?oc=5\" target=\"_blank\">Trump says over $5 billion in funds for Gaza will be pledged at Board of Peace summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTNWeVJDb2piSjdMUzZrbTZMQUJZMS1JSjUtZkRvRkZCYmdKMnJLd0RvQk9kMEtOekRYLS13NFp1RU5xQzlMSDJiTEx1Q0pWWHUxWnNETlUyQlJrYUtUVFFfMnFVNzcyajJld3NLbU5TSGJLZ2JBTXRkd3plQlk1RzRWVGJ3d1l3cEN6UkdrRGl1elFoM3VST2lZdktkZmw4eVp6dllvUVczU2RXM0I4anBLRFUtTG1KaGxaSGhKNjF5TWc0RGlUd01B?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
