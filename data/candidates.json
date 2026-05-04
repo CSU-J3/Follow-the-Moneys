@@ -2068,5 +2068,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-142",
+    "date": "2026-01-22",
+    "title": "Kremlin: $1 billion donation to Board of Peace will require unblocking of Russian assets in US - Apa.az",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUUwOHowRUJlamQ3MU1DRWc4SHlNb2RTcmhBam5FZ2dWNUhuSGk1d1Y4THZkYmFmVU5KN2VtMzBHa1ZFdG12MWVlMmY0RFdCS0dlRUdfb1BHZmZYMU5wS2ducFRNcnRhaEwyY1psaTIxT180c18wazNPSjVzaWxDYmZQZlgyUWppMzNFNUpRRjQ0X1Z5NDh2TmdZb1hMRDhmZTc5R0RjNGhzWGFuaG1OWUhpY1pZcGxIa3B1SndOclpMNHdib0lRQVotcw?oc=5\" target=\"_blank\">Kremlin: $1 billion donation to Board of Peace will require unblocking of Russian assets in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apa.az</font>",
+    "sources": [
+      {
+        "name": "Apa.az",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUUwOHowRUJlamQ3MU1DRWc4SHlNb2RTcmhBam5FZ2dWNUhuSGk1d1Y4THZkYmFmVU5KN2VtMzBHa1ZFdG12MWVlMmY0RFdCS0dlRUdfb1BHZmZYMU5wS2ducFRNcnRhaEwyY1psaTIxT180c18wazNPSjVzaWxDYmZQZlgyUWppMzNFNUpRRjQ0X1Z5NDh2TmdZb1hMRDhmZTc5R0RjNGhzWGFuaG1OWUhpY1pZcGxIa3B1SndOclpMNHdib0lRQVotcw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
