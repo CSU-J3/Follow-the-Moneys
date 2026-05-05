@@ -2140,5 +2140,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-146",
+    "date": "2026-01-22",
+    "title": "Russian leader tells Palestinian counterpart Moscow prepared to fund Gaza with $1 billion - Caliber.Az",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0pxWi1HMzd2LVdfYmFpbVNXdkxWdTVsbGE4MUE2a2FORzJIdzZ5VVFyRS1kTV9hRkloek92NXg0OFZyNFpDVzdwVVFvaGl6Tl9mTjh0SmxvamFpbENBclQ4RmxwYTRBLXNvLWx4OFhBU0pya1pvTzhSaWNOSUl6eHZLQXpQWFhXYjFEa2VPNGVqWllpVGdGX3RvTGJlbWppdXA0RzhKZEh4ZkZKSWFnSV8wSTRkdw?oc=5\" target=\"_blank\">Russian leader tells Palestinian counterpart Moscow prepared to fund Gaza with $1 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caliber.Az</font>",
+    "sources": [
+      {
+        "name": "Caliber.Az",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0pxWi1HMzd2LVdfYmFpbVNXdkxWdTVsbGE4MUE2a2FORzJIdzZ5VVFyRS1kTV9hRkloek92NXg0OFZyNFpDVzdwVVFvaGl6Tl9mTjh0SmxvamFpbENBclQ4RmxwYTRBLXNvLWx4OFhBU0pya1pvTzhSaWNOSUl6eHZLQXpQWFhXYjFEa2VPNGVqWllpVGdGX3RvTGJlbWppdXA0RzhKZEh4ZkZKSWFnSV8wSTRkdw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
