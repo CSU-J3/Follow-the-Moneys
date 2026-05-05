@@ -2122,5 +2122,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-145",
+    "date": "2026-02-20",
+    "title": "Trump Launches Board of Peace in Washington, Raises $17 Billion for Gaza - Hungarian Conservative",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHptX1pOSWZRQzlMbFpRTW1JeUFvVFdaSnBPYlBUNC1QTWlfcjdCbEt6dFBSMXQwQlV3RTVDNXNhUVRXV0RZNEFRMVBZOHFVV09TTmQtZnU5QXVoUVFaSTBPcEEwWEgyMG0yQV9TUTlKb2RrUHQydXFYNTNYMkJURUZ6aXgxRmhzRjU4bXYteU5LSzc4TFBTYUZ1bEdVanFx?oc=5\" target=\"_blank\">Trump Launches Board of Peace in Washington, Raises $17 Billion for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hungarian Conservative</font>",
+    "sources": [
+      {
+        "name": "Hungarian Conservative",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHptX1pOSWZRQzlMbFpRTW1JeUFvVFdaSnBPYlBUNC1QTWlfcjdCbEt6dFBSMXQwQlV3RTVDNXNhUVRXV0RZNEFRMVBZOHFVV09TTmQtZnU5QXVoUVFaSTBPcEEwWEgyMG0yQV9TUTlKb2RrUHQydXFYNTNYMkJURUZ6aXgxRmhzRjU4bXYteU5LSzc4TFBTYUZ1bEdVanFx?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
