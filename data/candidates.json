@@ -2176,5 +2176,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-148",
+    "date": "2026-03-27",
+    "title": "State Department Sends $1.25 Billion to Trump’s “Board of Peace” - thenewamerican.com",
+    "amount": 1250000000,
+    "amount_display": "$1.25B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNanJZRVd0T3JkbmNpTFJVd2F3MUpjM2oyVkY5Y3ZsSVhtd1lyMGI4eHRPc1RYcThSX2RSTW9FNzd5VVpqTFh2UVVQdHhrX191Q2tSRzNVbWNKMHZGdEw1ekhCV3QwVWpLQmVOSElSQndJbi0xMnAtYXloMlFiUHIzN2R6M3kzc1BWMXpoeTR4Wkd2NlpaTmtiTTBiRlNwYk03VGc?oc=5\" target=\"_blank\">State Department Sends $1.25 Billion to Trump’s “Board of Peace”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenewamerican.com</font>",
+    "sources": [
+      {
+        "name": "thenewamerican.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanJZRVd0T3JkbmNpTFJVd2F3MUpjM2oyVkY5Y3ZsSVhtd1lyMGI4eHRPc1RYcThSX2RSTW9FNzd5VVpqTFh2UVVQdHhrX191Q2tSRzNVbWNKMHZGdEw1ekhCV3QwVWpLQmVOSElSQndJbi0xMnAtYXloMlFiUHIzN2R6M3kzc1BWMXpoeTR4Wkd2NlpaTmtiTTBiRlNwYk03VGc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
   }
 ]
