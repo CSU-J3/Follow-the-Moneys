@@ -2158,5 +2158,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-147",
+    "date": "2026-02-20",
+    "title": "Gulf nations pledge over $4 billion to Trump's Gaza peace board - Yeni Safak English",
+    "amount": 4000000000,
+    "amount_display": "$4B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTd1N3RSRG5QbjU3R1hESncwaENqUlg1UXkxcGdVVm5QSUVwT0wwSzFGb2xoNEZHMkVJMzBhYUxfVUFEdExDRUZ0VmZiOU5kc0w2Q2ZMYnlwbnhMSV9XVVBvTmZaTFpjS2tKZVRHdjJnM1hNQkxsa1FEbUhWbWw1QzZQT1I2N2Z0VVFfM0FrNWRETm53ZmpZLTFsZDZ0TGdabkE?oc=5\" target=\"_blank\">Gulf nations pledge over $4 billion to Trump's Gaza peace board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yeni Safak English</font>",
+    "sources": [
+      {
+        "name": "Yeni Safak English",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTd1N3RSRG5QbjU3R1hESncwaENqUlg1UXkxcGdVVm5QSUVwT0wwSzFGb2xoNEZHMkVJMzBhYUxfVUFEdExDRUZ0VmZiOU5kc0w2Q2ZMYnlwbnhMSV9XVVBvTmZaTFpjS2tKZVRHdjJnM1hNQkxsa1FEbUhWbWw1QzZQT1I2N2Z0VVFfM0FrNWRETm53ZmpZLTFsZDZ0TGdabkE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
