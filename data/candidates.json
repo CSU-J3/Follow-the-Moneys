@@ -2194,5 +2194,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-149",
+    "date": "2026-02-16",
+    "title": "Board of Peace to unveil $5 billion in Gaza reconstruction at inaugural meeting, Trump says - Euronews.com",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXBpcXZKV2RCMmkzanFrRkd2Rk1OU0hiaEp5bzloSGQxc19YbkZHRF9LWXR6bGMtc0t2dXFkR2xwcFBhVE5mVTJWYXMzOGdBNTE1aVd2UU5oRThDdzlfRzBKbGdVclZPdkVjc21TQVRMR2FyanAtdnpWMkJBQmJCR3RUZG5MSWtsYXo1UzYtM0F1akwtWThjbFFvVTI2ZG5UM0NOV3BQYzJIN3NOX2RfaFJ1ZXdBS0xvR1pGaGNaUnJpTnc?oc=5\" target=\"_blank\">Board of Peace to unveil $5 billion in Gaza reconstruction at inaugural meeting, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+    "sources": [
+      {
+        "name": "Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXBpcXZKV2RCMmkzanFrRkd2Rk1OU0hiaEp5bzloSGQxc19YbkZHRF9LWXR6bGMtc0t2dXFkR2xwcFBhVE5mVTJWYXMzOGdBNTE1aVd2UU5oRThDdzlfRzBKbGdVclZPdkVjc21TQVRMR2FyanAtdnpWMkJBQmJCR3RUZG5MSWtsYXo1UzYtM0F1akwtWThjbFFvVTI2ZG5UM0NOV3BQYzJIN3NOX2RfaFJ1ZXdBS0xvR1pGaGNaUnJpTnc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
