@@ -2212,5 +2212,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-150",
+    "date": "2026-05-07",
+    "title": "UAE sends Board of Peace $100 million for training of new Gaza police force — officials - The Times of Israel",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDA5ellQdVNzUnpkSW9La1BZa1BxLVRLNHZJQllhUXFkMmpZdWstWGdQbGxsUmt0LXkwUzBBUUdRM1ZlMXVoMXRGMmh4VzB1NXBoYUNHaXBtb1dQSnQ4c1h5S2kwZ0NxbXhva3hkUjNtRlg5dkpzdUpXSzR3OGQzV3oyaTRTRkhzaTYxSUhyX1R0bnJ2TFk5Z3RhWUttVUtQd09ZOGZDZ1R0UGkxaHRhaHZWeTZDUdIBuwFBVV95cUxOZ0Nvd0ZVMGRnQ2ZNVEt6bGFjRmMzaWllNXVPQ01hMUpZZmxYWnhvR2RQZG1LT1dkRDRRTlVZcTVlSzl1eXRoQ3NUZExNRUhtRHpZclYyQTUxQXZJTmV6MFJOMTlmR2FkcGNMa2VWemh3eU5YazZPd0x2RDI0SndGUXQtLVdOLTRKRGk3Wkk3NHNpY1EwbVAwM1ZYbDA0bE53bkstcTF4XzdJMFNHbVk3WkoxWmNlMWpQQjFz?oc=5\" target=\"_blank\">UAE sends Board of Peace $100 million for training of new Gaza police force — officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDA5ellQdVNzUnpkSW9La1BZa1BxLVRLNHZJQllhUXFkMmpZdWstWGdQbGxsUmt0LXkwUzBBUUdRM1ZlMXVoMXRGMmh4VzB1NXBoYUNHaXBtb1dQSnQ4c1h5S2kwZ0NxbXhva3hkUjNtRlg5dkpzdUpXSzR3OGQzV3oyaTRTRkhzaTYxSUhyX1R0bnJ2TFk5Z3RhWUttVUtQd09ZOGZDZ1R0UGkxaHRhaHZWeTZDUdIBuwFBVV95cUxOZ0Nvd0ZVMGRnQ2ZNVEt6bGFjRmMzaWllNXVPQ01hMUpZZmxYWnhvR2RQZG1LT1dkRDRRTlVZcTVlSzl1eXRoQ3NUZExNRUhtRHpZclYyQTUxQXZJTmV6MFJOMTlmR2FkcGNMa2VWemh3eU5YazZPd0x2RDI0SndGUXQtLVdOLTRKRGk3Wkk3NHNpY1EwbVAwM1ZYbDA0bE53bkstcTF4XzdJMFNHbVk3WkoxWmNlMWpQQjFz?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
   }
 ]
