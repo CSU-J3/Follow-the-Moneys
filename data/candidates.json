@@ -2284,5 +2284,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-154",
+    "date": "2026-05-08",
+    "title": "UAE dumps another $100 million into Board of Peace to fund Gaza police force - Washington Examiner",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONDlERDc4bm95WjVfWWQzb2NnYVQzNTBmU0RuRzZZNzBOOS1GTjJUM1Y3X080YlYtU1Y3V3NYX1F1ajVtbzI2VHBzWTlERE9kdkRWZnozTHM4LXpvNnNYbFN0MHdfTk5xNUVOTFB3b0p3X29NT3FsdC13NkloanZZWnU4RnhOVV9ONHR4SHdVaFAwNmExWEppWnlPcjZ2eC1RTC1LME9XSXNQUnFGWFE?oc=5\" target=\"_blank\">UAE dumps another $100 million into Board of Peace to fund Gaza police force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+    "sources": [
+      {
+        "name": "Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDlERDc4bm95WjVfWWQzb2NnYVQzNTBmU0RuRzZZNzBOOS1GTjJUM1Y3X080YlYtU1Y3V3NYX1F1ajVtbzI2VHBzWTlERE9kdkRWZnozTHM4LXpvNnNYbFN0MHdfTk5xNUVOTFB3b0p3X29NT3FsdC13NkloanZZWnU4RnhOVV9ONHR4SHdVaFAwNmExWEppWnlPcjZ2eC1RTC1LME9XSXNQUnFGWFE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-155",
+    "date": "2026-05-08",
+    "title": "UAE Commits $100 Million to US-Backed Gaza Security Force Initiative - PravdaReport",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHR0VDFUWG5ON1lWVDdhclhlY3ZwNHlJTzd1eENMTDdSOEw4eU55dHJpVVptNlVuM3lLTHFYYmEtd0k5VzhTMVgwakt1Nlk2TkJPU0ZfaUlrZHhDd0c5ZzFtV3pFUFNMOWU5aGFtRGY1cDU5cmwxN25hSUVBdFJ3azhORi1lQXI0YlE4QWFKR2NWckk?oc=5\" target=\"_blank\">UAE Commits $100 Million to US-Backed Gaza Security Force Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PravdaReport</font>",
+    "sources": [
+      {
+        "name": "PravdaReport",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHR0VDFUWG5ON1lWVDdhclhlY3ZwNHlJTzd1eENMTDdSOEw4eU55dHJpVVptNlVuM3lLTHFYYmEtd0k5VzhTMVgwakt1Nlk2TkJPU0ZfaUlrZHhDd0c5ZzFtV3pFUFNMOWU5aGFtRGY1cDU5cmwxN25hSUVBdFJ3azhORi1lQXI0YlE4QWFKR2NWckk?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
