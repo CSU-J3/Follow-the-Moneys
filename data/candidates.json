@@ -2230,5 +2230,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-151",
+    "date": "2026-01-23",
+    "title": "Russia ready to allocate $1 bn from frozen assets for rebuilding Gaza - Ahmedabad Mirror",
+    "amount": 1,
+    "amount_display": "$1",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVpaTDBILU9DUndrMU1aQ0hZS0FZVURVbU1rcFEtSWdlMU5COVZfd2RGS2E3ZlVPWHh1RF9HaFRzQi1UVEt6djVmUjM1blNzekFtTk5TaGZMMnU0SFY5UURCU3ZoNm9ia3YxOXhZX18zYmk0OFNrWWJQX19tODlmZnA0Ti1hUXhVWjJ3c19QWmZNTjJDN1ZpaUZXdTVGcE9SSEROYUEwWWwxWUVLNnFYbEltTEs?oc=5\" target=\"_blank\">Russia ready to allocate $1 bn from frozen assets for rebuilding Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahmedabad Mirror</font>",
+    "sources": [
+      {
+        "name": "Ahmedabad Mirror",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVpaTDBILU9DUndrMU1aQ0hZS0FZVURVbU1rcFEtSWdlMU5COVZfd2RGS2E3ZlVPWHh1RF9HaFRzQi1UVEt6djVmUjM1blNzekFtTk5TaGZMMnU0SFY5UURCU3ZoNm9ia3YxOXhZX18zYmk0OFNrWWJQX19tODlmZnA0Ti1hUXhVWjJ3c19QWmZNTjJDN1ZpaUZXdTVGcE9SSEROYUEwWWwxWUVLNnFYbEltTEs?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
