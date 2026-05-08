@@ -2248,5 +2248,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-152",
+    "date": "2026-05-08",
+    "title": "UAE sends Trump's Board of Peace '$100m' for training of new Gaza police force - Middle East Eye",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzZ3T2RGakRuWjhVZFAxdUlvYldIZWQyc0E3b1RZZ0w1aWlxQU9LbVA1ZHc0d2tVb2Y4emd1c3JHUDhBTDNwUF9ldGRvclVsc25OT3dWbklBZGxRenBIYXNCQUVDeHBwc1Z1a29neXZnbDlULS11c1NwYXFiUUNGcVVMRVFUTkhhMTlOM3gyWE1JU1NzR0F1YTlSdnJjazVGblhpeVFQZlY4cFl6cWtXdFVUMWFiSGFEMVZCMU93?oc=5\" target=\"_blank\">UAE sends Trump's Board of Peace '$100m' for training of new Gaza police force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Eye</font>",
+    "sources": [
+      {
+        "name": "Middle East Eye",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzZ3T2RGakRuWjhVZFAxdUlvYldIZWQyc0E3b1RZZ0w1aWlxQU9LbVA1ZHc0d2tVb2Y4emd1c3JHUDhBTDNwUF9ldGRvclVsc25OT3dWbklBZGxRenBIYXNCQUVDeHBwc1Z1a29neXZnbDlULS11c1NwYXFiUUNGcVVMRVFUTkhhMTlOM3gyWE1JU1NzR0F1YTlSdnJjazVGblhpeVFQZlY4cFl6cWtXdFVUMWFiSGFEMVZCMU93?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-153",
+    "date": "2026-05-08",
+    "title": "UAE provides $100m for US-backed Gaza police force vetted by Shin Bet - thecradle.co",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BOXhXUzZfdk16R2tJYkx1WjFSMzNZZF9pT3l3NzROeG4wNkoyYVM1UHRheGRGZ0RtZHlBNUxpMVk1WXZLcDlDUGFmaW5wak0?oc=5\" target=\"_blank\">UAE provides $100m for US-backed Gaza police force vetted by Shin Bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecradle.co</font>",
+    "sources": [
+      {
+        "name": "thecradle.co",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BOXhXUzZfdk16R2tJYkx1WjFSMzNZZF9pT3l3NzROeG4wNkoyYVM1UHRheGRGZ0RtZHlBNUxpMVk1WXZLcDlDUGFmaW5wak0?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
