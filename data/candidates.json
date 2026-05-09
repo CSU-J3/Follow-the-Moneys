@@ -2338,5 +2338,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-157",
+    "date": "2026-02-22",
+    "title": "Trump Secures $7B Gaza Pledges and Troop Commitments at Peace Summit - SNJ Today",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHVFaUhsV1Y5Z3VMM2ZBeHhkRXZHdl9sZFVLbzNDQVo5NHN1cDJsT3ZubGJRcDI3akRHY2FMbGt1S3JCaXd0dEtUVlZaNkt5WlJURWFnRmtPRDcyQjQtbVpkdUMzc014TmpJNU1fWE40UmdoMlM0cGljdmtwR1M5U3oxcHpzQWRj?oc=5\" target=\"_blank\">Trump Secures $7B Gaza Pledges and Troop Commitments at Peace Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SNJ Today</font>",
+    "sources": [
+      {
+        "name": "SNJ Today",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHVFaUhsV1Y5Z3VMM2ZBeHhkRXZHdl9sZFVLbzNDQVo5NHN1cDJsT3ZubGJRcDI3akRHY2FMbGt1S3JCaXd0dEtUVlZaNkt5WlJURWFnRmtPRDcyQjQtbVpkdUMzc014TmpJNU1fWE40UmdoMlM0cGljdmtwR1M5U3oxcHpzQWRj?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
