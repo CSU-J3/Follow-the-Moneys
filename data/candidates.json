@@ -2320,5 +2320,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-156",
+    "date": "2026-02-19",
+    "title": "Trump announces $7B in Gaza relief at Board of Peace meeting - KTAR News 92.3 FM",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOFR6Y0hDWUZFeWNSSl9HVFNVWXpWN21YM3F1UlI4SFpmSElvRHJFNlZEQVhrRl9nWjV0UUFIT0paZXFhbXR6YWNlQU9HUnVxM3AzdWk2ZzB5Yk02UDBneURrNG14YWVmaGFPdXloUHRhTzA?oc=5\" target=\"_blank\">Trump announces $7B in Gaza relief at Board of Peace meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTAR News 92.3 FM</font>",
+    "sources": [
+      {
+        "name": "KTAR News 92.3 FM",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOFR6Y0hDWUZFeWNSSl9HVFNVWXpWN21YM3F1UlI4SFpmSElvRHJFNlZEQVhrRl9nWjV0UUFIT0paZXFhbXR6YWNlQU9HUnVxM3AzdWk2ZzB5Yk02UDBneURrNG14YWVmaGFPdXloUHRhTzA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
