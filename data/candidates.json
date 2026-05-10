@@ -2392,5 +2392,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-160",
+    "date": "2018-12-06",
+    "title": "Germany allocates $62m to Palestinian development projects - Middle East Monitor",
+    "amount": 62000000,
+    "amount_display": "$62M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHE5anE0N0JXTXZ1SnBKVWxYQ1lwTVRWalNtRHI5Nk03X3FVWHBfenhCWFc0azRhQmNZVzl5dFBjUkY3UmlkSTVaUVNrUGlxX3JWeUlISzJCbGt4TF9LdlRLaDJaeFZlX2UzRWpicmVrMmVfeGk2aS00V0RORElYQVg0ZjJVTW9XNDh0YnRHVlhjZFJUZTF4c1ZJUG5LYnlydGZn0gGoAUFVX3lxTE8zSnF0YlZuMFdMRFgwa082VmlueFJjaFMteUlTVVNwWXhmYXVPdXVIeUZ1dFhHbkZYT01WNGZVdUtVXzBpYThoT18zcEMzZ0tIdm13SXJZOHBjQURaSm4za3lNTDZWX3dwdDRqRGV5TXBCTHRTbTl0a0pXRzRuOUU2dTZwM3FiZGt3UTRtQlhoakVldWwxMFNLTktfeGpRYUtBLWVOaEtYXw?oc=5\" target=\"_blank\">Germany allocates $62m to Palestinian development projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Monitor</font>",
+    "sources": [
+      {
+        "name": "Middle East Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHE5anE0N0JXTXZ1SnBKVWxYQ1lwTVRWalNtRHI5Nk03X3FVWHBfenhCWFc0azRhQmNZVzl5dFBjUkY3UmlkSTVaUVNrUGlxX3JWeUlISzJCbGt4TF9LdlRLaDJaeFZlX2UzRWpicmVrMmVfeGk2aS00V0RORElYQVg0ZjJVTW9XNDh0YnRHVlhjZFJUZTF4c1ZJUG5LYnlydGZn0gGoAUFVX3lxTE8zSnF0YlZuMFdMRFgwa082VmlueFJjaFMteUlTVVNwWXhmYXVPdXVIeUZ1dFhHbkZYT01WNGZVdUtVXzBpYThoT18zcEMzZ0tIdm13SXJZOHBjQURaSm4za3lNTDZWX3dwdDRqRGV5TXBCTHRTbTl0a0pXRzRuOUU2dTZwM3FiZGt3UTRtQlhoakVldWwxMFNLTktfeGpRYUtBLWVOaEtYXw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
