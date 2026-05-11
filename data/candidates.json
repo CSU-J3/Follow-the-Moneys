@@ -2410,5 +2410,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-161",
+    "date": "2026-05-08",
+    "title": "UAE sends $100M to fund Gaza police training under Board of Peace - MSN",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLUdDUEFCTHRObG1rTHRDenJhSGhmcnBoV0JYc1V4bG5Dd2pqQVBrVzBKU3ctYWhIUXM1MmlDVW53NHUyZ21reGtlcU1mc3NmeldqQlBQaWtkUWhNNnZqdXpBT3Exd29fRm05MEMwREJETHFCWmhaRWJFS2Zpem9tczM0Z1R0N0hHMkdMdEl6OEFwbHMzWTh1a3dKa1lSQ3h1d2puOGVJSzN2WHNQWUduY2dFb25JX2JDd01GcGxVUWpPbFFvT3c3c1N3SzZObEdzOVZuNTVBdmtKWWdHU2hVUy03VGxrNFJsQzQ0?oc=5\" target=\"_blank\">UAE sends $100M to fund Gaza police training under Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLUdDUEFCTHRObG1rTHRDenJhSGhmcnBoV0JYc1V4bG5Dd2pqQVBrVzBKU3ctYWhIUXM1MmlDVW53NHUyZ21reGtlcU1mc3NmeldqQlBQaWtkUWhNNnZqdXpBT3Exd29fRm05MEMwREJETHFCWmhaRWJFS2Zpem9tczM0Z1R0N0hHMkdMdEl6OEFwbHMzWTh1a3dKa1lSQ3h1d2puOGVJSzN2WHNQWUduY2dFb25JX2JDd01GcGxVUWpPbFFvT3c3c1N3SzZObEdzOVZuNTVBdmtKWWdHU2hVUy03VGxrNFJsQzQ0?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
