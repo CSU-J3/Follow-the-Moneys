@@ -2428,5 +2428,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-162",
+    "date": "2026-05-09",
+    "title": "UAE dumps another $100 million into Board of Peace to fund Gaza police force - MSN",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTJBRkwzSVJ6TGlXQ2Z2WTM2RHAwaFJ0ZU9FXzJMcEFZc09raFBpTTVnU3BrS0d0RVJfNnkzVjdfWEY3OU4yYmxseFFiRWFlblZPVjFtMk9weXg4c1RlZkk4TGxHbGxCbXRyUFZnd3JiRHdSaVVJQ1NrNjl6Smk4ZU84UFZ3Y3BYLUEzUlJrcElsNHg5bjItcmtBSmFUX284TzA1bTJScHRPVEF1b3lTcnN2b09YejYtN3dHUVplekU4VkJCc0NJQ0cyX0hJNFpXQnROeWI4VQ?oc=5\" target=\"_blank\">UAE dumps another $100 million into Board of Peace to fund Gaza police force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTJBRkwzSVJ6TGlXQ2Z2WTM2RHAwaFJ0ZU9FXzJMcEFZc09raFBpTTVnU3BrS0d0RVJfNnkzVjdfWEY3OU4yYmxseFFiRWFlblZPVjFtMk9weXg4c1RlZkk4TGxHbGxCbXRyUFZnd3JiRHdSaVVJQ1NrNjl6Smk4ZU84UFZ3Y3BYLUEzUlJrcElsNHg5bjItcmtBSmFUX284TzA1bTJScHRPVEF1b3lTcnN2b09YejYtN3dHUVplekU4VkJCc0NJQ0cyX0hJNFpXQnROeWI4VQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
