@@ -2482,5 +2482,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-165",
+    "date": "2026-01-29",
+    "title": "EU allocates $183 million in emergency humanitarian aid for Ukraine, Moldova - Yeni Safak English",
+    "amount": 183000000,
+    "amount_display": "$183M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMExiQk9PS1pLY0ZnM2luZXhDRDRjVFBXV3c1Qnl6dHZkZGowSTA3aUdBbUtUNHFZVkoxZFNlT2xfQVNXWm9WOFhsd2JJcjVaYWZQdnBHQlkycWhPTFBIZnBnVWlRRkYwaXpTbkVqSmVWbldXLTEtZ3dkdlVobHViY1cwYWlCTzVTcHpXVGZTRUVQaExTZ1RfLXk3UGF6MTJzOU45TTlxUDNxY2NpNmZLVEh1VQ?oc=5\" target=\"_blank\">EU allocates $183 million in emergency humanitarian aid for Ukraine, Moldova</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yeni Safak English</font>",
+    "sources": [
+      {
+        "name": "Yeni Safak English",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMExiQk9PS1pLY0ZnM2luZXhDRDRjVFBXV3c1Qnl6dHZkZGowSTA3aUdBbUtUNHFZVkoxZFNlT2xfQVNXWm9WOFhsd2JJcjVaYWZQdnBHQlkycWhPTFBIZnBnVWlRRkYwaXpTbkVqSmVWbldXLTEtZ3dkdlVobHViY1cwYWlCTzVTcHpXVGZTRUVQaExTZ1RfLXk3UGF6MTJzOU45TTlxUDNxY2NpNmZLVEh1VQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
