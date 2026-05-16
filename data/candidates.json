@@ -2518,5 +2518,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-167",
+    "date": "2026-04-08",
+    "title": "Unpacking claim State Department redirected $1.25B to Trump's Board of Peace - Yahoo",
+    "amount": 1250000000,
+    "amount_display": "$1.25B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmNKTUR6VUtMREgwLXJTRkZLNndsQ3otX285dkFYb2tZSWt3Z0JSajkxV0xtNWVkdzVEa1g2VWlRb1FMcHpKTXNBNm1zTzgyNVhFVXhvTTYtVlFveFNNN3FTSmJZejh5Tk9nNHZZajF1d3Y2YldNRm9BNjJPX1FpS2xSUmpnQUE2OWhxYm5ldU5JWGw0WlRLUWFB?oc=5\" target=\"_blank\">Unpacking claim State Department redirected $1.25B to Trump's Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmNKTUR6VUtMREgwLXJTRkZLNndsQ3otX285dkFYb2tZSWt3Z0JSajkxV0xtNWVkdzVEa1g2VWlRb1FMcHpKTXNBNm1zTzgyNVhFVXhvTTYtVlFveFNNN3FTSmJZejh5Tk9nNHZZajF1d3Y2YldNRm9BNjJPX1FpS2xSUmpnQUE2OWhxYm5ldU5JWGw0WlRLUWFB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
