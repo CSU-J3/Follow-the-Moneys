@@ -2554,5 +2554,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-169",
+    "date": "2026-05-17",
+    "title": "Israel Is Holding $5 Billion in Palestinian Tax Money:The U.S. Wants It for Trump's Gaza Plan - Report - Latin Times",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlROZ0I4UkVjNFB2WWZIR1RaUUVqNGpJMlpRWDdJZHhRdmRzLW5KRldYSkV0Vll0MVJnTVA0NHNScF9lV0RBOGJVXzQ1V25vQUR5Ml9pRjNORzBlZ3pGWDl2Mi1Qdk15YTZTRFlyT3hBckphYlZuRnJnc1kyenhkdG41NS1sUEJZd2xrY2ZSX09ZaU1laVczWG5aRk1CVWpTbWhld19ac0dIOC1fZzliMDZrNDk5Z0U?oc=5\" target=\"_blank\">Israel Is Holding $5 Billion in Palestinian Tax Money:The U.S. Wants It for Trump's Gaza Plan - Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Times</font>",
+    "sources": [
+      {
+        "name": "Latin Times",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlROZ0I4UkVjNFB2WWZIR1RaUUVqNGpJMlpRWDdJZHhRdmRzLW5KRldYSkV0Vll0MVJnTVA0NHNScF9lV0RBOGJVXzQ1V25vQUR5Ml9pRjNORzBlZ3pGWDl2Mi1Qdk15YTZTRFlyT3hBckphYlZuRnJnc1kyenhkdG41NS1sUEJZd2xrY2ZSX09ZaU1laVczWG5aRk1CVWpTbWhld19ac0dIOC1fZzliMDZrNDk5Z0U?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
