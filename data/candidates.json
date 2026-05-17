@@ -2536,5 +2536,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-168",
+    "date": "2026-02-15",
+    "title": "Trump says Board of Peace member states have vowed over $5 billion to rebuild Gaza - Washington Examiner",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHVyZktBbWx2VjdpRnkxdGRlTTg4eG1iTEVxZVV5OS1acE9xbUpUSXpFM2pYN3RMcWF6Ti1XLWhWMHhhSFZLRmgxNGtLOThDUjRUTHVMeTg1RGQ0SXBSRGtjUFRxZXhLd1hYSVcxZUZnUERTb2dXSkdDc1RGQjMtTDh1dzV1bjZ0MmxPR1RBS1VKVEY3djNUWkF4amZiTGo0MTBlbmhZbW5EWm9lWHVRTA?oc=5\" target=\"_blank\">Trump says Board of Peace member states have vowed over $5 billion to rebuild Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+    "sources": [
+      {
+        "name": "Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHVyZktBbWx2VjdpRnkxdGRlTTg4eG1iTEVxZVV5OS1acE9xbUpUSXpFM2pYN3RMcWF6Ti1XLWhWMHhhSFZLRmgxNGtLOThDUjRUTHVMeTg1RGQ0SXBSRGtjUFRxZXhLd1hYSVcxZUZnUERTb2dXSkdDc1RGQjMtTDh1dzV1bjZ0MmxPR1RBS1VKVEY3djNUWkF4amZiTGo0MTBlbmhZbW5EWm9lWHVRTA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
