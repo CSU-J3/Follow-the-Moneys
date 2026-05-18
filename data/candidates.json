@@ -2572,5 +2572,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-170",
+    "date": "2026-05-15",
+    "title": "UAE sends Board of Peace $100 million for training of new Gaza police force — officials - MSN",
+    "amount": 100000000,
+    "amount_display": "$100M",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxPckkwR3cxd2tEbnUwSElkV1loWUo2M2NjdHBvR3ExQmxkOG1LWkFPUE1GSWVEOTlWQVVoa21iWW1kUkZNTmMwWThyQm5yWEF0LXhBbzdZRjRSMkN2SndxN3hHdEtTeUI5aU9Qd3NVUmJPY3Qyc2lTaHpiOXprT2NVcjQ3RjNpMFg2d0FOak1RSGtmd2pja0dXOFVCTHBtUXU0UXZCTnRKdDdwSTdlaUR4YzV4ZTA4b09GMXRaemszZi1ndE9vdHhxcUtBVG5mdmlNamg4cXVSSFJva3NXTVJ4bUFaZWFNWGtSVnVJYWFZWDVaSUc0NmlzbnotX1JseTdPY2MyX1FXNlh1Ymw5LVFfZHJrUmRpVHVlUGlMYWc0bVR1SUdLREl3U2Nab01yYzdwUC1ucmJYZzhYSkRZdkVfYVB2aU1JQkl6V1A0bzRIclBzeVhQUnFmNVlaM0QtX184N0w5Mm5fMkNKWnA2R1B1bnBOWWhDOHg3OTg1RGRSZk1XVkN6amJQdkdSa3BscFl5VTNydF9B?oc=5\" target=\"_blank\">UAE sends Board of Peace $100 million for training of new Gaza police force — officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPckkwR3cxd2tEbnUwSElkV1loWUo2M2NjdHBvR3ExQmxkOG1LWkFPUE1GSWVEOTlWQVVoa21iWW1kUkZNTmMwWThyQm5yWEF0LXhBbzdZRjRSMkN2SndxN3hHdEtTeUI5aU9Qd3NVUmJPY3Qyc2lTaHpiOXprT2NVcjQ3RjNpMFg2d0FOak1RSGtmd2pja0dXOFVCTHBtUXU0UXZCTnRKdDdwSTdlaUR4YzV4ZTA4b09GMXRaemszZi1ndE9vdHhxcUtBVG5mdmlNamg4cXVSSFJva3NXTVJ4bUFaZWFNWGtSVnVJYWFZWDVaSUc0NmlzbnotX1JseTdPY2MyX1FXNlh1Ymw5LVFfZHJrUmRpVHVlUGlMYWc0bVR1SUdLREl3U2Nab01yYzdwUC1ucmJYZzhYSkRZdkVfYVB2aU1JQkl6V1A0bzRIclBzeVhQUnFmNVlaM0QtX184N0w5Mm5fMkNKWnA2R1B1bnBOWWhDOHg3OTg1RGRSZk1XVkN6amJQdkdSa3BscFl5VTNydF9B?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
   }
 ]
