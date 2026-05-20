@@ -2590,5 +2590,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-171",
+    "date": "2026-02-15",
+    "title": "Trump announces $5 billion pledge in Gaza aid from Board of Peace members - AOL.com",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1hhbnpuYVpJaWhvM2I1X2hWSGVBYi1jbEVob2stUU9pTVNWbzFvM1lGSWFMWGh3U2VOQnpuZUVMZlNRaEV5elU5Tl8zeFhORmNsRUxrUnBVUWZQMENKNk80TE9kTTVTbUgzeGN1TmRFTDdrV3Q3cVpvdHpjSU5UN1Fn?oc=5\" target=\"_blank\">Trump announces $5 billion pledge in Gaza aid from Board of Peace members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+    "sources": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1hhbnpuYVpJaWhvM2I1X2hWSGVBYi1jbEVob2stUU9pTVNWbzFvM1lGSWFMWGh3U2VOQnpuZUVMZlNRaEV5elU5Tl8zeFhORmNsRUxrUnBVUWZQMENKNk80TE9kTTVTbUgzeGN1TmRFTDdrV3Q3cVpvdHpjSU5UN1Fn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
