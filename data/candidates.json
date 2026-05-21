@@ -2608,5 +2608,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-172",
+    "date": "2026-02-19",
+    "title": "Trump’s Board of Peace to Pledge $5 Billion to Rebuild Gaza - WSJ",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjZaODY0MWRhWGFiZWRDeDdvazE2UFpBU2d5Z3pULU9pZzdHRE1CQmFYajhCeDhGeHh6bXBQQnczYnpPRk9wLUNfWUNTWkZFdVZCX1A3S0l5RDNnYUdlY3VrUGNDeTB1dEhhaklRR1VpbURuRGo2dHhHV1FUVkNYNmNpRGtYQWhXUjRROTRYanZTNllTQmNMdF9fNWhRb25NR3lCWWlEOA?oc=5\" target=\"_blank\">Trump’s Board of Peace to Pledge $5 Billion to Rebuild Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+    "sources": [
+      {
+        "name": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjZaODY0MWRhWGFiZWRDeDdvazE2UFpBU2d5Z3pULU9pZzdHRE1CQmFYajhCeDhGeHh6bXBQQnczYnpPRk9wLUNfWUNTWkZFdVZCX1A3S0l5RDNnYUdlY3VrUGNDeTB1dEhhaklRR1VpbURuRGo2dHhHV1FUVkNYNmNpRGtYQWhXUjRROTRYanZTNllTQmNMdF9fNWhRb25NR3lCWWlEOA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
