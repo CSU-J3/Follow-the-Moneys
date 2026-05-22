@@ -2626,5 +2626,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-173",
+    "date": "2026-02-19",
+    "title": "Saudi Arabia pledges $1 billion to support peace efforts at first Board of Peace meeting - Saudi Gazette",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZZ1h2c3hLYVBXYUZSX0ZoLU1GbUtwNmVXRURSaTlXQjFDRXEyRzlWS0U1MEx4TFRoUFJkUldMc0dVb042UHVLaUt0d0lWd1ktaWZrdA?oc=5\" target=\"_blank\">Saudi Arabia pledges $1 billion to support peace efforts at first Board of Peace meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saudi Gazette</font>",
+    "sources": [
+      {
+        "name": "Saudi Gazette",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZZ1h2c3hLYVBXYUZSX0ZoLU1GbUtwNmVXRURSaTlXQjFDRXEyRzlWS0U1MEx4TFRoUFJkUldMc0dVb042UHVLaUt0d0lWd1ktaWZrdA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
