@@ -2644,5 +2644,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-174",
+    "date": "2026-02-19",
+    "title": "Trump announces $10 billion U.S. contribution to Board of Peace - Upper Michigan's Source",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWlrLWVQZnRTRnN0ZU9yTVFWZVVaa1pGaUoyRjF1RXJhSTdiREtfMU81SjJkWmlXam5xdV9wQWN4dmZibElhalcxV0RmOEI0ck1LcFNqbXNENHlSM0d6WkRBRExWb1JyYVY1LXVsRDhUZTY4NHd6cEpOUTJnUzcwdUpVNU9RcWhUdlFPa1VBMWdTcmRwMXp5Sm50Q0JwQTFWZ0NSYXZR0gG6AUFVX3lxTFAtbDgwbnhfYmxGS0h0NUpUcl80WjFoc25iemZpT1NNeG1ncE9lV3N6Qi1HZ1NBSEpndDVVMVFncDd5Y0lyUzlXdGVQaDdvLVQxSmctMjlzaDBZQmlrOF9ZeVYtLVpjU0FDQXo2NUFNZWdZRXY0OHJqdWRlUnB3cnZrNFlGVTlHdndYY2FDaDJvb1dkUVVCejdIWGwxdGRISXV5bWNWYjhCWGpqRHNUZUdFWU5BRHptcl93dw?oc=5\" target=\"_blank\">Trump announces $10 billion U.S. contribution to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upper Michigan's Source</font>",
+    "sources": [
+      {
+        "name": "Upper Michigan's Source",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWlrLWVQZnRTRnN0ZU9yTVFWZVVaa1pGaUoyRjF1RXJhSTdiREtfMU81SjJkWmlXam5xdV9wQWN4dmZibElhalcxV0RmOEI0ck1LcFNqbXNENHlSM0d6WkRBRExWb1JyYVY1LXVsRDhUZTY4NHd6cEpOUTJnUzcwdUpVNU9RcWhUdlFPa1VBMWdTcmRwMXp5Sm50Q0JwQTFWZ0NSYXZR0gG6AUFVX3lxTFAtbDgwbnhfYmxGS0h0NUpUcl80WjFoc25iemZpT1NNeG1ncE9lV3N6Qi1HZ1NBSEpndDVVMVFncDd5Y0lyUzlXdGVQaDdvLVQxSmctMjlzaDBZQmlrOF9ZeVYtLVpjU0FDQXo2NUFNZWdZRXY0OHJqdWRlUnB3cnZrNFlGVTlHdndYY2FDaDJvb1dkUVVCejdIWGwxdGRISXV5bWNWYjhCWGpqRHNUZUdFWU5BRHptcl93dw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
