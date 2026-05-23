@@ -2662,5 +2662,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-175",
+    "date": "2026-01-19",
+    "title": "Trump's Board of Peace requires nations pay $1 billion for permanent membership - WBUR",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkZpZmJDZkJQRVhhbjBqaEpfWGgzWGdSLXp3SHVHV0FRYjNLa3YxYjNTLXliUE1wOXE4VlJqYnllOGhVN1NfUUNwcGVwQUlveFpRVUZjZHNUT19HODNTRERQOGFOQ2xpRUNxZHRhTnBoR2ZBcWZ3OERHQVB3YWhKdVZ1MXFUY05oTFl0S1c2czN0SVBNcnZxVUJINHZNMEY5ajJHMjR5aW1ROXdpdW1zRFhxck5xQm8?oc=5\" target=\"_blank\">Trump's Board of Peace requires nations pay $1 billion for permanent membership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBUR</font>",
+    "sources": [
+      {
+        "name": "WBUR",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkZpZmJDZkJQRVhhbjBqaEpfWGgzWGdSLXp3SHVHV0FRYjNLa3YxYjNTLXliUE1wOXE4VlJqYnllOGhVN1NfUUNwcGVwQUlveFpRVUZjZHNUT19HODNTRERQOGFOQ2xpRUNxZHRhTnBoR2ZBcWZ3OERHQVB3YWhKdVZ1MXFUY05oTFl0S1c2czN0SVBNcnZxVUJINHZNMEY5ajJHMjR5aW1ROXdpdW1zRFhxck5xQm8?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
