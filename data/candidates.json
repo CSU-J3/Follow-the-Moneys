@@ -2680,5 +2680,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-176",
+    "date": "2025-04-09",
+    "title": "Burger King to distribute $128,000 in vouchers to Israel soldiers - Middle East Monitor",
+    "amount": 128000,
+    "amount_display": "$128,000",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFYxRUZ1MWpWZXBQVU4xc3RaSnlpYVJIV3pDTDF5OU9fRlp4MEs0VUF4MTFILVIwT05NSFZEbDY3X2hkNmd6b21mN001QVpQWUFuMmMxUmdUckQxQzRyaTN6cjZ3Zk1yWU9ueUpHNVRtMkNfdjFRSEQtOHczUkRLNVItUS01b0pQRjI0WWl6NG92OUwweVlrSzhwckowNFZSWGJuMUF1OWVHRGfSAbABQVVfeXFMTTNnTzJ3LUVBeWhyVGllekZramdpZXhUTnZBQmRkVUhjSDVVTDZ4dlZTa3REeXlGYmxFQUtPUHFhR2c2cFFJcWV2ZGdHc1VUMFJrY2lYc0h0LWl1VF9lRDEtSFZhWGx6S2lSQTJVSC1xejdCbnBaOHEtTndPUTZJVEVDSkVwUmN1bXhFUzJJWjZjRVRrOTNpdzZjNkM5enpLTXJwbVU4LWo1Q1ZydVZRNkg?oc=5\" target=\"_blank\">Burger King to distribute $128,000 in vouchers to Israel soldiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Monitor</font>",
+    "sources": [
+      {
+        "name": "Middle East Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFYxRUZ1MWpWZXBQVU4xc3RaSnlpYVJIV3pDTDF5OU9fRlp4MEs0VUF4MTFILVIwT05NSFZEbDY3X2hkNmd6b21mN001QVpQWUFuMmMxUmdUckQxQzRyaTN6cjZ3Zk1yWU9ueUpHNVRtMkNfdjFRSEQtOHczUkRLNVItUS01b0pQRjI0WWl6NG92OUwweVlrSzhwckowNFZSWGJuMUF1OWVHRGfSAbABQVVfeXFMTTNnTzJ3LUVBeWhyVGllekZramdpZXhUTnZBQmRkVUhjSDVVTDZ4dlZTa3REeXlGYmxFQUtPUHFhR2c2cFFJcWV2ZGdHc1VUMFJrY2lYc0h0LWl1VF9lRDEtSFZhWGx6S2lSQTJVSC1xejdCbnBaOHEtTndPUTZJVEVDSkVwUmN1bXhFUzJJWjZjRVRrOTNpdzZjNkM5enpLTXJwbVU4LWo1Q1ZydVZRNkg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-177",
+    "date": "2026-02-17",
+    "title": "Trump’s Board of Peace Commits $5 Billion for Gaza Reconstruction - SSBCrack",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRkFXaS1Vdk4wZXlsWE1LMW4tQ0ZZVDZlcTNZd0lvTDk0RE1wcy00NjhCLWMzXzNxdkk2bkwwbkVtVXJpa2taN2pNTFdmc01IMjFURWNvcEtXR09LZnJibXVTX0J1RHpMOGdHOHNmMEhCeWQ3amRJbGVGcGliV0FFVGFTVG5hUFZwYk1sdmMyNXBZSWhS?oc=5\" target=\"_blank\">Trump’s Board of Peace Commits $5 Billion for Gaza Reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SSBCrack</font>",
+    "sources": [
+      {
+        "name": "SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRkFXaS1Vdk4wZXlsWE1LMW4tQ0ZZVDZlcTNZd0lvTDk0RE1wcy00NjhCLWMzXzNxdkk2bkwwbkVtVXJpa2taN2pNTFdmc01IMjFURWNvcEtXR09LZnJibXVTX0J1RHpMOGdHOHNmMEhCeWQ3amRJbGVGcGliV0FFVGFTVG5hUFZwYk1sdmMyNXBZSWhS?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
