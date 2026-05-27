@@ -2716,5 +2716,59 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-178",
+    "date": "2026-05-27",
+    "title": "Trump's Board of Peace fund sits empty after 4 months despite $7-billion pledge - India Today",
+    "amount": 7,
+    "amount_display": "$7",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWi1MUTdmZUJEZ1E1eU5rM2lWaTIwQzdzUFVpY1Zrb3ZnelpfZWUxaThlVS03akVzdThBS3BOeUxqZTNKQWQwcTluWDhma1RtMzg2ZGZyN0FLUWFhREpmZkx0VHJzcnZweklERWppN3NCV0VmU2w1MWFKUEtqNTJCZzdfc0luTG1ORUtjSGo1Uk9mNVZmYUctd08zVWYwVm02MHlEdmpmMTZiSkZJbW92YnNoX3RRNGF1aHAtVVA1bWNnMUs5cHJfOWViM0QzU3lOWExDV0RTVDllX0nSAeABQVVfeXFMTldmMVM0S1ZGOEZDNU5OX3JxcWI2OURUTURLWC1waFJfNHZTdV9jWWFtZmNNUV82eDdGTXRUbE5qSG1yX0xlRGxCMk5La0d2V3dLNEhHTnZJbGJfMDBiMjRZZkV3UzNZRy1OQ1hSME42WjRUOTEwMm9MQkNRQmRFT2N3Z2xjTE5XUXphZU9aWWFxRnN1WlFySDFzYWhvR2p3d19Edk5yZENmV09scTBSQXdKa3VGMTM5M2VadDdud1ByQmJPZHZmNTFweGRXSkM5aEdwRzVwMC1WQ1dkMERTLWM?oc=5\" target=\"_blank\">Trump's Board of Peace fund sits empty after 4 months despite $7-billion pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+    "sources": [
+      {
+        "name": "India Today",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWi1MUTdmZUJEZ1E1eU5rM2lWaTIwQzdzUFVpY1Zrb3ZnelpfZWUxaThlVS03akVzdThBS3BOeUxqZTNKQWQwcTluWDhma1RtMzg2ZGZyN0FLUWFhREpmZkx0VHJzcnZweklERWppN3NCV0VmU2w1MWFKUEtqNTJCZzdfc0luTG1ORUtjSGo1Uk9mNVZmYUctd08zVWYwVm02MHlEdmpmMTZiSkZJbW92YnNoX3RRNGF1aHAtVVA1bWNnMUs5cHJfOWViM0QzU3lOWExDV0RTVDllX0nSAeABQVVfeXFMTldmMVM0S1ZGOEZDNU5OX3JxcWI2OURUTURLWC1waFJfNHZTdV9jWWFtZmNNUV82eDdGTXRUbE5qSG1yX0xlRGxCMk5La0d2V3dLNEhHTnZJbGJfMDBiMjRZZkV3UzNZRy1OQ1hSME42WjRUOTEwMm9MQkNRQmRFT2N3Z2xjTE5XUXphZU9aWWFxRnN1WlFySDFzYWhvR2p3d19Edk5yZENmV09scTBSQXdKa3VGMTM5M2VadDdud1ByQmJPZHZmNTFweGRXSkM5aEdwRzVwMC1WQ1dkMERTLWM?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-179",
+    "date": "2026-05-27",
+    "title": "Board of Peace Admits It Has Received Almost Nothing of the $17 Billion Pledged for Gaza - thedeepdive.ca",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2pJQi10Y0xrQk1iZlhaaHFhcFdLNlR5X0QwUU1DWXNMS2JjWmVFWF93OUFPN0EtNHhOWVF5S3hEX0lWZnBjS1Q5eXNqdG5xeG1YelhrR3A5cVk5SmVkelNOQ1N6ZzhLdXdoTHdCRGl4M1Utc1pIbGhsZXhCeUM2a0dUcG44bEc2YTA1U1l3NGZkSGhMWW5sc1J2amI2aUZMNmVDV2lmeWJrYk5FTENOWg?oc=5\" target=\"_blank\">Board of Peace Admits It Has Received Almost Nothing of the $17 Billion Pledged for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedeepdive.ca</font>",
+    "sources": [
+      {
+        "name": "thedeepdive.ca",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2pJQi10Y0xrQk1iZlhaaHFhcFdLNlR5X0QwUU1DWXNMS2JjWmVFWF93OUFPN0EtNHhOWVF5S3hEX0lWZnBjS1Q5eXNqdG5xeG1YelhrR3A5cVk5SmVkelNOQ1N6ZzhLdXdoTHdCRGl4M1Utc1pIbGhsZXhCeUM2a0dUcG44bEc2YTA1U1l3NGZkSGhMWW5sc1J2amI2aUZMNmVDV2lmeWJrYk5FTENOWg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-180",
+    "date": "2026-05-20",
+    "title": "Trump’s Board of Peace faces disbursement ‘gap’ in its $70 billion Gaza plan - The Arab Weekly",
+    "amount": 70000000000,
+    "amount_display": "$70B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmRSc0Z4RVpwVWs1QUtQMjVhdWdQNENGX3E5VkN6VVNXM0VCZkp2LXhQNkl2SnhNemxEZzd5bVZreURRWmYybkVNaXpKdlhuWERsWUlTYWxlZmlTU05LY3B3NFNMc2tkcXV5cWMzVmhYdlhTNVZpWS12dUZiQlZ6c1Q0cDFyVFRmaEdzelJTT29RVVlUeV9F?oc=5\" target=\"_blank\">Trump’s Board of Peace faces disbursement ‘gap’ in its $70 billion Gaza plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arab Weekly</font>",
+    "sources": [
+      {
+        "name": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmRSc0Z4RVpwVWs1QUtQMjVhdWdQNENGX3E5VkN6VVNXM0VCZkp2LXhQNkl2SnhNemxEZzd5bVZreURRWmYybkVNaXpKdlhuWERsWUlTYWxlZmlTU05LY3B3NFNMc2tkcXV5cWMzVmhYdlhTNVZpWS12dUZiQlZ6c1Q0cDFyVFRmaEdzelJTT29RVVlUeV9F?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
