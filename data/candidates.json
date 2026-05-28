@@ -2896,5 +2896,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-188",
+    "date": "2026-05-28",
+    "title": "Board of Peace won't 'hoard' $1 billion pledges as lump sum and will 'collect the funds necessary' as Gaza rebuilds - Washington Examiner",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTVDOXNsUlQ4b0pRaEROWTZ3UEdRemg2OEVfbGtkRkZheExCUHZIZ3ZhN2ljT0ZkcC1jUWM5Sms3LWFqZXkxRkZnYmswWnJIdFdYVE0wUHhfM0dJVlZ5azBxUnJsYjlfTjQ1TkJDMk1tWXJmdXRXN19wUmM2Z1pYT1ZhUVNUb2lsbWZuV29LbkZBSGJqQUdMX1djcTMwa1pfSVo2QkJKYTk2MDJqWUtmU0NONA?oc=5\" target=\"_blank\">Board of Peace won't 'hoard' $1 billion pledges as lump sum and will 'collect the funds necessary' as Gaza rebuilds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+    "sources": [
+      {
+        "name": "Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTVDOXNsUlQ4b0pRaEROWTZ3UEdRemg2OEVfbGtkRkZheExCUHZIZ3ZhN2ljT0ZkcC1jUWM5Sms3LWFqZXkxRkZnYmswWnJIdFdYVE0wUHhfM0dJVlZ5azBxUnJsYjlfTjQ1TkJDMk1tWXJmdXRXN19wUmM2Z1pYT1ZhUVNUb2lsbWZuV29LbkZBSGJqQUdMX1djcTMwa1pfSVo2QkJKYTk2MDJqWUtmU0NONA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
