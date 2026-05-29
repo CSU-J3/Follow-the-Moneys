@@ -2914,5 +2914,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-189",
+    "date": "2026-05-29",
+    "title": "Trump's Gaza peace fund still empty despite $17B pledges - MSN",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDhZcldaSjdOWldISVpzTE1ZeThwZmFpT0lOMHlNQXJyN3VoX2xBdEN2NFdMLVBqT1ZGN1dyZzhacjhicGhCZlU3eVZUTWcwY1NkeVZINnZwZzhoYVpiZkdiYW1DRXk0bU1XdEprX1FKTEZlclZOWldHTG1PVUhhcWU1VDlYVzZWdUt0MFN0TnJyU0swdzlITl9lQVNMc2dpNFRlVGhGLTRwS043MmdSQW9oTkFtdnBYLXF2aG83LWh0dTJBdGpyLUFlMXZYb0k?oc=5\" target=\"_blank\">Trump's Gaza peace fund still empty despite $17B pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDhZcldaSjdOWldISVpzTE1ZeThwZmFpT0lOMHlNQXJyN3VoX2xBdEN2NFdMLVBqT1ZGN1dyZzhacjhicGhCZlU3eVZUTWcwY1NkeVZINnZwZzhoYVpiZkdiYW1DRXk0bU1XdEprX1FKTEZlclZOWldHTG1PVUhhcWU1VDlYVzZWdUt0MFN0TnJyU0swdzlITl9lQVNMc2dpNFRlVGhGLTRwS043MmdSQW9oTkFtdnBYLXF2aG83LWh0dTJBdGpyLUFlMXZYb0k?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-190",
+    "date": "2026-05-28",
+    "title": "Trump's Gaza peace fund still empty despite $17B pledges - MSN",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2htNmJCNWhVUUZKN0RpTXJlcGFQd3NEWTlIMFExTmxqcHc4UnJRLUQ2eVdLVnlRMEI3VVhwZVlpaHhUV2dnMml2VTBzeVZWTExYS3NUVW9lMkFlUmpYWWRvcHRQdEttYlZIWktvcW5ZenVjZ2duYWItX29oYnpoZ09rdEJmTXNCbGpVUmFtTC1WbUdvNXl5RnRmeGh0TVJDdHVVQTBiVmR6T0piTlh1SFp3?oc=5\" target=\"_blank\">Trump's Gaza peace fund still empty despite $17B pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2htNmJCNWhVUUZKN0RpTXJlcGFQd3NEWTlIMFExTmxqcHc4UnJRLUQ2eVdLVnlRMEI3VVhwZVlpaHhUV2dnMml2VTBzeVZWTExYS3NUVW9lMkFlUmpYWWRvcHRQdEttYlZIWktvcW5ZenVjZ2duYWItX29oYnpoZ09rdEJmTXNCbGpVUmFtTC1WbUdvNXl5RnRmeGh0TVJDdHVVQTBiVmR6T0piTlh1SFp3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
