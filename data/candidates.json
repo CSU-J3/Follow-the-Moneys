@@ -2968,5 +2968,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-192",
+    "date": "2026-05-30",
+    "title": "Morocco sent $3 million to Trump Gaza board as official reconstruction fund stayed empty - HESPRESS English - Morocco News",
+    "amount": 3000000,
+    "amount_display": "$3M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlp3UTVpS3A1aFFZWk04RVNYcnRZZUlMd0xseWw1Q2Jmc25UVEpxa050VGp3Mmc0Vmphak1OQ1Q0Um9Cczl2SGJIVWlBZXlfanRVU3pDM3cwcFBqaVMyZUoxanVZSy1RNHJxb3lRZ1ctV2ZJUk8wV2JDUWVUZDVrcHl1YUNpSU5MZ2JtU2tpNFFIT1BJaVh6cU9jMm5DTEprX2FRN0U1Vm5FOVo1d3FDQ2pBMThRZlVDdklFampqQk4?oc=5\" target=\"_blank\">Morocco sent $3 million to Trump Gaza board as official reconstruction fund stayed empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HESPRESS English - Morocco News</font>",
+    "sources": [
+      {
+        "name": "HESPRESS English - Morocco News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlp3UTVpS3A1aFFZWk04RVNYcnRZZUlMd0xseWw1Q2Jmc25UVEpxa050VGp3Mmc0Vmphak1OQ1Q0Um9Cczl2SGJIVWlBZXlfanRVU3pDM3cwcFBqaVMyZUoxanVZSy1RNHJxb3lRZ1ctV2ZJUk8wV2JDUWVUZDVrcHl1YUNpSU5MZ2JtU2tpNFFIT1BJaVh6cU9jMm5DTEprX2FRN0U1Vm5FOVo1d3FDQ2pBMThRZlVDdklFampqQk4?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
