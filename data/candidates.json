@@ -2986,5 +2986,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-193",
+    "date": "2026-05-30",
+    "title": "Trump's Gaza peace fund still empty despite $17B pledges - MSN",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHdNcGF3MGh5aTdhc3RObFU4NHFSaEFnakp2SVFwY2R5RF9JS0ZLRGMyZWZtcTlyV2VURkhoektUVmZkNWM1RDYxR0RXcEFWTWlLb0g2b1VyaTlycW5GNTNOaGtyRmN2MGlQVW1DMDcwTHNWN3huTTk3VzY3N1lIT1prSFhtZUduRERkcFExWTV6VWg3VXU1Mktydm1ndkhkNkNJY3BKOTA1c2FhSFRJUlR3?oc=5\" target=\"_blank\">Trump's Gaza peace fund still empty despite $17B pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHdNcGF3MGh5aTdhc3RObFU4NHFSaEFnakp2SVFwY2R5RF9JS0ZLRGMyZWZtcTlyV2VURkhoektUVmZkNWM1RDYxR0RXcEFWTWlLb0g2b1VyaTlycW5GNTNOaGtyRmN2MGlQVW1DMDcwTHNWN3huTTk3VzY3N1lIT1prSFhtZUduRERkcFExWTV6VWg3VXU1Mktydm1ndkhkNkNJY3BKOTA1c2FhSFRJUlR3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
