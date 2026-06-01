@@ -3004,5 +3004,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-194",
+    "date": "2026-02-16",
+    "title": "Trump says Board of Peace members to pledge over $5B for Gaza reconstruction on Thursday - Anadolu Ajansı",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlRkMVhXekJnazI5MXJlbWs2Z2xCQzM3WG8wSVI3eWF2QXFsN2VQTmRJOENldm9KcWU4TG1TbGlJX29YSy1DOXpCMXFzaGZMX3ZDWmJWdTNJOUNCQ3RhaDdBZTA2MC1tUWwtZ084amx4QlJ3VFNUZEZyLUhLakJVYjFIWDJXZkEwbTcyNVNnSV9keG13ZklpY0dyMmRocXBRaF9FdXFMV1BqRkI2YTBxNnhPd2FUMy11d1U0RHA1WVZyTUlRNTEzRQ?oc=5\" target=\"_blank\">Trump says Board of Peace members to pledge over $5B for Gaza reconstruction on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+    "sources": [
+      {
+        "name": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlRkMVhXekJnazI5MXJlbWs2Z2xCQzM3WG8wSVI3eWF2QXFsN2VQTmRJOENldm9KcWU4TG1TbGlJX29YSy1DOXpCMXFzaGZMX3ZDWmJWdTNJOUNCQ3RhaDdBZTA2MC1tUWwtZ084amx4QlJ3VFNUZEZyLUhLakJVYjFIWDJXZkEwbTcyNVNnSV9keG13ZklpY0dyMmRocXBRaF9FdXFMV1BqRkI2YTBxNnhPd2FUMy11d1U0RHA1WVZyTUlRNTEzRQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
