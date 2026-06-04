@@ -3040,5 +3040,59 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-196",
+    "date": "2026-02-16",
+    "title": "Board of Peace members pledge more than US$5 billion for Gaza, Trump says - CNA",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzg1RHE4V0Z6RWJjODRlQ1E5bUdHN2Nrdy16YXNxNGQ2Q0k3WldDU0pZNDJaRzB3RnNDREdrOEVVUDNxZ3hzd3BLV3F5UUEweWFNOWUxMXdCMVIwc01FZ01VMmlHYXRKSjBBN0Q1eERKNHpySnlCczZUa3JsU21ma29fNi1iUkN4VjZqclRiNEhod3EtWUdNcGc1S3o4cF9HVkgtMQ?oc=5\" target=\"_blank\">Board of Peace members pledge more than US$5 billion for Gaza, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+    "sources": [
+      {
+        "name": "CNA",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzg1RHE4V0Z6RWJjODRlQ1E5bUdHN2Nrdy16YXNxNGQ2Q0k3WldDU0pZNDJaRzB3RnNDREdrOEVVUDNxZ3hzd3BLV3F5UUEweWFNOWUxMXdCMVIwc01FZ01VMmlHYXRKSjBBN0Q1eERKNHpySnlCczZUa3JsU21ma29fNi1iUkN4VjZqclRiNEhod3EtWUdNcGc1S3o4cF9HVkgtMQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-197",
+    "date": "2026-02-19",
+    "title": "Trump announces 9 members of his Board of Peace pledge $7 billion for Gaza relief package - International - World - Ahram Online",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zRlBlNUZfelNqdmhRaGpzaUxFVVRJMWxGV2l2TWVnUlQ3RmlHajZwa2VkQ0thdVFKdnFhMTBXZjNhejNWOGN2M1p2dURYMUs3S1N0RGZQVk0?oc=5\" target=\"_blank\">Trump announces 9 members of his Board of Peace pledge $7 billion for Gaza relief package - International - World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahram Online</font>",
+    "sources": [
+      {
+        "name": "Ahram Online",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zRlBlNUZfelNqdmhRaGpzaUxFVVRJMWxGV2l2TWVnUlQ3RmlHajZwa2VkQ0thdVFKdnFhMTBXZjNhejNWOGN2M1p2dURYMUs3S1N0RGZQVk0?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-198",
+    "date": "2026-02-16",
+    "title": "Trump’s Board of Peace pledges $5 billion for Gaza - SABC News",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUNyQ2tQS1F6X0ZKQ25OZi1icGd6UHBERUZsSF9xNnRVUU9xWVNTSXNwclFUZ0ZWU3ZCay1uU1dVVW00bm1qZ1ctblQ5cmx6aldOOUhzOTNyUy1PX2JNNG1heDB0SUFjcmlWNmxOSEIxTWRsdl9aQmRfblZWczRsQzEyM05Tc0Q0bFFR?oc=5\" target=\"_blank\">Trump’s Board of Peace pledges $5 billion for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SABC News</font>",
+    "sources": [
+      {
+        "name": "SABC News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUNyQ2tQS1F6X0ZKQ25OZi1icGd6UHBERUZsSF9xNnRVUU9xWVNTSXNwclFUZ0ZWU3ZCay1uU1dVVW00bm1qZ1ctblQ5cmx6aldOOUhzOTNyUy1PX2JNNG1heDB0SUFjcmlWNmxOSEIxTWRsdl9aQmRfblZWczRsQzEyM05Tc0Q0bFFR?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
