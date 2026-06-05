@@ -3094,5 +3094,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-199",
+    "date": "2026-03-23",
+    "title": "Indonesia Says It Won't Pay $1 Billion Fee For Trump's 'Board Of Peace' - NDTV",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXFhQlhlQXBqWkh2d1RodkxGbUM4eWs1N3R2a1ZrQUNZQy1jbFV3RU5BQU9hRy03bmZfRkZIN3paRTQ5a2YybzlMM2RKY1IxZzVHT0JodUpsUTlpbkkzTlRUVWIxbVlTZ0RDOE5wemY4eU13WDhJWHhGZXEtT3Q5SnJKNHB6c2JucHhnRHUwSlJCUGlBRkw2eHpxdXpTSlNTb0Y4eXFNV18xR3VacDdRbE5vNzNSMGtDSHVtYzZ2UzbSAcgBQVVfeXFMTmxacU5rVWdCdVlXeG1VVEY2dkJnX002Z2wyVzdjVC11ZnAyR3JndlJvNEtVMmJ1REFtblE4b0RGLW9XQktPVThZcTg5cW10M3lCVm1NUzVLeGxSbE8zdU1zdkZYS0MxbnFTQldYYjUyQ1J0QnJTTXVxOHo3N24tU0JZMGltMHZTZ1JoM1ZRTWN2NG9xYkpLcUx3THNXLWk1VzR4c2xqN1JTUmd2WHkxcVhMTHlDT2pxYVVvaVRHMk5Zc2k5X3UxOEY?oc=5\" target=\"_blank\">Indonesia Says It Won't Pay $1 Billion Fee For Trump's 'Board Of Peace'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+    "sources": [
+      {
+        "name": "NDTV",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXFhQlhlQXBqWkh2d1RodkxGbUM4eWs1N3R2a1ZrQUNZQy1jbFV3RU5BQU9hRy03bmZfRkZIN3paRTQ5a2YybzlMM2RKY1IxZzVHT0JodUpsUTlpbkkzTlRUVWIxbVlTZ0RDOE5wemY4eU13WDhJWHhGZXEtT3Q5SnJKNHB6c2JucHhnRHUwSlJCUGlBRkw2eHpxdXpTSlNTb0Y4eXFNV18xR3VacDdRbE5vNzNSMGtDSHVtYzZ2UzbSAcgBQVVfeXFMTmxacU5rVWdCdVlXeG1VVEY2dkJnX002Z2wyVzdjVC11ZnAyR3JndlJvNEtVMmJ1REFtblE4b0RGLW9XQktPVThZcTg5cW10M3lCVm1NUzVLeGxSbE8zdU1zdkZYS0MxbnFTQldYYjUyQ1J0QnJTTXVxOHo3N24tU0JZMGltMHZTZ1JoM1ZRTWN2NG9xYkpLcUx3THNXLWk1VzR4c2xqN1JTUmd2WHkxcVhMTHlDT2pxYVVvaVRHMk5Zc2k5X3UxOEY?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
