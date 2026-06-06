@@ -3112,5 +3112,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-200",
+    "date": "2026-02-19",
+    "title": "Qatar pledges $1B in support for Board of Peace - Middle East Monitor",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1JBdFlnV3dwRDh5ZU1CaC02dHdOWUsxdXhkZ1l4SkRReFlKVjkzOFkyS2JuV2RBTW10SGZvbmZVR01lSjlwTVpVY3BQclhNZF9LU3NBYjVsUUM3alJaTEY4R1d0cEl0Yjh2ZzJ6dHZHc2ZtQVRrNkprRzJTWFZwM0VHdENJcUY0MmlqUm1KaVp0RWN20gGaAUFVX3lxTFAwS1dFeHJEVWtYajFmMVU5Z3ppRXdLOV9BUkpoU29GamsteEJFRXJoYlJlWnRaNmRSbXd5YUR1YjE1RUdFeWFST01CUUN3U2hkLXQyT2dTeDJHN0pMbmtPTzQ2ZXpVMXlWVGFzUG9LZ2VPYzVBWUo3bDdYOTBHVWFPXzhTTUxwWHdKRG9CbFpFdU9GSFRfMWVGRkE?oc=5\" target=\"_blank\">Qatar pledges $1B in support for Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Monitor</font>",
+    "sources": [
+      {
+        "name": "Middle East Monitor",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1JBdFlnV3dwRDh5ZU1CaC02dHdOWUsxdXhkZ1l4SkRReFlKVjkzOFkyS2JuV2RBTW10SGZvbmZVR01lSjlwTVpVY3BQclhNZF9LU3NBYjVsUUM3alJaTEY4R1d0cEl0Yjh2ZzJ6dHZHc2ZtQVRrNkprRzJTWFZwM0VHdENJcUY0MmlqUm1KaVp0RWN20gGaAUFVX3lxTFAwS1dFeHJEVWtYajFmMVU5Z3ppRXdLOV9BUkpoU29GamsteEJFRXJoYlJlWnRaNmRSbXd5YUR1YjE1RUdFeWFST01CUUN3U2hkLXQyT2dTeDJHN0pMbmtPTzQ2ZXpVMXlWVGFzUG9LZ2VPYzVBWUo3bDdYOTBHVWFPXzhTTUxwWHdKRG9CbFpFdU9GSFRfMWVGRkE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
