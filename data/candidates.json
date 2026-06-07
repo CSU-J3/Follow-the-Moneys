@@ -3130,5 +3130,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-201",
+    "date": "2026-05-26",
+    "title": "US President to Chair Board of Peace Meeting, Announce $5 Billion Gaza Pledge - News On AIR",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQanFqRmdPRVk0MUxJcGtUSVhQcnF0WEhJcGNPek0yamJQdVptU2tsWUt5ZXlWSUMzRXRyM2d4b0cyejViNU5nYUw4WVFpd29GR25yZW4tYWZkN2p0ZWNGQ0FwMm14ZTU1TXVoZlZxWS1ZX3RvQy1iWnNNWVg0N2NsbVhWWmVxczVBTEpQRGFaYXpwZXNxcElVd2w2b2tOZUI1U1lv?oc=5\" target=\"_blank\">US President to Chair Board of Peace Meeting, Announce $5 Billion Gaza Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+    "sources": [
+      {
+        "name": "News On AIR",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanFqRmdPRVk0MUxJcGtUSVhQcnF0WEhJcGNPek0yamJQdVptU2tsWUt5ZXlWSUMzRXRyM2d4b0cyejViNU5nYUw4WVFpd29GR25yZW4tYWZkN2p0ZWNGQ0FwMm14ZTU1TXVoZlZxWS1ZX3RvQy1iWnNNWVg0N2NsbVhWWmVxczVBTEpQRGFaYXpwZXNxcElVd2w2b2tOZUI1U1lv?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-202",
+    "date": "2026-05-29",
+    "title": "Trump's 'Board of Peace' Fund Empty, World Bank Shows $0: Report | Firstpost Live| 4K - Firstpost",
+    "amount": 0,
+    "amount_display": "$0",
+    "category": "fund_structure",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3d4blp2UlhyWU5Dc1ZRTmNRMFEzQkVGX013MlZLM08wMEh3SkRzSGg5SXhLYjloZlcycVlpOXhUUkZjbktrajdYeFdBay1vdS1kYXNPWlNodUJ1YnBqb05uT2NqTEdMai1JcmxNQWpwYmxRNTl5OVlvcS1xWDNCSzZuMW1KSmJ2aE0wMnFUQXRkTFVBcFVWN0Rzd04zTzBFRVRlNWM5UVNReHNpeHgtVzRtS3ZuLU9IekhBMjdmcHlWNVBvaGQ4M2dJZTNLSFRBeUNB0gHYAUFVX3lxTE1sVDh5aXZ0cUZ1eGtwQ2tZdHY3cDdWbnJuUlE1cElRNlFFemlqdEwtVXNzZWs0WHBYOE02c2V1QkkzNkRCWGV5U3BiTjdvSVJoZW5IRzFvb1BndktPUXJQRUp3ZFdJSU5PbTZCVXpOSGhXQVVNX1MtZnBWTUFMLTRnM3Z1OEVwQTdSWUtSYzdPYjFfZ2xaeERjZUthUmtzYVhic0hBQWZJNGhIZHlLcUdBMGpSZkQ2SS1TbjU2NTE4SGVlenR2a2c5TXBPS2UwVTF0SUJJSlBMWg?oc=5\" target=\"_blank\">Trump's 'Board of Peace' Fund Empty, World Bank Shows $0: Report | Firstpost Live| 4K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+    "sources": [
+      {
+        "name": "Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3d4blp2UlhyWU5Dc1ZRTmNRMFEzQkVGX013MlZLM08wMEh3SkRzSGg5SXhLYjloZlcycVlpOXhUUkZjbktrajdYeFdBay1vdS1kYXNPWlNodUJ1YnBqb05uT2NqTEdMai1JcmxNQWpwYmxRNTl5OVlvcS1xWDNCSzZuMW1KSmJ2aE0wMnFUQXRkTFVBcFVWN0Rzd04zTzBFRVRlNWM5UVNReHNpeHgtVzRtS3ZuLU9IekhBMjdmcHlWNVBvaGQ4M2dJZTNLSFRBeUNB0gHYAUFVX3lxTE1sVDh5aXZ0cUZ1eGtwQ2tZdHY3cDdWbnJuUlE1cElRNlFFemlqdEwtVXNzZWs0WHBYOE02c2V1QkkzNkRCWGV5U3BiTjdvSVJoZW5IRzFvb1BndktPUXJQRUp3ZFdJSU5PbTZCVXpOSGhXQVVNX1MtZnBWTUFMLTRnM3Z1OEVwQTdSWUtSYzdPYjFfZ2xaeERjZUthUmtzYVhic0hBQWZJNGhIZHlLcUdBMGpSZkQ2SS1TbjU2NTE4SGVlenR2a2c5TXBPS2UwVTF0SUJJSlBMWg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
