@@ -3166,5 +3166,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-203",
+    "date": "2026-06-08",
+    "title": "Donald Trump sets US$ 1 billion price tag for Board of Peace membership - Ada Derana",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5XTmlvY2c2bkprNThiQ2djVk5Zbkk2M3lYeVlHSnhEZ1pOeGVFWktJT0V6TlJuUGJHcjd2WHQ4R25Ra2pyM1U0?oc=5\" target=\"_blank\">Donald Trump sets US$ 1 billion price tag for Board of Peace membership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ada Derana</font>",
+    "sources": [
+      {
+        "name": "Ada Derana",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5XTmlvY2c2bkprNThiQ2djVk5Zbkk2M3lYeVlHSnhEZ1pOeGVFWktJT0V6TlJuUGJHcjd2WHQ4R25Ra2pyM1U0?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
