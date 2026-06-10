@@ -3238,5 +3238,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-207",
+    "date": "2026-02-16",
+    "title": "Trump says Board of Peace pledged $5 billion for Gaza, commits troops - JNS.org",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDN5dnRmWmNLczhEemxQNzBKMzNJVWNmYktrdkNYNU9GR19QSThFcWZoMHNGOGdEMXhpdjhaZFFZVGJCNU83c2NBdHc2TkFHSHNFNU56ZVJwQzdaN3RHb0xsQUxEdDhIclVGS1kxYlEwd0JCMEVndW9JZHlPX29iMnBvM1Zqa1RweFFhRGc2Mmd2Vk4yaExkSUQzbkI5M3Az?oc=5\" target=\"_blank\">Trump says Board of Peace pledged $5 billion for Gaza, commits troops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JNS.org</font>",
+    "sources": [
+      {
+        "name": "JNS.org",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDN5dnRmWmNLczhEemxQNzBKMzNJVWNmYktrdkNYNU9GR19QSThFcWZoMHNGOGdEMXhpdjhaZFFZVGJCNU83c2NBdHc2TkFHSHNFNU56ZVJwQzdaN3RHb0xsQUxEdDhIclVGS1kxYlEwd0JCMEVndW9JZHlPX29iMnBvM1Zqa1RweFFhRGc2Mmd2Vk4yaExkSUQzbkI5M3Az?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
