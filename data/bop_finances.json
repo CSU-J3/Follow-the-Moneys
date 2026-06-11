@@ -467,6 +467,24 @@
       "exclude_reason": "Charter clause sets a price for extended membership; not a commitment by any party. Each seat purchase is recorded separately.",
       "_collector": "news",
       "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-208",
+      "date": "2026-02-19",
+      "title": "Trump says allies have contributed over $7 billion to Gaza relief - Reuters",
+      "amount": 7000000000,
+      "amount_display": "$7B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFdWd3M0d3RWcER3NlBIYzJwMDBpTm1zcy1LQWNxc19VM2RLZkhKZTJ2UTNPc3dBREFFS3N0WElQS1dBVmdfREZ4RloxdjVLWGNidXkzWXdzdERkMkpaT01odXlXcWtzcnNra3FiMks3SnRhN3dPQ1I2clUxeWIyNkxNUXljbEVUT05BMkpObDRkOFh6d0IydXhUTmpRcjJybXFFZlRCSTdHVkZoaWxPZ0YzN09JUQ?oc=5\" target=\"_blank\">Trump says allies have contributed over $7 billion to Gaza relief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFdWd3M0d3RWcER3NlBIYzJwMDBpTm1zcy1LQWNxc19VM2RLZkhKZTJ2UTNPc3dBREFFS3N0WElQS1dBVmdfREZ4RloxdjVLWGNidXkzWXdzdERkMkpaT01odXlXcWtzcnNra3FiMks3SnRhN3dPQ1I2clUxeWIyNkxNUXljbEVUT05BMkpObDRkOFh6d0IydXhUTmpRcjJybXFFZlRCSTdHVkZoaWxPZ0YzN09JUQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }
