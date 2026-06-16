@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:20:36+00:00",
+  "last_updated": "2026-06-16T20:35:27+00:00",
   "summary": {
     "congressional_votes": 0,
     "reconstruction_need_low": 53000000000,
@@ -484,6 +484,24 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFdWd3M0d3RWcER3NlBIYzJwMDBpTm1zcy1LQWNxc19VM2RLZkhKZTJ2UTNPc3dBREFFS3N0WElQS1dBVmdfREZ4RloxdjVLWGNidXkzWXdzdERkMkpaT01odXlXcWtzcnNra3FiMks3SnRhN3dPQ1I2clUxeWIyNkxNUXljbEVUT05BMkpObDRkOFh6d0IydXhUTmpRcjJybXFFZlRCSTdHVkZoaWxPZ0YzN09JUQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-220",
+      "date": "2026-01-19",
+      "title": "Trump’s Board of Peace requires nations pay $1 billion for permanent membership - NPR",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFg1SXBPME1kNlBYRTZiOWo3Z0lGSGJHZW5Lbllld2IwQV95ZUhKeUZHQm9ZTTY3OXVZZXNIc2RRa3VZOURKRzJNT2FaSFhvZDZJb0VYZFg0eW5lRFVDdWszck50SjVjaWU1YmtSMUppUExiTUJvTHRFU2JYNmQwQTNqLWZ1dlRTUzIwTkF0YldjRWVEY1dxb2wzc0pXRi1Wbm5Wc1FjYUEteEZGSDZNQVR3TjU2R0M2NWNGNllCVQ?oc=5\" target=\"_blank\">Trump’s Board of Peace requires nations pay $1 billion for permanent membership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFg1SXBPME1kNlBYRTZiOWo3Z0lGSGJHZW5Lbllld2IwQV95ZUhKeUZHQm9ZTTY3OXVZZXNIc2RRa3VZOURKRzJNT2FaSFhvZDZJb0VYZFg0eW5lRFVDdWszck50SjVjaWU1YmtSMUppUExiTUJvTHRFU2JYNmQwQTNqLWZ1dlRTUzIwTkF0YldjRWVEY1dxb2wzc0pXRi1Wbm5Wc1FjYUEteEZGSDZNQVR3TjU2R0M2NWNGNllCVQ?oc=5"
         }
       ],
       "_collector": "news",

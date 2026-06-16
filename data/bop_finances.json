@@ -485,6 +485,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-220",
+      "date": "2026-01-19",
+      "title": "Trump’s Board of Peace requires nations pay $1 billion for permanent membership - NPR",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFg1SXBPME1kNlBYRTZiOWo3Z0lGSGJHZW5Lbllld2IwQV95ZUhKeUZHQm9ZTTY3OXVZZXNIc2RRa3VZOURKRzJNT2FaSFhvZDZJb0VYZFg0eW5lRFVDdWszck50SjVjaWU1YmtSMUppUExiTUJvTHRFU2JYNmQwQTNqLWZ1dlRTUzIwTkF0YldjRWVEY1dxb2wzc0pXRi1Wbm5Wc1FjYUEteEZGSDZNQVR3TjU2R0M2NWNGNllCVQ?oc=5\" target=\"_blank\">Trump’s Board of Peace requires nations pay $1 billion for permanent membership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFg1SXBPME1kNlBYRTZiOWo3Z0lGSGJHZW5Lbllld2IwQV95ZUhKeUZHQm9ZTTY3OXVZZXNIc2RRa3VZOURKRzJNT2FaSFhvZDZJb0VYZFg0eW5lRFVDdWszck50SjVjaWU1YmtSMUppUExiTUJvTHRFU2JYNmQwQTNqLWZ1dlRTUzIwTkF0YldjRWVEY1dxb2wzc0pXRi1Wbm5Wc1FjYUEteEZGSDZNQVR3TjU2R0M2NWNGNllCVQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }
