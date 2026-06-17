@@ -3454,5 +3454,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-221",
+    "date": "2026-02-19",
+    "title": "Trump’s Board of Peace pledges $7B for Gaza - a fraction of what it needs - The Independent",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTFE5a0IzS2VnRzc4bGliaUktX0l1TmplWTRJQWJ0a3RDN0dkZ2RBeGt5MXlxVmlpY3VtUHVLV0I1RExORnBYQVhjWl81Z2lSc25SMUE1OGFldHNSLUtuWDBZUVNIVjU2RzFQWUZUdEZaVDlDMlRvbjBLdGpFOHFUVDVJekFuWUhBbnZVSkVxanYyclg1YWw5S1NTdlA3Zw?oc=5\" target=\"_blank\">Trump’s Board of Peace pledges $7B for Gaza - a fraction of what it needs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+    "sources": [
+      {
+        "name": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFE5a0IzS2VnRzc4bGliaUktX0l1TmplWTRJQWJ0a3RDN0dkZ2RBeGt5MXlxVmlpY3VtUHVLV0I1RExORnBYQVhjWl81Z2lSc25SMUE1OGFldHNSLUtuWDBZUVNIVjU2RzFQWUZUdEZaVDlDMlRvbjBLdGpFOHFUVDVJekFuWUhBbnZVSkVxanYyclg1YWw5S1NTdlA3Zw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
