@@ -3472,5 +3472,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-222",
+    "date": "2026-02-19",
+    "title": "Trump's Board of Peace opens with $10 billion pledge and troops for Gaza - lemonde.fr",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3ZvaXdWTnpndDctQ0V3ZnlXZm5ROXFqQ3J0WEhia0owR2h2cExaaWYyb1J0MDZaMHVVV2pWNWRkV043Q0NJS2NtWTgtVGtvTzFzbEVvVmtUS3NTbnNNeWdfWlQ2dzhjcTBUNmtSc3F4ZjNmRm45d0ZwM3RINHNGVVFBa1k3ZlR5SHMxQkxkTUswd05oUEkyTGQ1cUx0WGZaYXJzdmVoZGF2SUU4bFlkWF81enJWSUJjeExmV1o5Mk5NckZFVEpWZWk2NURJaHE3Q3VybnhqOEhqT3JkMmc?oc=5\" target=\"_blank\">Trump's Board of Peace opens with $10 billion pledge and troops for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lemonde.fr</font>",
+    "sources": [
+      {
+        "name": "lemonde.fr",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3ZvaXdWTnpndDctQ0V3ZnlXZm5ROXFqQ3J0WEhia0owR2h2cExaaWYyb1J0MDZaMHVVV2pWNWRkV043Q0NJS2NtWTgtVGtvTzFzbEVvVmtUS3NTbnNNeWdfWlQ2dzhjcTBUNmtSc3F4ZjNmRm45d0ZwM3RINHNGVVFBa1k3ZlR5SHMxQkxkTUswd05oUEkyTGQ1cUx0WGZaYXJzdmVoZGF2SUU4bFlkWF81enJWSUJjeExmV1o5Mk5NckZFVEpWZWk2NURJaHE3Q3VybnhqOEhqT3JkMmc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
