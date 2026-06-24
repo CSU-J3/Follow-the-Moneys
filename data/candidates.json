@@ -3490,5 +3490,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-223",
+    "date": "2026-06-14",
+    "title": "$1.5 billion for a seat: Is Trump's new Board of Peace an 'irreparable' threat? - SBS Australia",
+    "amount": 1500000000,
+    "amount_display": "$1.5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORERKS2JPTWx6dnp1QTlEODI4WFJ5RVU1UFc5UE43RFJxTFJ6d2d2bnFKdVI0akRJVXVYTG9GcUtWSnZWOXdlUGFXeU8zdVI0SXAzczR5QXAwLV9xRWpnUG5tTEdDaWR6cXVRN19LMkhwQ09YODAwa1RubDgwanp4aXVMMmx2eHYyeHlYdkZ1clFQV2F5Q2NQR25lWXNJSXZBX3JpNHQ5U2hMOWlfZzI3emFWYjRDN2lycHgw?oc=5\" target=\"_blank\">$1.5 billion for a seat: Is Trump's new Board of Peace an 'irreparable' threat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBS Australia</font>",
+    "sources": [
+      {
+        "name": "SBS Australia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORERKS2JPTWx6dnp1QTlEODI4WFJ5RVU1UFc5UE43RFJxTFJ6d2d2bnFKdVI0akRJVXVYTG9GcUtWSnZWOXdlUGFXeU8zdVI0SXAzczR5QXAwLV9xRWpnUG5tTEdDaWR6cXVRN19LMkhwQ09YODAwa1RubDgwanp4aXVMMmx2eHYyeHlYdkZ1clFQV2F5Q2NQR25lWXNJSXZBX3JpNHQ5U2hMOWlfZzI3emFWYjRDN2lycHgw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
