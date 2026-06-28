@@ -3544,5 +3544,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-227",
+    "date": "2025-06-26",
+    "title": "Review of NSW Labor’s controversial $37m election fund urges rapid overhaul of grant guidelines - The Guardian",
+    "amount": 37000000,
+    "amount_display": "$37M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORUQ4MjRjekpLaFdFRTZ1bTVTeE5JZGhiWUNkd0VybkthMjRIcEtRTVIzd2YxZ1JjallEQWtHakJ5bG51ZDFYSHkxUWdadGtCSlVRZ25kazFFNjljNUgtMTVPNkVad0dqNkJPV295cGNUbV9RQURkdXNHaUVBa3huUG9HdHJnTWFEWGtzaVJzOUNPaEhxd0JOaUJVbXNpRm1LakZGeDdZR01fQ010?oc=5\" target=\"_blank\">Review of NSW Labor’s controversial $37m election fund urges rapid overhaul of grant guidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUQ4MjRjekpLaFdFRTZ1bTVTeE5JZGhiWUNkd0VybkthMjRIcEtRTVIzd2YxZ1JjallEQWtHakJ5bG51ZDFYSHkxUWdadGtCSlVRZ25kazFFNjljNUgtMTVPNkVad0dqNkJPV295cGNUbV9RQURkdXNHaUVBa3huUG9HdHJnTWFEWGtzaVJzOUNPaEhxd0JOaUJVbXNpRm1LakZGeDdZR01fQ010?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]

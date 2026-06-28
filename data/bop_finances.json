@@ -503,6 +503,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-226",
+      "date": "2026-02-15",
+      "title": "Trump says Board of Peace members promise $5 billion for Gaza rebuild - PBS",
+      "amount": 5000000000,
+      "amount_display": "$5B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2pUbFpYak9PVTMtR3JMWkktbE1vT3pQa2wxdDV1ZTk2SFVXdjN6VkllYmRpclpaUy1pbnBsZ3RkR1dPM09OOVhvMFdaSnZTZE92NXBXVmQ1aFhFV3VYWThrSkhCWV9reHYwbnpMZnk1bWV5eUQ3WkxzbXpOd3FqS0RTUVNTN0RIS084UXUxa2s4ZlZkY2N2NkFvMTdYQjVGUVpvY3Q3d3lTZ9IBrwFBVV95cUxOcTVzbWZUdmNoOGtZWkhyX2hVb0pQem9uaW1CQ2VjN1hoNTJEbFBuVGhhdGRfel9kS3VHTWNIM3lkSzBmMUh6OGlYblYzWl9YZkozNGdCRGlnZEx3VXV3S2haWFJUX3UtdThxcERCS1JSOWlTNjFsTFV2LWxSRXpIZ0YwSk9sSC1wMGlQdGZKMXRGenZMb1pYaksxUDZneFZ4dTY1eDBLd3lTUzlpMTRF?oc=5\" target=\"_blank\">Trump says Board of Peace members promise $5 billion for Gaza rebuild</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2pUbFpYak9PVTMtR3JMWkktbE1vT3pQa2wxdDV1ZTk2SFVXdjN6VkllYmRpclpaUy1pbnBsZ3RkR1dPM09OOVhvMFdaSnZTZE92NXBXVmQ1aFhFV3VYWThrSkhCWV9reHYwbnpMZnk1bWV5eUQ3WkxzbXpOd3FqS0RTUVNTN0RIS084UXUxa2s4ZlZkY2N2NkFvMTdYQjVGUVpvY3Q3d3lTZ9IBrwFBVV95cUxOcTVzbWZUdmNoOGtZWkhyX2hVb0pQem9uaW1CQ2VjN1hoNTJEbFBuVGhhdGRfel9kS3VHTWNIM3lkSzBmMUh6OGlYblYzWl9YZkozNGdCRGlnZEx3VXV3S2haWFJUX3UtdThxcERCS1JSOWlTNjFsTFV2LWxSRXpIZ0YwSk9sSC1wMGlQdGZKMXRGenZMb1pYaksxUDZneFZ4dTY1eDBLd3lTUzlpMTRF?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" pledge"
     }
   ]
 }
