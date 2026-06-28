@@ -3526,5 +3526,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-225",
+    "date": "2026-05-12",
+    "title": "Budget earmarks more than $600m for Bondi attack response, with half going to Australia’s Jewish community - The Guardian",
+    "amount": 600000000,
+    "amount_display": "$600M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkxWd0ZQY1dxTkpHcHZxb3FyRFdtdEJOZHRKN0F4ZHE4cHByZGdIWjhDcExpOUJobERWdWd2bW9VTloyRmMwVm8wbElaVE9lNWpZS3c4SEVnQUFabGtuRXFsd3ZDaGttR2JFN19RQWx1cFlHZHRWU09BOGg3UWtBZGtWbTJTVVNScGFsMjBtR0pwaFdfaDctRkFjZTNBQkZPYW5peEdDV01oVG9FV0VTa1pqc3ItMHJUb2Q0TUl2YzkwNkU?oc=5\" target=\"_blank\">Budget earmarks more than $600m for Bondi attack response, with half going to Australia’s Jewish community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkxWd0ZQY1dxTkpHcHZxb3FyRFdtdEJOZHRKN0F4ZHE4cHByZGdIWjhDcExpOUJobERWdWd2bW9VTloyRmMwVm8wbElaVE9lNWpZS3c4SEVnQUFabGtuRXFsd3ZDaGttR2JFN19RQWx1cFlHZHRWU09BOGg3UWtBZGtWbTJTVVNScGFsMjBtR0pwaFdfaDctRkFjZTNBQkZPYW5peEdDV01oVG9FV0VTa1pqc3ItMHJUb2Q0TUl2YzkwNkU?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
