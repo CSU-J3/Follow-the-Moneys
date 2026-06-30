@@ -3562,5 +3562,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-228",
+    "date": "2026-02-19",
+    "title": "Trump announces $10 billion U.S. contribution to Board of Peace - fox10tv.com",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEhVUHA1c0JyQUtUWTc0UXNzQ1RQLW1fUnU0cWFDWEdnSTJrR2N6OFIxRjVvX3NDY0wyNThycE5iVHB2OXVCQVk5bFY4WTFZRW95Yk5ZQ3NqcHBMbGlWLWZ1REFLWXFoazNKdHZPMkhRRzJtY1JfMGMtLUo3OVMyRHZNZk5rdHBqQlF1T2dhNG14RnJu0gGoAUFVX3lxTE1aeHNuUTZGbEExZ3Ffd0FZOVZSeVJQM1BRNjZybG1iNU56WTlnZkFxQkhJTU9KenVjUW5zZXVVMWV4UEFRT1d1VkVySlZFTGV4S1FuUjBLOFFCb3JIQWxMaDlMUF9EWDZrb0h2czEtYi1sVU5kaFhVZVlJNEZVTTkyLTRERGp1TG1kUTZEa0pSVE96UmJNaVNEaDlTWWRhYVZqd201WWFRRw?oc=5\" target=\"_blank\">Trump announces $10 billion U.S. contribution to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+    "sources": [
+      {
+        "name": "fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEhVUHA1c0JyQUtUWTc0UXNzQ1RQLW1fUnU0cWFDWEdnSTJrR2N6OFIxRjVvX3NDY0wyNThycE5iVHB2OXVCQVk5bFY4WTFZRW95Yk5ZQ3NqcHBMbGlWLWZ1REFLWXFoazNKdHZPMkhRRzJtY1JfMGMtLUo3OVMyRHZNZk5rdHBqQlF1T2dhNG14RnJu0gGoAUFVX3lxTE1aeHNuUTZGbEExZ3Ffd0FZOVZSeVJQM1BRNjZybG1iNU56WTlnZkFxQkhJTU9KenVjUW5zZXVVMWV4UEFRT1d1VkVySlZFTGV4S1FuUjBLOFFCb3JIQWxMaDlMUF9EWDZrb0h2czEtYi1sVU5kaFhVZVlJNEZVTTkyLTRERGp1TG1kUTZEa0pSVE96UmJNaVNEaDlTWWRhYVZqd201WWFRRw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
