@@ -3580,5 +3580,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-229",
+    "date": "2026-02-19",
+    "title": "Donald Trump says US committing $10 billion to Board of Peace - The Hill",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVFKWkdCeEFIazRGZzd2bmVXbHdoNzJMZ0hXdmoxOUJURjZLdHR3VTZxUUItMmdJSEtiSk10STNBQ0RMVXctWFpOdzJnci1sdTFoTjdTelU5VDViVGlfSmVCN3RSUmlGMVJYQllERGlRM19hYXU3bGVzSVE2LTh0Rk55Q3c?oc=5\" target=\"_blank\">Donald Trump says US committing $10 billion to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "sources": [
+      {
+        "name": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVFKWkdCeEFIazRGZzd2bmVXbHdoNzJMZ0hXdmoxOUJURjZLdHR3VTZxUUItMmdJSEtiSk10STNBQ0RMVXctWFpOdzJnci1sdTFoTjdTelU5VDViVGlfSmVCN3RSUmlGMVJYQllERGlRM19hYXU3bGVzSVE2LTh0Rk55Q3c?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
