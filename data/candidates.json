@@ -3598,5 +3598,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-230",
+    "date": "2024-08-18",
+    "title": "Philippines to allocate $875m for military modernization plan in 2025 - chinadailyhk",
+    "amount": 875000000,
+    "amount_display": "$875M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZ1VpbkZjT09ETFNrN0NtekViQzUwUGxKT18xcGMtWTJqaDhvWVdhc0ZYbUNTUGlIUEl1UXJDNllZaFlsNFQ0c0E3bmdZVmNHNXgzbEprOTBCQQ?oc=5\" target=\"_blank\">Philippines to allocate $875m for military modernization plan in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinadailyhk</font>",
+    "sources": [
+      {
+        "name": "chinadailyhk",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZ1VpbkZjT09ETFNrN0NtekViQzUwUGxKT18xcGMtWTJqaDhvWVdhc0ZYbUNTUGlIUEl1UXJDNllZaFlsNFQ0c0E3bmdZVmNHNXgzbEprOTBCQQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
