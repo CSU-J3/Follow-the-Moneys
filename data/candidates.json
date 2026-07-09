@@ -3616,5 +3616,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-231",
+    "date": "2025-01-02",
+    "title": "Israel allocates $150m to sway global opinion over Gaza genocide - Middle East Monitor",
+    "amount": 150000000,
+    "amount_display": "$150M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFBVbTBvbFVuMVJDVlNMaVgwc2JrQkphMm9YaHQ3S1lra1lqN3g2M1AtU1FGbjJmbGxmSHhDOTR4SGVIR3I4aUN1V1JTbE1vQnpZSHBWUlMyYmdtSHpnbm40UEk1V1J6ZXl1WFFMYWtsS1BpTFFEVDBLdXFUMnFFTWVCVGdCaXdJVWo4RF9HUzV3bVFGSnM3Z05yZ29FQ3VnMHJhc0VEcEhPUlk?oc=5\" target=\"_blank\">Israel allocates $150m to sway global opinion over Gaza genocide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Monitor</font>",
+    "sources": [
+      {
+        "name": "Middle East Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFBVbTBvbFVuMVJDVlNMaVgwc2JrQkphMm9YaHQ3S1lra1lqN3g2M1AtU1FGbjJmbGxmSHhDOTR4SGVIR3I4aUN1V1JTbE1vQnpZSHBWUlMyYmdtSHpnbm40UEk1V1J6ZXl1WFFMYWtsS1BpTFFEVDBLdXFUMnFFTWVCVGdCaXdJVWo4RF9HUzV3bVFGSnM3Z05yZ29FQ3VnMHJhc0VEcEhPUlk?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
