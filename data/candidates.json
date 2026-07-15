@@ -3670,5 +3670,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-234",
+    "date": "2026-07-15",
+    "title": "PA, Board of Peace officials meet in Brussels, welcome EU initiative for $1 billion Gaza fund - The Times of Israel",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNF94WktmOW13M3ZSXzVoZDJ6RGxWa0Y4WTRrRkFiTjV5aDlFc2VCQUxqOU0zdUhveHprcFB6eTVOMDFaQnlKQWl4aldqT3UyVGFCbWdjSVRMSUNkcGhaVzNlYUtSXzBEOC01bnZRdUo0a1FFeU1YNTdFYU9nODdmYTZkX1puaTNaVklPZk41R1pTcFRJcEdZX25XV2JDOEFnWXI0VmtGcXNPVHN0MXlQMjZycVVVR3JWdE5CUkZXT1Z5UHBQZEtNYmZtSFBPZ2pwZHc?oc=5\" target=\"_blank\">PA, Board of Peace officials meet in Brussels, welcome EU initiative for $1 billion Gaza fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNF94WktmOW13M3ZSXzVoZDJ6RGxWa0Y4WTRrRkFiTjV5aDlFc2VCQUxqOU0zdUhveHprcFB6eTVOMDFaQnlKQWl4aldqT3UyVGFCbWdjSVRMSUNkcGhaVzNlYUtSXzBEOC01bnZRdUo0a1FFeU1YNTdFYU9nODdmYTZkX1puaTNaVklPZk41R1pTcFRJcEdZX25XV2JDOEFnWXI0VmtGcXNPVHN0MXlQMjZycVVVR3JWdE5CUkZXT1Z5UHBQZEtNYmZtSFBPZ2pwZHc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
