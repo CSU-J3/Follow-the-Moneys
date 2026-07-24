@@ -1,9 +1,9 @@
 {
   "news": {
-    "started": "2026-07-24T01:29:01+00:00",
+    "started": "2026-07-24T08:04:46+00:00",
     "ok": true,
-    "raw_count": 0,
+    "raw_count": 123,
     "added_to_finances": 0,
-    "added_to_candidates": 0
+    "added_to_candidates": 1
   }
 }

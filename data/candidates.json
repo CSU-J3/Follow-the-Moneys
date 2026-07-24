@@ -3688,5 +3688,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-235",
+    "date": "2026-02-09",
+    "title": "US silent on Russia's $1B Gaza aid proposal - Operativ Məlumat Mərkəzi",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTBpR0h0WTdMT2RmZHZoSVdLemZoS3FmYkFsSGNGQU1Ib2JnVHpWVENsSjA0WllwZkpNa1NHd3ctMlNYU2tRY0F4dmMyTExMYzZPVlpZSzV2TlNaOHJMcHJUVGU2NURhNGJSZTY0ZXhDVmFRRlU2eTRENC1US3NBaUUwYWR5ZjZNRzMyMlc2RG8?oc=5\" target=\"_blank\">US silent on Russia's $1B Gaza aid proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Operativ Məlumat Mərkəzi</font>",
+    "sources": [
+      {
+        "name": "Operativ Məlumat Mərkəzi",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTBpR0h0WTdMT2RmZHZoSVdLemZoS3FmYkFsSGNGQU1Ib2JnVHpWVENsSjA0WllwZkpNa1NHd3ctMlNYU2tRY0F4dmMyTExMYzZPVlpZSzV2TlNaOHJMcHJUVGU2NURhNGJSZTY0ZXhDVmFRRlU2eTRENC1US3NBaUUwYWR5ZjZNRzMyMlc2RG8?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
