@@ -3724,5 +3724,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-237",
+    "date": "2026-04-06",
+    "title": "Trump says Board of Peace will unveil $5 billion in Gaza reconstruction pledges at inaugural meeting - Dayton Daily News",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFl5VDB5ZWgxY0tMd3ZCZzVFZk85cUhSSERmQ3dnSXVEY0gwSGYxckkwZ29ELTFQeHlYc1k5Tk5xNFFoc254S1oxeml5Nm83OXBLc3dJZ2FzWEptSU44VnMtMGpDeDRvYzNTY2Rrcng3cEpNZ3plTVVwVGpIbVdWTlJ6eU9vZm1IQ2pxdmlGREpsaWs3VnZpSUVkVWJxRkl1Vy01ZUNhczRFU28wN1IyV3QwbDd0RW82c0dSMlNGMTdoRUxFUVRuT0J1QmZaQXNYMDBaU3k3NDZyU1I4WG00Q1ZwSUJ6aDhkMzNCblpHODN5WkdTSDNDN0V2YkZpWjZkVUtv?oc=5\" target=\"_blank\">Trump says Board of Peace will unveil $5 billion in Gaza reconstruction pledges at inaugural meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+    "sources": [
+      {
+        "name": "Dayton Daily News",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFl5VDB5ZWgxY0tMd3ZCZzVFZk85cUhSSERmQ3dnSXVEY0gwSGYxckkwZ29ELTFQeHlYc1k5Tk5xNFFoc254S1oxeml5Nm83OXBLc3dJZ2FzWEptSU44VnMtMGpDeDRvYzNTY2Rrcng3cEpNZ3plTVVwVGpIbVdWTlJ6eU9vZm1IQ2pxdmlGREpsaWs3VnZpSUVkVWJxRkl1Vy01ZUNhczRFU28wN1IyV3QwbDd0RW82c0dSMlNGMTdoRUxFUVRuT0J1QmZaQXNYMDBaU3k3NDZyU1I4WG00Q1ZwSUJ6aDhkMzNCblpHODN5WkdTSDNDN0V2YkZpWjZkVUtv?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
