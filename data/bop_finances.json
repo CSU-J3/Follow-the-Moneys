@@ -521,6 +521,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" pledge"
+    },
+    {
+      "id": "ev-238",
+      "date": "2026-02-19",
+      "title": "Trump says U.S. will give $10 billion to Board of Peace - pbs.org",
+      "amount": 10000000000,
+      "amount_display": "$10B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9LZ1lJLUNvLWI5YmkwS3ljX0ZRWHFWOUVtcDhibzNsUkg0VEtTOHhtdzdzdktYR1JBdGpKXy1GNGtUalgyZnVlV3dWNkZWMDRtaFZ3RGRxOGZKa3R2R0wycEdjcmtKWkpEbFE?oc=5\" target=\"_blank\">Trump says U.S. will give $10 billion to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pbs.org</font>",
+      "sources": [
+        {
+          "name": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LZ1lJLUNvLWI5YmkwS3ljX0ZRWHFWOUVtcDhibzNsUkg0VEtTOHhtdzdzdktYR1JBdGpKXy1GNGtUalgyZnVlV3dWNkZWMDRtaFZ3RGRxOGZKa3R2R0wycEdjcmtKWkpEbFE?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }
