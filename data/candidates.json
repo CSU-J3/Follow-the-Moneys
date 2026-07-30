@@ -3742,5 +3742,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-239",
+    "date": "2026-06-12",
+    "title": "UK, Australia and Canada Launch $4 Million Israeli-Palestinian Peace Fund - globalpost.com",
+    "amount": 4000000,
+    "amount_display": "$4M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1ZTdE5UV2VXTGp3cWQ1dm9RSHdKdUpLOFoteXhQb0pVRGE2OGRGSkdYZTlSSzZ3UGhzNk8xRzZtakZjdlFWMVZZd3JCLUlZTGs1Sm80M1JfSGZoVEd6Wkp3NEEzVlphUXB3RldMYXplcFRzcW9aVzJqczVHY1BVNHJ0V0R2RDk1R1VSU1ducTd1WEFhMzN6QlVhbnBOU3VsQkk1V21R?oc=5\" target=\"_blank\">UK, Australia and Canada Launch $4 Million Israeli-Palestinian Peace Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">globalpost.com</font>",
+    "sources": [
+      {
+        "name": "globalpost.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1ZTdE5UV2VXTGp3cWQ1dm9RSHdKdUpLOFoteXhQb0pVRGE2OGRGSkdYZTlSSzZ3UGhzNk8xRzZtakZjdlFWMVZZd3JCLUlZTGs1Sm80M1JfSGZoVEd6Wkp3NEEzVlphUXB3RldMYXplcFRzcW9aVzJqczVHY1BVNHJ0V0R2RDk1R1VSU1ducTd1WEFhMzN6QlVhbnBOU3VsQkk1V21R?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
