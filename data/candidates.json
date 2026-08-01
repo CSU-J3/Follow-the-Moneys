@@ -3760,5 +3760,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-240",
+    "date": "2026-02-20",
+    "title": "Trump Says U.S. Will Give $10B in Funding to His U.N. Alternative, the “Board of Peace” - democracynow.org",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "international",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORVYwdVQ3Ty01d1NuNjdmWDJYUHNJd0Fmd2FXSklGWEF0V3ltZ0ZPUUNHWndiX2tabnFsaTRwcDVvdENRR3ZWNmlLbDFYTzdwMm8xbnY2TFQ1d2J2VDZxUHVfTFREOURjSVFzQ3oxSkxDY0l0OE5XQnZxNGJxM3E1TDk5M3JmSC1zdzZma3RuSjJ2MlBFbndtSWhnMHlGNWxXejVHOG45eXRHaDdSVDlub01yWFZjSHZHQkNDdkF4dnpfM0d1UW53?oc=5\" target=\"_blank\">Trump Says U.S. Will Give $10B in Funding to His U.N. Alternative, the “Board of Peace”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">democracynow.org</font>",
+    "sources": [
+      {
+        "name": "democracynow.org",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVYwdVQ3Ty01d1NuNjdmWDJYUHNJd0Fmd2FXSklGWEF0V3ltZ0ZPUUNHWndiX2tabnFsaTRwcDVvdENRR3ZWNmlLbDFYTzdwMm8xbnY2TFQ1d2J2VDZxUHVfTFREOURjSVFzQ3oxSkxDY0l0OE5XQnZxNGJxM3E1TDk5M3JmSC1zdzZma3RuSjJ2MlBFbndtSWhnMHlGNWxXejVHOG45eXRHaDdSVDlub01yWFZjSHZHQkNDdkF4dnpfM0d1UW53?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-241",
+    "date": "2025-09-30",
+    "title": "Trump Admin Allocates Public Land to Coal Mining and Provides $625M for Coal-Fired Power Plants - democracynow.org",
+    "amount": 625000000,
+    "amount_display": "$625M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXRDVVROYlJlVWgxWUJiTHBTVkUwLUdaMWlTUnNnUDJ1VjJSeGxFSHRFSzB2OGNGVHJVaE1jNkJxSEJYT1dFa3JuNkNOcDNrckJIZ1hIV1daQmg0d3RzdkZ6TTV0SnVESUtkXzQ1WGxJdUdRNm1feEpxNlhUZkNpX19aaTgwampYOGhCTWY2bGl1SXBQd0psWEh6Nm9PYnR1VTJPdWZsN0IyV1Y5VnJvR3ZVVWloSEFqdkZ6b2NpdVNndWJjVF9YM0ZDMU9FX1p5bUdYeEdDMHVPQUk?oc=5\" target=\"_blank\">Trump Admin Allocates Public Land to Coal Mining and Provides $625M for Coal-Fired Power Plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">democracynow.org</font>",
+    "sources": [
+      {
+        "name": "democracynow.org",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXRDVVROYlJlVWgxWUJiTHBTVkUwLUdaMWlTUnNnUDJ1VjJSeGxFSHRFSzB2OGNGVHJVaE1jNkJxSEJYT1dFa3JuNkNOcDNrckJIZ1hIV1daQmg0d3RzdkZ6TTV0SnVESUtkXzQ1WGxJdUdRNm1feEpxNlhUZkNpX19aaTgwampYOGhCTWY2bGl1SXBQd0psWEh6Nm9PYnR1VTJPdWZsN0IyV1Y5VnJvR3ZVVWloSEFqdkZ6b2NpdVNndWJjVF9YM0ZDMU9FX1p5bUdYeEdDMHVPQUk?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
