@@ -3796,5 +3796,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-242",
+    "date": "2026-06-11",
+    "title": "Israel to allocate $338 million for illegal settlement expansion - The New Arab",
+    "amount": 338000000,
+    "amount_display": "$338M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZi1kY2NXV3F5ck1hX1NzWnJ6NzRpQlh1RkpCaWZpeTJPVGM0ZnJXMFFkSXNuVDgxRXEtQzBjVWtfUncwTktycjR4dXNvMEhvMU41TFB6RnByWXVxN3BLajRObHVDY3BoSG5zNlZCMW52UUdiSlJFYldlR3JKeXdmeEMtZG1DdThnX2c0Y05B0gGTAUFVX3lxTE5TNzVxWDFHbGEzVHEzYWU1Zk82WUFlbmZVb3M2S3dBZXM5ZE1FVUltNHZUaTgtZlQ3WjZOTzRrR0UycWVMczZmXzBQcXFSa3RPM3hoNXJ5ckU3S2hFQ2RpQmJ4RHNsN2xtRkxHLWJXZlhSQ2dtNDdSem1FeUhKeGpINGZ5TUhuOTBLYlREUG02ZzhQOA?oc=5\" target=\"_blank\">Israel to allocate $338 million for illegal settlement expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Arab</font>",
+    "sources": [
+      {
+        "name": "The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZi1kY2NXV3F5ck1hX1NzWnJ6NzRpQlh1RkpCaWZpeTJPVGM0ZnJXMFFkSXNuVDgxRXEtQzBjVWtfUncwTktycjR4dXNvMEhvMU41TFB6RnByWXVxN3BLajRObHVDY3BoSG5zNlZCMW52UUdiSlJFYldlR3JKeXdmeEMtZG1DdThnX2c0Y05B0gGTAUFVX3lxTE5TNzVxWDFHbGEzVHEzYWU1Zk82WUFlbmZVb3M2S3dBZXM5ZE1FVUltNHZUaTgtZlQ3WjZOTzRrR0UycWVMczZmXzBQcXFSa3RPM3hoNXJ5ckU3S2hFQ2RpQmJ4RHNsN2xtRkxHLWJXZlhSQ2dtNDdSem1FeUhKeGpINGZ5TUhuOTBLYlREUG02ZzhQOA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
