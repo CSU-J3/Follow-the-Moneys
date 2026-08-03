@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:12:07+00:00",
+  "last_updated": "2026-08-03T19:16:08+00:00",
   "summary": {
     "congressional_votes": 0,
     "reconstruction_need_low": 53000000000,
@@ -542,6 +542,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-243",
+      "date": "2026-07-07",
+      "title": "Norway to allocate $300 million for Ukraine’s air defence - Armenpress",
+      "amount": 300000000,
+      "amount_display": "$300M",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZGRLZ1Q0aVZjVlZDQkFsMmxKcHNILV9wYjBUdTZqSkJaYW5DU2xxNFFDTG04Wk56bEVSWHZwQWdJc3REZUNKTUhvYjlxWVBBUVHSAVdBVV95cUxOM3dQYTR4U0hFSTZ5OW5EUDlJcTVEQ09pYW1XVGlpN25mVFNteXVuOXNOa0FDTzFJY3AxY3diTzFhMHRzU0hfMlNxV3htQlZFS0NWaWs3SUE?oc=5\" target=\"_blank\">Norway to allocate $300 million for Ukraine’s air defence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Armenpress</font>",
+      "sources": [
+        {
+          "name": "Armenpress",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZGRLZ1Q0aVZjVlZDQkFsMmxKcHNILV9wYjBUdTZqSkJaYW5DU2xxNFFDTG04Wk56bEVSWHZwQWdJc3REZUNKTUhvYjlxWVBBUVHSAVdBVV95cUxOM3dQYTR4U0hFSTZ5OW5EUDlJcTVEQ09pYW1XVGlpN25mVFNteXVuOXNOa0FDTzFJY3AxY3diTzFhMHRzU0hfMlNxV3htQlZFS0NWaWs3SUE?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" allocate"
     }
   ]
 }
