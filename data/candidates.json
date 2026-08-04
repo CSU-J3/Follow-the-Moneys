@@ -3814,5 +3814,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-244",
+    "date": "2026-02-19",
+    "title": "UAE announces additional $1.2 billion to support Gaza during Board of Peace meeting chaired by Trump - uae-embassy.org",
+    "amount": 1200000000,
+    "amount_display": "$1.2B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDdoeGppdFdJbm1aMUk5OXVBalhmWnBndlBQU2dkUHZYQzE4WThrUHNyQjBJWmEwVnpYeV91QjI4aU5nTTVYZTVvS25lUV9mU3NlZ3Jaby1Oem1vT3c4T2E4R2JzU3FGVlhrQmVZZVc0aEp2WWxZdU92OEFwUmFzOVVGa3VPZUQ2dm1laDhNVjJadkhxalpYdkRZM0pWaEdDTENMdkFSSmhiaHd1ZjZjSHZVZkFaczRITkZqVGtLSQ?oc=5\" target=\"_blank\">UAE announces additional $1.2 billion to support Gaza during Board of Peace meeting chaired by Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uae-embassy.org</font>",
+    "sources": [
+      {
+        "name": "uae-embassy.org",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDdoeGppdFdJbm1aMUk5OXVBalhmWnBndlBQU2dkUHZYQzE4WThrUHNyQjBJWmEwVnpYeV91QjI4aU5nTTVYZTVvS25lUV9mU3NlZ3Jaby1Oem1vT3c4T2E4R2JzU3FGVlhrQmVZZVc0aEp2WWxZdU92OEFwUmFzOVVGa3VPZUQ2dm1laDhNVjJadkhxalpYdkRZM0pWaEdDTENMdkFSSmhiaHd1ZjZjSHZVZkFaczRITkZqVGtLSQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
