@@ -3832,5 +3832,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-245",
+    "date": "2026-08-12",
+    "title": "Board of Peace Denies $400 Million Deal With Hamas - Yahoo",
+    "amount": 400000000,
+    "amount_display": "$400M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZsX0ZSQ3hkOTVvOXk0SkpFRzN4UDhVbnFhTVZ2Mnp2VlRuUGw3NVVrSDVvVm9nOGR5MFl0NjBUeEZLeVNWLTFTY0NEQVNxb2QzbVZOTDFlZjctRHdOTHZOR0MzQktIaTFFdEwwNlFSMktKUG4ybUh2ajZ2Vl9PUm5yRzRKZUtZTUhmMTFVZEZtSGVX?oc=5\" target=\"_blank\">Board of Peace Denies $400 Million Deal With Hamas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZsX0ZSQ3hkOTVvOXk0SkpFRzN4UDhVbnFhTVZ2Mnp2VlRuUGw3NVVrSDVvVm9nOGR5MFl0NjBUeEZLeVNWLTFTY0NEQVNxb2QzbVZOTDFlZjctRHdOTHZOR0MzQktIaTFFdEwwNlFSMktKUG4ybUh2ajZ2Vl9PUm5yRzRKZUtZTUhmMTFVZEZtSGVX?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
