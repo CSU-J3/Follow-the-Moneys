@@ -3904,5 +3904,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-249",
+    "date": "2026-06-15",
+    "title": "Israel allocates $1.89M to illegal youth settlers in occupied West Bank - TRT World",
+    "amount": 1890000,
+    "amount_display": "$2M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE16cllhd1lPQUpWSmVLSmxGNlRYSlFjYjVCUGNPcmM3VnJqa0lDd2c1c0ROUEp2dFVFbEZMLWsxX2FJb3BYU0JtX0liUDVWbXAyOVk3NzVOMFY?oc=5\" target=\"_blank\">Israel allocates $1.89M to illegal youth settlers in occupied West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+    "sources": [
+      {
+        "name": "TRT World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16cllhd1lPQUpWSmVLSmxGNlRYSlFjYjVCUGNPcmM3VnJqa0lDd2c1c0ROUEp2dFVFbEZMLWsxX2FJb3BYU0JtX0liUDVWbXAyOVk3NzVOMFY?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
