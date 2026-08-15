@@ -3850,5 +3850,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-246",
+    "date": "2026-06-11",
+    "title": "Israel to Allocate $338 Million for West Bank Settlement Expansion, Rights Group Says - ASHARQ AL-AWSAT English",
+    "amount": 338000000,
+    "amount_display": "$338M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZiRWpKWjFSbmdmVDdKV3RmSHpBTjBpdnc1NjZwR2dyUVllSEVXOWxsRXJXSlFCNkROZzZOdjZaYkYwOENkV01XNFZfWjU2YmxUcm9SMHBWMjl1YWVhZjdvSHBwTjBBNHRXMXQ5cVlQN0xlV0U0emQ2dWdFZWtQdXBrS0Y2UGFVVEdPdTdTLWxSVkJxRTdqLTZJUG1WWlUwUW1lSHEzY0JYVnc1cFRrZmc2d0RtRm9xbXB3T1NlRQ?oc=5\" target=\"_blank\">Israel to Allocate $338 Million for West Bank Settlement Expansion, Rights Group Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ASHARQ AL-AWSAT English</font>",
+    "sources": [
+      {
+        "name": "ASHARQ AL-AWSAT English",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZiRWpKWjFSbmdmVDdKV3RmSHpBTjBpdnc1NjZwR2dyUVllSEVXOWxsRXJXSlFCNkROZzZOdjZaYkYwOENkV01XNFZfWjU2YmxUcm9SMHBWMjl1YWVhZjdvSHBwTjBBNHRXMXQ5cVlQN0xlV0U0emQ2dWdFZWtQdXBrS0Y2UGFVVEdPdTdTLWxSVkJxRTdqLTZJUG1WWlUwUW1lSHEzY0JYVnc1cFRrZmc2d0RtRm9xbXB3T1NlRQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
