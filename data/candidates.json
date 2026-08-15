@@ -3868,5 +3868,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-247",
+    "date": "2026-08-13",
+    "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning - Fox News",
+    "amount": 400000000,
+    "amount_display": "$400M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmh6N1BaYkJiSDZpVnlhVEd4dURDUzlJNXBFalpwVFNHdjA2NWV5V2tjZHBYN2tGVUNyXzctc2JIVWlzZjVra0tWNjZVdXhFRWRuT0VHcV9lSEZZbVRJbDRYanFCVWgza1E0SThDb3d1cENlYkNLMlZBTDd5OWE3SVIzMk9PRHBGUFQ1Q3ZONDhvOU5GN0UzN2w4MnNNeFhQdUVNeldUNEczN2I3dmV1UHc4UkdGZ9IBuwFBVV95cUxQY2dRY2tSQnhGWFNnV0ZURjkwdWVqSUhEVkVLSk53anlaYmY0ZG5sb2VHaEVPcWlWVVJCWDNveWZfbmhnSktvWXA0UjZ3THVXZFdaNDBJbm84UzNHYV9RN0pISmhXbDZmNVpOd1ZCRUVSN3BjOGxiWi04cG1pZmNtM014QTJzZXU1anJLM2wwZ25qaXhSV3dwMWlscVBfa2lPMTFOWXp0RXlnRlQ3dnVIaW92U2hsTzh3S1JR?oc=5\" target=\"_blank\">Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+    "sources": [
+      {
+        "name": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmh6N1BaYkJiSDZpVnlhVEd4dURDUzlJNXBFalpwVFNHdjA2NWV5V2tjZHBYN2tGVUNyXzctc2JIVWlzZjVra0tWNjZVdXhFRWRuT0VHcV9lSEZZbVRJbDRYanFCVWgza1E0SThDb3d1cENlYkNLMlZBTDd5OWE3SVIzMk9PRHBGUFQ1Q3ZONDhvOU5GN0UzN2w4MnNNeFhQdUVNeldUNEczN2I3dmV1UHc4UkdGZ9IBuwFBVV95cUxQY2dRY2tSQnhGWFNnV0ZURjkwdWVqSUhEVkVLSk53anlaYmY0ZG5sb2VHaEVPcWlWVVJCWDNveWZfbmhnSktvWXA0UjZ3THVXZFdaNDBJbm84UzNHYV9RN0pISmhXbDZmNVpOd1ZCRUVSN3BjOGxiWi04cG1pZmNtM014QTJzZXU1anJLM2wwZ25qaXhSV3dwMWlscVBfa2lPMTFOWXp0RXlnRlQ3dnVIaW92U2hsTzh3S1JR?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-248",
+    "date": "2026-06-11",
+    "title": "Israel allocates $51M for 69 illegal settlements in occupied West Bank: watchdog - TRT World",
+    "amount": 51000000,
+    "amount_display": "$51M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIN0kyOFVGSFpsUl9NU2UzMndvTDlOVXZJaEtqZXg2OUl3Zi12ajlIdXZubVZZV1ZETWhZSnZLdnpNazVaXzNxNXhtZExEaV9GMVJjSDBEUzY?oc=5\" target=\"_blank\">Israel allocates $51M for 69 illegal settlements in occupied West Bank: watchdog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+    "sources": [
+      {
+        "name": "TRT World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIN0kyOFVGSFpsUl9NU2UzMndvTDlOVXZJaEtqZXg2OUl3Zi12ajlIdXZubVZZV1ZETWhZSnZLdnpNazVaXzNxNXhtZExEaV9GMVJjSDBEUzY?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
