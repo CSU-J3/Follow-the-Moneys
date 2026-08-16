@@ -3940,5 +3940,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-251",
+    "date": "2026-07-11",
+    "title": "Gaza’s $17B Reconstruction Fund Has Zero Dollars Nine Months After Ceasefire - Tech Times",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGtDRGRtcVota0ZFYjQxd0tSN3A2V0U3MUNTZlpkVEVFYnIxSGhHRUZrU1ZrNTdRTlVqYVRCVEFQaUhmSlZBTTlZZVdqTVdoWG43V3FZWFdGOXlHUW8zZ2hqdlkwczRZdk10TVpJVVNTMjc0N2RNWm1qSWZIRFltNHlVVjA3VUkwNXpvWUpHUjZmSHlMQ2hjb3hKQ3RTVkRTYmhybEg4RXIxMklkMG12dXdBX0FuVWpDZ0VzdUJ6djFhSmFZMERLOA?oc=5\" target=\"_blank\">Gaza’s $17B Reconstruction Fund Has Zero Dollars Nine Months After Ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+    "sources": [
+      {
+        "name": "Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGtDRGRtcVota0ZFYjQxd0tSN3A2V0U3MUNTZlpkVEVFYnIxSGhHRUZrU1ZrNTdRTlVqYVRCVEFQaUhmSlZBTTlZZVdqTVdoWG43V3FZWFdGOXlHUW8zZ2hqdlkwczRZdk10TVpJVVNTMjc0N2RNWm1qSWZIRFltNHlVVjA3VUkwNXpvWUpHUjZmSHlMQ2hjb3hKQ3RTVkRTYmhybEg4RXIxMklkMG12dXdBX0FuVWpDZ0VzdUJ6djFhSmFZMERLOA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
