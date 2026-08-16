@@ -3922,5 +3922,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-250",
+    "date": "2023-01-17",
+    "title": "Algeria Allocates $400 Mln to Protect Oil Facilities against Terrorism - ASHARQ AL-AWSAT English",
+    "amount": 400,
+    "amount_display": "$400",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSlFSeG5MRi1KUHhHaktMdV80dG4zQlFPVGFDd3JlVEFiOXpQdkFLTDZqTnEzcHEtYkxZYUl3Y1dqM0dNdVB2UVlyNDRjb3lvUWVnamtUMVFtNmkyRE9mQzE0X3A4eXk0eE5JcGdLUEpzelVmOWU1VGFMYUd2VWJtVXlXcktKQzRMd1RGVWRoVkhNd0NYYkVOM3VFcUM5WnhTbzY1TWZ2bE1jSnlES01yX05Yak1NLXhqcW1jcGFoVjhtMEJwWjRobUZCYm1fcDV2R1lQVU5Db1FSQQ?oc=5\" target=\"_blank\">Algeria Allocates $400 Mln to Protect Oil Facilities against Terrorism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ASHARQ AL-AWSAT English</font>",
+    "sources": [
+      {
+        "name": "ASHARQ AL-AWSAT English",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSlFSeG5MRi1KUHhHaktMdV80dG4zQlFPVGFDd3JlVEFiOXpQdkFLTDZqTnEzcHEtYkxZYUl3Y1dqM0dNdVB2UVlyNDRjb3lvUWVnamtUMVFtNmkyRE9mQzE0X3A4eXk0eE5JcGdLUEpzelVmOWU1VGFMYUd2VWJtVXlXcktKQzRMd1RGVWRoVkhNd0NYYkVOM3VFcUM5WnhTbzY1TWZ2bE1jSnlES01yX05Yak1NLXhqcW1jcGFoVjhtMEJwWjRobUZCYm1fcDV2R1lQVU5Db1FSQQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
