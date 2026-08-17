@@ -3958,5 +3958,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-252",
+    "date": "2026-03-23",
+    "title": "Prabowo says Indonesia never pledged US$1 billion to Board of Peace, reaffirms peacekeeper role - channelnewsasia.com",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjV0b29ycGhsWG5WM2o2Z2llN2pNX1FQVmlTN3V4R0NNbkNrWXhhSHd4VE9pX2kwSGFCcWZna21rVnhuRjF4ZHFlUll0MnRNOVpJMm5qc3NuY29ERUUxMTZkeVAyQ0Y3LW1fVnQ5WkMyaTZ0T29TOTBmREsyT19IczZsRmVaZjJlLWE5SjBnTWZfRDNMSGNKZmRSVkpuR3o5azgtS0RSdExqRVNtYnNIMmFSNVllM1Itcnc?oc=5\" target=\"_blank\">Prabowo says Indonesia never pledged US$1 billion to Board of Peace, reaffirms peacekeeper role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">channelnewsasia.com</font>",
+    "sources": [
+      {
+        "name": "channelnewsasia.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjV0b29ycGhsWG5WM2o2Z2llN2pNX1FQVmlTN3V4R0NNbkNrWXhhSHd4VE9pX2kwSGFCcWZna21rVnhuRjF4ZHFlUll0MnRNOVpJMm5qc3NuY29ERUUxMTZkeVAyQ0Y3LW1fVnQ5WkMyaTZ0T29TOTBmREsyT19IczZsRmVaZjJlLWE5SjBnTWZfRDNMSGNKZmRSVkpuR3o5azgtS0RSdExqRVNtYnNIMmFSNVllM1Itcnc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-253",
+    "date": "2026-07-14",
+    "title": "Israel Allocates $434 Million for 34 New West Bank Settlements - ASHARQ AL-AWSAT English",
+    "amount": 434000000,
+    "amount_display": "$434M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjRSWVo4cVlhWGh6eW03VGV0cThVZ3E2ejl1aEF5cV9EV3A4bnFkVE5vTEVjRHNBMUxaSmxLUXJZR0VJSGNta3hrT3dPeXYycDBFSnNFRmJGRHEwb25Scl9DOXVTSTNFNDY3QVhvR3NncHluUGlKV2xoNURIN1JKckttOVExQW5NU3ZydEJpRzN2QU1fYllabUxoVnZFcjNWM2l0cFVn?oc=5\" target=\"_blank\">Israel Allocates $434 Million for 34 New West Bank Settlements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ASHARQ AL-AWSAT English</font>",
+    "sources": [
+      {
+        "name": "ASHARQ AL-AWSAT English",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjRSWVo4cVlhWGh6eW03VGV0cThVZ3E2ejl1aEF5cV9EV3A4bnFkVE5vTEVjRHNBMUxaSmxLUXJZR0VJSGNta3hrT3dPeXYycDBFSnNFRmJGRHEwb25Scl9DOXVTSTNFNDY3QVhvR3NncHluUGlKV2xoNURIN1JKckttOVExQW5NU3ZydEJpRzN2QU1fYllabUxoVnZFcjNWM2l0cFVn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
