@@ -3994,5 +3994,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-254",
+    "date": "2026-03-23",
+    "title": "Indonesia says no to $1.28b fee for Trump’s ‘Board of Peace’ seat - The Straits Times",
+    "amount": 1280000000,
+    "amount_display": "$1.28B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMFpSaHNGeG1UM3A4U3hZV0xaRW9OSGRYWVBvYmFsc0s1emg1RjdGc1haM0dfT0JTMlpZTzRSY0QwakRHNkRTUlM3UEYxSTJMUEFxTlc4ejNGRTBhMU5Xb2ZrMnMzOFJNNVY5NE9ESzNYN2tLd3JjY1RqbkhZNHF1ZWN2Nkh5YnJkeG1UcUhIM21QVmxFdVEzT2ZYOWdEMjhMekU1VXZR?oc=5\" target=\"_blank\">Indonesia says no to $1.28b fee for Trump’s ‘Board of Peace’ seat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+    "sources": [
+      {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMFpSaHNGeG1UM3A4U3hZV0xaRW9OSGRYWVBvYmFsc0s1emg1RjdGc1haM0dfT0JTMlpZTzRSY0QwakRHNkRTUlM3UEYxSTJMUEFxTlc4ejNGRTBhMU5Xb2ZrMnMzOFJNNVY5NE9ESzNYN2tLd3JjY1RqbkhZNHF1ZWN2Nkh5YnJkeG1UcUhIM21QVmxFdVEzT2ZYOWdEMjhMekU1VXZR?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
