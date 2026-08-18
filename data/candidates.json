@@ -4012,5 +4012,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-255",
+    "date": "2026-02-20",
+    "title": "Trump says US committing $10 billion to Board of Peace - NewsNation",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGVQaVBabGVQWmE0MWo0blduTGlmTmF3dUdOWV92a2JOTXJLZXl0MXViaTRKdkZTSGFib0JrMWdTYV9iYVo3d2pEZHZOOTVpNThhU0NPQUhZdnZJaDl5akhVeWk4NWZwNlVhb3dvaEF4TlBfRkJGR0lBakVUWnh2VUxXYjRVTldZVDVIc1VuS2dGdWE1eUpZZjlJazlwakV2VVlNYUExekpIOFVvTEtoenlPb0dCYjjSAZ4BQVVfeXFMTUVxOW1oZVdiaXlKdkJGMkxFSXhLc1F2YnhjZGFLTWFFUUJLUENHWFJMLTlORlMxVXZmOXVEY3dpdllHREExeHpxbjVRbXF0d1F2SlFaZlFUeFpPaVREdHdGWVlzTkxhVnFWdzdtbDlDZFpTRVlJMUhtaDJtaW4yX1BCZFZQLTV1b3hEZVo3RnJVbUF3cXBaUXBJWnJpbXc?oc=5\" target=\"_blank\">Trump says US committing $10 billion to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+    "sources": [
+      {
+        "name": "NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGVQaVBabGVQWmE0MWo0blduTGlmTmF3dUdOWV92a2JOTXJLZXl0MXViaTRKdkZTSGFib0JrMWdTYV9iYVo3d2pEZHZOOTVpNThhU0NPQUhZdnZJaDl5akhVeWk4NWZwNlVhb3dvaEF4TlBfRkJGR0lBakVUWnh2VUxXYjRVTldZVDVIc1VuS2dGdWE1eUpZZjlJazlwakV2VVlNYUExekpIOFVvTEtoenlPb0dCYjjSAZ4BQVVfeXFMTUVxOW1oZVdiaXlKdkJGMkxFSXhLc1F2YnhjZGFLTWFFUUJLUENHWFJMLTlORlMxVXZmOXVEY3dpdllHREExeHpxbjVRbXF0d1F2SlFaZlFUeFpPaVREdHdGWVlzTkxhVnFWdzdtbDlDZFpTRVlJMUhtaDJtaW4yX1BCZFZQLTV1b3hEZVo3RnJVbUF3cXBaUXBJWnJpbXc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-256",
+    "date": "2026-03-26",
+    "title": "'Blank check': Trump’s Board of Peace to get $1.25 billion from State Department - Alternet",
+    "amount": 1250000000,
+    "amount_display": "$1.25B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9JTGg0d0RSS1N6UWliNGhtN1RzZUJ1S0lhVEx0alR6bEdkWXpjNHFQTlc1S0I0VGY1Wk92emFBSGdDMXluR1h2Z0YwZGZZaHhKOWhGcW4tVkxXWnVDbXhnQ0c1WHFtVERnUDRMeDVxTG82Q01a?oc=5\" target=\"_blank\">'Blank check': Trump’s Board of Peace to get $1.25 billion from State Department</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alternet</font>",
+    "sources": [
+      {
+        "name": "Alternet",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JTGg0d0RSS1N6UWliNGhtN1RzZUJ1S0lhVEx0alR6bEdkWXpjNHFQTlc1S0I0VGY1Wk92emFBSGdDMXluR1h2Z0YwZGZZaHhKOWhGcW4tVkxXWnVDbXhnQ0c1WHFtVERnUDRMeDVxTG82Q01a?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
