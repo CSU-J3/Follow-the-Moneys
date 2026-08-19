@@ -4048,5 +4048,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-257",
+    "date": "2026-07-13",
+    "title": "EU rallies $1 billion in pledges for Gaza's recovery - The Washington Post",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1VaRTJyYlJqR2xMRUQ3YU9JNHlBSS1IVld2MHRSWFNFVHREWkJoWlJMUERxSHVLdmhFWUl5SmgzaFhWZldNZlk3cnB1NmFiNVNHWG45Y0NPQURxek5sQjEtTkczQ3dXTWtsOGJGbW9ZdEg1TUs1ZjNMTnRmdlIwZXdNendVY1cwM1JKTDhsS056SlViUWd3VkNlV25xalZpclB1WjNNMERmX24wRU5JckRMYTIydnFaRFpVbGxLdXM3SHdXRUhvTU8zOXRyamx1UkVQaWRPbw?oc=5\" target=\"_blank\">EU rallies $1 billion in pledges for Gaza's recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+    "sources": [
+      {
+        "name": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1VaRTJyYlJqR2xMRUQ3YU9JNHlBSS1IVld2MHRSWFNFVHREWkJoWlJMUERxSHVLdmhFWUl5SmgzaFhWZldNZlk3cnB1NmFiNVNHWG45Y0NPQURxek5sQjEtTkczQ3dXTWtsOGJGbW9ZdEg1TUs1ZjNMTnRmdlIwZXdNendVY1cwM1JKTDhsS056SlViUWd3VkNlV25xalZpclB1WjNNMERmX24wRU5JckRMYTIydnFaRFpVbGxLdXM3SHdXRUhvTU8zOXRyamx1UkVQaWRPbw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
