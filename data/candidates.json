@@ -4084,5 +4084,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-260",
+    "date": "2026-08-20",
+    "title": "US provides $206 million for Gaza force despite deadlocked peace plan - KELO-AM",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2o5cHpMa3JacDdNekN6MzBQT1NORVhxQWJOY3J2T1VPY3BicGx3dFh6SUV4NVFPU2JBaTJhdzRocXVYNk1EdWc4T1ZQMzBMaWVqT0JrRnloNTlBa240U0Jfa2gxWjk0S2RmRE5MX2xtYU5OYjAxSXR3QVRVa0M1UElZbUNUNHRDWDVmUl96YnNvVmc5U2JSMkE1VQ?oc=5\" target=\"_blank\">US provides $206 million for Gaza force despite deadlocked peace plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KELO-AM</font>",
+    "sources": [
+      {
+        "name": "KELO-AM",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2o5cHpMa3JacDdNekN6MzBQT1NORVhxQWJOY3J2T1VPY3BicGx3dFh6SUV4NVFPU2JBaTJhdzRocXVYNk1EdWc4T1ZQMzBMaWVqT0JrRnloNTlBa240U0Jfa2gxWjk0S2RmRE5MX2xtYU5OYjAxSXR3QVRVa0M1UElZbUNUNHRDWDVmUl96YnNvVmc5U2JSMkE1VQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
