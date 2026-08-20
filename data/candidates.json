@@ -4066,5 +4066,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-259",
+    "date": "2026-08-17",
+    "title": "Trump Inaugurates Board of Peace, Pledges $10 billion for Gaza Reconstruction - The CSR Journal",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnRUQnZKSElBSm1haHdOT2tPVkltak9xRHVGNGRTTVE0d1Ytbzd2SHA2c3Y2aEx3d1Z6TjZULVdiN2R6LTE3TnNmV05DNS13RzFsdmxkQmhnNEQzQmc4ekZJWWd3czZmbUFOdmo0bmk5aEVpZmFLb1pOZkJucG5sc2JwMk5XTmZCcEJNUGh0U0sxME5KMEVvWkFLVENDdEk2aXc?oc=5\" target=\"_blank\">Trump Inaugurates Board of Peace, Pledges $10 billion for Gaza Reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The CSR Journal</font>",
+    "sources": [
+      {
+        "name": "The CSR Journal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnRUQnZKSElBSm1haHdOT2tPVkltak9xRHVGNGRTTVE0d1Ytbzd2SHA2c3Y2aEx3d1Z6TjZULVdiN2R6LTE3TnNmV05DNS13RzFsdmxkQmhnNEQzQmc4ekZJWWd3czZmbUFOdmo0bmk5aEVpZmFLb1pOZkJucG5sc2JwMk5XTmZCcEJNUGh0U0sxME5KMEVvWkFLVENDdEk2aXc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]

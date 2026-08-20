@@ -557,6 +557,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" allocate"
+    },
+    {
+      "id": "ev-258",
+      "date": "2026-08-19",
+      "title": "US provides $206 million for Gaza force despite deadlocked peace plan - Reuters",
+      "amount": 206000000,
+      "amount_display": "$206M",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDlEb1ZYVnh6OFBkdGh1aW9EQi1CUnQyMTl3dFpBenBWRXJlR0NLLVdQeU9jOHQ4amlnQVpmNk5GVDBLVXhaZXFHUXVrNVhldlEwSWZPNGlDS0JEeHZULXpkbFJNVFBZX284a3hPNHJQT3Zzdnd1WnNGX3lFRVRYYy1jYk5TMzlWcWM0M3pzbTNqTUdORUNlTWJTTjdnZDVfLWxmaUlxVzh0cjZPQ1V4eGQzMA?oc=5\" target=\"_blank\">US provides $206 million for Gaza force despite deadlocked peace plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDlEb1ZYVnh6OFBkdGh1aW9EQi1CUnQyMTl3dFpBenBWRXJlR0NLLVdQeU9jOHQ4amlnQVpmNk5GVDBLVXhaZXFHUXVrNVhldlEwSWZPNGlDS0JEeHZULXpkbFJNVFBZX284a3hPNHJQT3Zzdnd1WnNGX3lFRVRYYy1jYk5TMzlWcWM0M3pzbTNqTUdORUNlTWJTTjdnZDVfLWxmaUlxVzh0cjZPQ1V4eGQzMA?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }
