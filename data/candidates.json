@@ -4102,5 +4102,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" fund"
+  },
+  {
+    "id": "ev-261",
+    "date": "2026-02-20",
+    "title": "Trump announces $17 billion in pledges for Gaza at inaugural Board of Peace confab - The Times of Israel",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1VHN5d1B0TmZHRjBKbEZXLTU1UUxJNkVUT1FHVTQ1XzEzZ0dzVUJyYW0tc1Y2eklOSWlZeXRHR3dZeXBPVTZneFpKTWxxdEd4MkFzOUktUF96Qm1WUUxIZklHNFFMd0VyVGp6QTgwRjF2aUdsdzVWYjBacXNvODNVUl9HM0ZXNGVJODhjRzE3THAtUmdjckxGRkxMbEZfOFZ5MjBDNDRNRGZ0cENjTHl2Z9IBuAFBVV95cUxNQ01VbnB4Wm9qUEVFOWVEUzRBWjdLZEFPWUY0cFc2d24ydkVCT2dScEU5VlNhR0t4UnJkSHQ4R3dfRG44UDZ6Zy1tRUN3S3BHSndaYjlfaG9jbXAzWmxxQy04Mk82R2E5MGd6TkVXRWYxbkRDY3REcHUwRG1QUE45bDhaaXhOWnZkLU9Yd2VvRFpFNmNEX0dFVnhJY1NDbmlHUFotbVFXOU1yRjRWQWplUGdfRG1lM1Br?oc=5\" target=\"_blank\">Trump announces $17 billion in pledges for Gaza at inaugural Board of Peace confab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1VHN5d1B0TmZHRjBKbEZXLTU1UUxJNkVUT1FHVTQ1XzEzZ0dzVUJyYW0tc1Y2eklOSWlZeXRHR3dZeXBPVTZneFpKTWxxdEd4MkFzOUktUF96Qm1WUUxIZklHNFFMd0VyVGp6QTgwRjF2aUdsdzVWYjBacXNvODNVUl9HM0ZXNGVJODhjRzE3THAtUmdjckxGRkxMbEZfOFZ5MjBDNDRNRGZ0cENjTHl2Z9IBuAFBVV95cUxNQ01VbnB4Wm9qUEVFOWVEUzRBWjdLZEFPWUY0cFc2d24ydkVCT2dScEU5VlNhR0t4UnJkSHQ4R3dfRG44UDZ6Zy1tRUN3S3BHSndaYjlfaG9jbXAzWmxxQy04Mk82R2E5MGd6TkVXRWYxbkRDY3REcHUwRG1QUE45bDhaaXhOWnZkLU9Yd2VvRFpFNmNEX0dFVnhJY1NDbmlHUFotbVFXOU1yRjRWQWplUGdfRG1lM1Br?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
