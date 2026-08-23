@@ -4120,5 +4120,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-262",
+    "date": "2026-03-22",
+    "title": "Indonesia Rules Out $1 Billion Contribution to Board of Peace - Jakarta Globe",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcV9Hb2tYSnpWZE9CRVRmTnBfbTg3MVh0ZkY5US1ROE13NGJHRFdkNkNSNzEyTTU2WTlBOUFTMjhoajVXYW45dmdrRkRTdVZ2eExSdUZHeDBtajZncmpuNnRLVkFVQVNUMW5PZWhmUVBIOS1SUW1GUHZ5U3hqZnpNRTVoS0FhZVdtMDVZdm5laXIwUzQ?oc=5\" target=\"_blank\">Indonesia Rules Out $1 Billion Contribution to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jakarta Globe</font>",
+    "sources": [
+      {
+        "name": "Jakarta Globe",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcV9Hb2tYSnpWZE9CRVRmTnBfbTg3MVh0ZkY5US1ROE13NGJHRFdkNkNSNzEyTTU2WTlBOUFTMjhoajVXYW45dmdrRkRTdVZ2eExSdUZHeDBtajZncmpuNnRLVkFVQVNUMW5PZWhmUVBIOS1SUW1GUHZ5U3hqZnpNRTVoS0FhZVdtMDVZdm5laXIwUzQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
