@@ -4138,5 +4138,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-263",
+    "date": "2026-07-13",
+    "title": "EU launches $1 billion initiative for 'Team Gaza' Palestinian recovery efforts - thenationalnews.com",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUy1VWTJiU2FjV1dqZWloQVdYUDZjNXVxQWxnd3FxQThTX01aLUUyeHBnNFJhNXFaT2hPdXBreHA2TFNpVXBjbVI4QzFpS1FlN2lKZ3JnX01lOEk2NG9sVHZsSl94VnVlamd3NXVMcWZsSVc2SVg3R1pOcEM3UDdUN0NrSm05R0lzRmFBU1NPbERxVVI2OW83Tzh1Z2IyUS1qMWpSMXFVbU5mWXJTTm05SndNZ25PdkdMV2NiSElHY1c4a0hnM0xnQlBZUQ?oc=5\" target=\"_blank\">EU launches $1 billion initiative for 'Team Gaza' Palestinian recovery efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenationalnews.com</font>",
+    "sources": [
+      {
+        "name": "thenationalnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUy1VWTJiU2FjV1dqZWloQVdYUDZjNXVxQWxnd3FxQThTX01aLUUyeHBnNFJhNXFaT2hPdXBreHA2TFNpVXBjbVI4QzFpS1FlN2lKZ3JnX01lOEk2NG9sVHZsSl94VnVlamd3NXVMcWZsSVc2SVg3R1pOcEM3UDdUN0NrSm05R0lzRmFBU1NPbERxVVI2OW83Tzh1Z2IyUS1qMWpSMXFVbU5mWXJTTm05SndNZ25PdkdMV2NiSElHY1c4a0hnM0xnQlBZUQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
