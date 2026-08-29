@@ -4156,5 +4156,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-264",
+    "date": "2026-03-26",
+    "title": "State Department sends $1.25B from other programs to Board of Peace - Yahoo",
+    "amount": 1250000000,
+    "amount_display": "$1.25B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU1EWnNDVFZ1b21BcEdhRE12cThXQ1ZTVExDaERQVE1aUVRPVm1OaEgzWHdFdXYxeVB4cnhOdFp5WDVPd1hEZlpuYXpNRExaai1ZbVF4eUVOXzhzSnBZN2lnM0xJREhHbTFZUjZEVUkwdXVFb3VYYVJnaWhmS2FhdDZOT1QyUQ?oc=5\" target=\"_blank\">State Department sends $1.25B from other programs to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU1EWnNDVFZ1b21BcEdhRE12cThXQ1ZTVExDaERQVE1aUVRPVm1OaEgzWHdFdXYxeVB4cnhOdFp5WDVPd1hEZlpuYXpNRExaai1ZbVF4eUVOXzhzSnBZN2lnM0xJREhHbTFZUjZEVUkwdXVFb3VYYVJnaWhmS2FhdDZOT1QyUQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
   }
 ]
