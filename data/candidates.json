@@ -4174,5 +4174,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-265",
+    "date": "2026-07-13",
+    "title": "EU Launches $1 Billion \"Team Gaza Initiative\" For Early Recovery - i24NEWS",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTJxTms3QlFlRDhDUTRTbEItdF9WZFdRN2JVMFhGT3h0QVBtQTgtQVZ4N3hMdlhrZkVXa0VFRk1Oa05NQnZsbG9QTU02TV84eDByay1mUWpiNWI5cHF3aHk2YU9tb2pFeFZWM3FLZWRwaTA2ZHRJLURReG9ZWU5GaTI3cmxuSmFiMVFzeWYtUGdlM3djQ1psc2I0YTFXbGRkSlpBZU11aTRKZlVjUTcxQQ?oc=5\" target=\"_blank\">EU Launches $1 Billion \"Team Gaza Initiative\" For Early Recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
+    "sources": [
+      {
+        "name": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTJxTms3QlFlRDhDUTRTbEItdF9WZFdRN2JVMFhGT3h0QVBtQTgtQVZ4N3hMdlhrZkVXa0VFRk1Oa05NQnZsbG9QTU02TV84eDByay1mUWpiNWI5cHF3aHk2YU9tb2pFeFZWM3FLZWRwaTA2ZHRJLURReG9ZWU5GaTI3cmxuSmFiMVFzeWYtUGdlM3djQ1psc2I0YTFXbGRkSlpBZU11aTRKZlVjUTcxQQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
