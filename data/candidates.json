@@ -4192,5 +4192,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-266",
+    "date": "2026-02-15",
+    "title": "Trump announces $5 billion pledge in Gaza aid from Board of Peace members - wfmd.com",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "us_taxpayer",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXFNNUlBVEZvSGdtZVI5WmVOaFFkdkZ2WGNVNzJZdV9RemNnZnZBNFAtb1MtYzJ2TUhtcEZRU2dFODEtMWp3WGNma3Y0b2hvM2E0SVRkYWZCbWNkRDFtRkhsNWtTYlp2NndPTFFzSFloMkMzODNSdlZFclprRVNDdkUzOGJYb3gyVDRfdWFGZzhkeGxRNGhMSGNLaFRFOGl1RVRCZVJyYjM?oc=5\" target=\"_blank\">Trump announces $5 billion pledge in Gaza aid from Board of Peace members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wfmd.com</font>",
+    "sources": [
+      {
+        "name": "wfmd.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXFNNUlBVEZvSGdtZVI5WmVOaFFkdkZ2WGNVNzJZdV9RemNnZnZBNFAtb1MtYzJ2TUhtcEZRU2dFODEtMWp3WGNma3Y0b2hvM2E0SVRkYWZCbWNkRDFtRkhsNWtTYlp2NndPTFFzSFloMkMzODNSdlZFclprRVNDdkUzOGJYb3gyVDRfdWFGZzhkeGxRNGhMSGNLaFRFOGl1RVRCZVJyYjM?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
