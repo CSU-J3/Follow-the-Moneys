@@ -4210,5 +4210,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-267",
+    "date": "2026-02-15",
+    "title": "Trump: 'Board of Peace' members to pledge more than $5B for Gaza - AnewZ",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVY2bmk1RkF2V2pVUXdJTTJOMGhGdUxJN29xdVNUNzBYcms4NV9PanY0TjR3UktfZ0ZKTkRQUEh4VG1ZMHl6eTYtNDdJdm9fOVdxWEwxd3k3WEhreGg0Sk5zZmRGVUNIQWF6eVRtWmU1SHBiejdhNnF4X3Q5Tlh2TTN2R1c2dWxsa2lGOHo1RTQ3ZnFUZzRrSHRvaS1XeUxCVW82SkFB?oc=5\" target=\"_blank\">Trump: 'Board of Peace' members to pledge more than $5B for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AnewZ</font>",
+    "sources": [
+      {
+        "name": "AnewZ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVY2bmk1RkF2V2pVUXdJTTJOMGhGdUxJN29xdVNUNzBYcms4NV9PanY0TjR3UktfZ0ZKTkRQUEh4VG1ZMHl6eTYtNDdJdm9fOVdxWEwxd3k3WEhreGg0Sk5zZmRGVUNIQWF6eVRtWmU1SHBiejdhNnF4X3Q5Tlh2TTN2R1c2dWxsa2lGOHo1RTQ3ZnFUZzRrSHRvaS1XeUxCVW82SkFB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-268",
+    "date": "2026-02-15",
+    "title": "Trump demands Hamas disarmament ahead of $5 billion Gaza reconstruction pledge - Türkiye Today",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUl6alNaLW9fSVZDZWZMd0V6aFo0eE44Ml9ZNWlJYUlQamNVTDd5bC1OdEozblFCM0h2ckEwaV9GY1RfZ3o0d1RBNEFjY0pmM3JCU3BHeUpFYlBhQWdjUjVsQTNQdjNNS2djaXdObTNLbWJFeW5VSlh3b19nRlRRRDhzc2RvOUNhMWM1UkhraTBhdTRJYjBlR04wemxFUUJrMUp5d21xa1JoZzh2X01hZV8xcHVQLUNkWVBWeA?oc=5\" target=\"_blank\">Trump demands Hamas disarmament ahead of $5 billion Gaza reconstruction pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Türkiye Today</font>",
+    "sources": [
+      {
+        "name": "Türkiye Today",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUl6alNaLW9fSVZDZWZMd0V6aFo0eE44Ml9ZNWlJYUlQamNVTDd5bC1OdEozblFCM0h2ckEwaV9GY1RfZ3o0d1RBNEFjY0pmM3JCU3BHeUpFYlBhQWdjUjVsQTNQdjNNS2djaXdObTNLbWJFeW5VSlh3b19nRlRRRDhzc2RvOUNhMWM1UkhraTBhdTRJYjBlR04wemxFUUJrMUp5d21xa1JoZzh2X01hZV8xcHVQLUNkWVBWeA?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
