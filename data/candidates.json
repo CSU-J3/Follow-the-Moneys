@@ -4282,5 +4282,77 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-271",
+    "date": "2026-02-16",
+    "title": "Trump says Board of Peace will unveil $5B in Gaza reconstruction pledges - globalnews.ca",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSElXd0dmYkJ6V19XUjRrUE12Q2hmQ2pqb05jU2V2Wi1oMHgwYzZyQl9ncDBZRmgzNjV1NUszb1c5V3h5YzJyUTAxVm9iVjhIYTdvNU12RlRsRHRfMDZ6cThlV1M1RVdoUFpHYzhtOGx1cGYwUWpoTW5ER3RjYW8yaUNkSmlySUhSMzJGMGQ2YXUyVE1EVHRVclhSb2hNUGlxdmJqbkZpYWZiYkE?oc=5\" target=\"_blank\">Trump says Board of Peace will unveil $5B in Gaza reconstruction pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">globalnews.ca</font>",
+    "sources": [
+      {
+        "name": "globalnews.ca",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSElXd0dmYkJ6V19XUjRrUE12Q2hmQ2pqb05jU2V2Wi1oMHgwYzZyQl9ncDBZRmgzNjV1NUszb1c5V3h5YzJyUTAxVm9iVjhIYTdvNU12RlRsRHRfMDZ6cThlV1M1RVdoUFpHYzhtOGx1cGYwUWpoTW5ER3RjYW8yaUNkSmlySUhSMzJGMGQ2YXUyVE1EVHRVclhSb2hNUGlxdmJqbkZpYWZiYkE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-272",
+    "date": "2026-02-15",
+    "title": "Board of Peace members to unveil $5 billion Gaza reconstruction pledge at first meeting: Trump - Firstpost",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcC1rbE1NNVE2emlLaGl5dWwzcDJyQjRZNV8yWnd5WThxbGM4dlVyTFBHaHY1NU5Kb19GN3hPRkZGOE9wSnAyQU9jcXp6MmctemJ5cXB5NEhUSHVyTlhyeWdDU0Zzcmo1SHFQN3JfSTlCZVFfOFVQbW1ITW5VMFlWTHRrVnNJbzBnQ29XekdPRkRsU0M5cDh5cG56bkFjVWVIN0Q1RVFmU0tVcHB2ZHF5R0c5U3RzNzNiU1oyZUpsbHNFUkRiVkVhU2hkdjh3Y0NQQTgyajNKY0hzNDTSAeABQVVfeXFMUDlTZUllRW1YaVdvUDNPNWRCOXl3cTNBaWZKTTZtWU41eW1DRlFFblphbzg4RWszbXJmd1ljMVBCdzFFQld5VVNYS3NhTGtZZFBQSjZEYk5GdW1oX1JyNl8ycTdVZWZXWk9TanJnVjZQck9ETFkyM3ZQZmEtbnctb1JiRnVWWHJZYlpNeGZScWo3eXJTYTlqd0FRWGFvYlB1cG1odENvLWJ4bEx2eUd1ZTI0ODltMXNBdmZKYnRsS1p1c0pjU3g4V09KU2Jac1FieGVMRnhNOXI0OVBCTzlOTEo?oc=5\" target=\"_blank\">Board of Peace members to unveil $5 billion Gaza reconstruction pledge at first meeting: Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+    "sources": [
+      {
+        "name": "Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcC1rbE1NNVE2emlLaGl5dWwzcDJyQjRZNV8yWnd5WThxbGM4dlVyTFBHaHY1NU5Kb19GN3hPRkZGOE9wSnAyQU9jcXp6MmctemJ5cXB5NEhUSHVyTlhyeWdDU0Zzcmo1SHFQN3JfSTlCZVFfOFVQbW1ITW5VMFlWTHRrVnNJbzBnQ29XekdPRkRsU0M5cDh5cG56bkFjVWVIN0Q1RVFmU0tVcHB2ZHF5R0c5U3RzNzNiU1oyZUpsbHNFUkRiVkVhU2hkdjh3Y0NQQTgyajNKY0hzNDTSAeABQVVfeXFMUDlTZUllRW1YaVdvUDNPNWRCOXl3cTNBaWZKTTZtWU41eW1DRlFFblphbzg4RWszbXJmd1ljMVBCdzFFQld5VVNYS3NhTGtZZFBQSjZEYk5GdW1oX1JyNl8ycTdVZWZXWk9TanJnVjZQck9ETFkyM3ZQZmEtbnctb1JiRnVWWHJZYlpNeGZScWo3eXJTYTlqd0FRWGFvYlB1cG1odENvLWJ4bEx2eUd1ZTI0ODltMXNBdmZKYnRsS1p1c0pjU3g4V09KU2Jac1FieGVMRnhNOXI0OVBCTzlOTEo?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-273",
+    "date": "2026-02-19",
+    "title": "Trump’s Board of Peace convenes with $7B pledges for Gaza aid - New York Daily News",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZDRhNldqZ1cxMGhHLTNzbl9VYjlGQTh4N2dpU1Bnc2pvajVBQ3IybzdrSFpZNTM3VHlzMThoVFZyZDJsVV8wWmtzUHhuSl9rSnlNbWdpdjhxUFVLaFFva183ZnRqZ3hEd21NcERXMDVJaWtxbTFqUHFnbEpfZw?oc=5\" target=\"_blank\">Trump’s Board of Peace convenes with $7B pledges for Gaza aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Daily News</font>",
+    "sources": [
+      {
+        "name": "New York Daily News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZDRhNldqZ1cxMGhHLTNzbl9VYjlGQTh4N2dpU1Bnc2pvajVBQ3IybzdrSFpZNTM3VHlzMThoVFZyZDJsVV8wWmtzUHhuSl9rSnlNbWdpdjhxUFVLaFFva183ZnRqZ3hEd21NcERXMDVJaWtxbTFqUHFnbEpfZw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-274",
+    "date": "2026-02-19",
+    "title": "President Donald Trump says US will contribute $10 billion to Board of Peace - wtsp.com",
+    "amount": 10000000000,
+    "amount_display": "$10B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeEg4WmRfRHo2cEVtRDdyd2sxRXNjUVdMWUNYc0NtRlpzakpfTU5XRTA1Y0ZhTlNIMlhzUFFNeVFaTXcwbWJBSkFBeUxRNWVRRkdDWDI0TlVsUnI1dDZfaWo5TGRJT1JfYW9pQVhhUjdBakNlb2ljVF8yS2M2bTFPeTlualFiSl9MMk9BdFJEdkN5RE1HMHAyTXNsZTFFaXptc1ZjMVhvVnRmalRPWnhteGoydU11Z3o4cXozYkhneV94R3JFMlFsT2pvc1dyZXk3ZzZlT043WloyZUozQTJpbXo5NzBSXzdGRE9kX0t6VF9udw?oc=5\" target=\"_blank\">President Donald Trump says US will contribute $10 billion to Board of Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtsp.com</font>",
+    "sources": [
+      {
+        "name": "wtsp.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeEg4WmRfRHo2cEVtRDdyd2sxRXNjUVdMWUNYc0NtRlpzakpfTU5XRTA1Y0ZhTlNIMlhzUFFNeVFaTXcwbWJBSkFBeUxRNWVRRkdDWDI0TlVsUnI1dDZfaWo5TGRJT1JfYW9pQVhhUjdBakNlb2ljVF8yS2M2bTFPeTlualFiSl9MMk9BdFJEdkN5RE1HMHAyTXNsZTFFaXptc1ZjMVhvVnRmalRPWnhteGoydU11Z3o4cXozYkhneV94R3JFMlFsT2pvc1dyZXk3ZzZlT043WloyZUozQTJpbXo5NzBSXzdGRE9kX0t6VF9udw?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
