@@ -4354,5 +4354,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-275",
+    "date": "2026-08-20",
+    "title": "Trump told US Congress to provide $206 million for Gaza peacekeeping force, letters show - The Jerusalem Post",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "governance",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ydXJhRVNvbTliY2wzaENFQTBzcXpOdHdXVGc4TXFPTXF1X1RvTmduQS1NYThOc2Q5eG82eVhOTjdTcnVfeDhZRnZRLW1zcTdDbmtneU95bkhZTjBJ?oc=5\" target=\"_blank\">Trump told US Congress to provide $206 million for Gaza peacekeeping force, letters show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+    "sources": [
+      {
+        "name": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ydXJhRVNvbTliY2wzaENFQTBzcXpOdHdXVGc4TXFPTXF1X1RvTmduQS1NYThOc2Q5eG82eVhOTjdTcnVfeDhZRnZRLW1zcTdDbmtneU95bkhZTjBJ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-276",
+    "date": "2026-04-11",
+    "title": "Trump's Gaza plan stalls as peace board faces funding shortage: Less than $1 billion raised of the pledged ... - Bhaskar English",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVnRktKRXRHUGt4bnNHYkZoM19WWlhmU2hYTHJodlN1QWhCelBCbGhvczItdDkwSDNULXNVMlVBSU1xbWxKOG5sQmZKN0ZJVFNzeFUtYjNJckxBVXZvNE9XckRrXzFjbWdMVkpORUJfbC1UdW1sVDZ3Vzc1R1BkX2d2bld3ZXN5V0Z4OFpGVVZ1clVGWnRtMHZFcnVlaU9pTE9VbUVoM0lHMUJVTVNaUUZ3SEczZ9IBuwFBVV95cUxPVlB2RnFHN0RJNGV0ZVlybnloZGFVNEQzR3BmeUI4Mlhtdl9raTFadkRVRXFDa0xnZUduc1RyS0ZJc29lMjFVM2NJMHVLMWpPN3ZtRndvR3VrZGg1Z3pYcmx4cDI1dVV2YlZEMlpCbzN2bVBiWnFvaDhfSXphNlpIZjg1cVFDOEtPMS1HTzY4bVMzSThCRjNfcEI2bk9Uc25scUtTR0pYWUNqUDdiazRSNlBnSjZZeFZWZnpn?oc=5\" target=\"_blank\">Trump's Gaza plan stalls as peace board faces funding shortage: Less than $1 billion raised of the pledged ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bhaskar English</font>",
+    "sources": [
+      {
+        "name": "Bhaskar English",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVnRktKRXRHUGt4bnNHYkZoM19WWlhmU2hYTHJodlN1QWhCelBCbGhvczItdDkwSDNULXNVMlVBSU1xbWxKOG5sQmZKN0ZJVFNzeFUtYjNJckxBVXZvNE9XckRrXzFjbWdMVkpORUJfbC1UdW1sVDZ3Vzc1R1BkX2d2bld3ZXN5V0Z4OFpGVVZ1clVGWnRtMHZFcnVlaU9pTE9VbUVoM0lHMUJVTVNaUUZ3SEczZ9IBuwFBVV95cUxPVlB2RnFHN0RJNGV0ZVlybnloZGFVNEQzR3BmeUI4Mlhtdl9raTFadkRVRXFDa0xnZUduc1RyS0ZJc29lMjFVM2NJMHVLMWpPN3ZtRndvR3VrZGg1Z3pYcmx4cDI1dVV2YlZEMlpCbzN2bVBiWnFvaDhfSXphNlpIZjg1cVFDOEtPMS1HTzY4bVMzSThCRjNfcEI2bk9Uc25scUtTR0pYWUNqUDdiazRSNlBnSjZZeFZWZnpn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
