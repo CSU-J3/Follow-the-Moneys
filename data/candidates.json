@@ -4246,5 +4246,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-269",
+    "date": "2026-08-20",
+    "title": "US to provide $206 million for Gaza peacekeeping force, letters show - The Times of Israel",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWGNram54OXV2UkxJYzR3QWVzdXZETzhKcUt1R0RYdTdTSHhYSlJiZXUzUHBBRl9Kb1hWREtHUW1CSnloSnZSMU5Fa09QbGRxSl8xUEtYTFhKY3dGcUNiLTBtc3E4MHlrOHVWR0UzZGNTNzJZa190VjJDSHg2QWpORDNkeDZjTlhTc21Db3l5YV9FU0xnQXAxQ0hmR0tNUdIBowFBVV95cUxQYkdYS3FwVVRaTWpaOVFmb3N4OVFyRzJ3cTBVYVRRbHlUNDFHQXkybEw1Vl81SW81TzVHTEZtUDgtbmtKTkxxZ2Qzc29yYk1XWi1MYnpHUlNPd3BKWWZueHAyNWN0cGxndlRfSXRmSm1zbkhqV05FRnl6NkdjZk51Ynh1NGVlWXlIX2MyaTFXSUhlVmRJSFdYWVF6TjhoeW16Vjhn?oc=5\" target=\"_blank\">US to provide $206 million for Gaza peacekeeping force, letters show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGNram54OXV2UkxJYzR3QWVzdXZETzhKcUt1R0RYdTdTSHhYSlJiZXUzUHBBRl9Kb1hWREtHUW1CSnloSnZSMU5Fa09QbGRxSl8xUEtYTFhKY3dGcUNiLTBtc3E4MHlrOHVWR0UzZGNTNzJZa190VjJDSHg2QWpORDNkeDZjTlhTc21Db3l5YV9FU0xnQXAxQ0hmR0tNUdIBowFBVV95cUxQYkdYS3FwVVRaTWpaOVFmb3N4OVFyRzJ3cTBVYVRRbHlUNDFHQXkybEw1Vl81SW81TzVHTEZtUDgtbmtKTkxxZ2Qzc29yYk1XWi1MYnpHUlNPd3BKWWZueHAyNWN0cGxndlRfSXRmSm1zbkhqV05FRnl6NkdjZk51Ynh1NGVlWXlIX2MyaTFXSUhlVmRJSFdYWVF6TjhoeW16Vjhn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-270",
+    "date": "2026-08-20",
+    "title": "U.S. to Allocate More Than $206 Million to Support Proposed International Force in Gaza - شبكة يافا الإخبارية",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0cFR4VUtjVW0zdTZ6SlFPVEtEenpkRVF5Zkx1Q0ZoNjZsbTZwZjAzb2FKSXp0LXhoVVpfLVctU09mWVc3T3l0MkhMb0NDZHlo?oc=5\" target=\"_blank\">U.S. to Allocate More Than $206 Million to Support Proposed International Force in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة يافا الإخبارية</font>",
+    "sources": [
+      {
+        "name": "شبكة يافا الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0cFR4VUtjVW0zdTZ6SlFPVEtEenpkRVF5Zkx1Q0ZoNjZsbTZwZjAzb2FKSXp0LXhoVVpfLVctU09mWVc3T3l0MkhMb0NDZHlo?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
