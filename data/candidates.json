@@ -4858,5 +4858,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-303",
+    "date": "2026-02-15",
+    "title": "Board of Peace members pledge over $5B for Gaza reconstruction, humanitarian aid: Trump - TRT World",
+    "amount": 5000000000,
+    "amount_display": "$5B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5feXVjMWhNMHhLRDJmNG1QZTAzc3BDNzIyS1ZoY29nQXZocjZYVDAyS1hfYVFqOU5KTWw4RGxZd012T0pUS3QtWUtCSFdRQVRyOVE2aW02eDk?oc=5\" target=\"_blank\">Board of Peace members pledge over $5B for Gaza reconstruction, humanitarian aid: Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+    "sources": [
+      {
+        "name": "TRT World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5feXVjMWhNMHhLRDJmNG1QZTAzc3BDNzIyS1ZoY29nQXZocjZYVDAyS1hfYVFqOU5KTWw4RGxZd012T0pUS3QtWUtCSFdRQVRyOVE2aW02eDk?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-304",
+    "date": "2026-02-19",
+    "title": "Board of Peace members pledge $7 billion for Gaza rebuilding - Gulf Today",
+    "amount": 7000000000,
+    "amount_display": "$7B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGhmWm85WVc1QWQ0LTd1VDEyczN1RjNnZ0dwcjRYZXRrNHgxT3FCcTI5VFFmYnA5WlJVZWlsWkNMQ2VnY3dxbFhMRm5RRVUzNzhIWllQZ3NYOHh4MG5wS3duUDhob1g2RUQtQjAwZk01SFNzdzVfcWlqNi1SYllBM0haV2ttZFRhMGI2THdlejNlZl9FeW9OVHZlLTVGRjJpLWc?oc=5\" target=\"_blank\">Board of Peace members pledge $7 billion for Gaza rebuilding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Today</font>",
+    "sources": [
+      {
+        "name": "Gulf Today",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGhmWm85WVc1QWQ0LTd1VDEyczN1RjNnZ0dwcjRYZXRrNHgxT3FCcTI5VFFmYnA5WlJVZWlsWkNMQ2VnY3dxbFhMRm5RRVUzNzhIWllQZ3NYOHh4MG5wS3duUDhob1g2RUQtQjAwZk01SFNzdzVfcWlqNi1SYllBM0haV2ttZFRhMGI2THdlejNlZl9FeW9OVHZlLTVGRjJpLWc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
