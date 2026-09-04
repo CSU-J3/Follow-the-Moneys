@@ -4894,5 +4894,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-305",
+    "date": "2026-09-04",
+    "title": "Trump’s Gaza Board of Peace member gives $1.5M to AIPAC-linked super PAC: Report - Anadolu Ajansı",
+    "amount": 1500000,
+    "amount_display": "$2M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGpIUDhDenNxYTU3VWFGUGZZRXdQMUl2Vl9aaDJzT1pJVzRTT1NhN3ZZMURQZjU0aG9OT0xBWElfSGNOdF9HVE05eUI4cnNjUU1QaHk5RVRpa2h0US1CT1U2ZVFibllwdUl1RFplRGZpbnFDNEdXQmRwa1NucldaVDBfZFJOOHpzMUFzenVFQU1jRkw0eVBxbU04cF9BLWhzZ2o1ai11djYzeVB0QzAyTUdJVl85Mi1sNEE?oc=5\" target=\"_blank\">Trump’s Gaza Board of Peace member gives $1.5M to AIPAC-linked super PAC: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+    "sources": [
+      {
+        "name": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGpIUDhDenNxYTU3VWFGUGZZRXdQMUl2Vl9aaDJzT1pJVzRTT1NhN3ZZMURQZjU0aG9OT0xBWElfSGNOdF9HVE05eUI4cnNjUU1QaHk5RVRpa2h0US1CT1U2ZVFibllwdUl1RFplRGZpbnFDNEdXQmRwa1NucldaVDBfZFJOOHpzMUFzenVFQU1jRkw0eVBxbU04cF9BLWhzZ2o1ai11djYzeVB0QzAyTUdJVl85Mi1sNEE?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
