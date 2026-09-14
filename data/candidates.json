@@ -4912,5 +4912,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-306",
+    "date": "2026-07-31",
+    "title": "Board of Peace sets $400M limit for Gaza administration’s financial commitments - middleeastmonitor.com",
+    "amount": 400000000,
+    "amount_display": "$400M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlpBNXNmQzRZbHZsY2ZEczY5SThOSHBCZ3NXMk95N292YkxyN09pWDF4d2ZwR083Tnp4RFpQS3RuWDJlNXdNdDM4MkgtYlc3dmNHRmx1WGlFN0pobTRLQXRNQUllZmVVX1BmOU5tNjBVeDF1cGVnaVpoUWFoc3VtTExVa2IxcXhDV3pjSTZYbXl4UUhaLXdxNUZqakV1aFVWanBSZ1h3SXV1UzBOVmdRcFBDUDFqY2hyRThSODFn0gHDAUFVX3lxTFBDLWd3RXR6U3VBVTVMSEN0ZlNLSU1ETlhjeFJEV29nSTFSaVViMGVJTWRuaDVuc29ZcWxvTmVzZjFBdWJyOGtLdVRWT01EWVBZSFhWNU1ZQWFHUHdjaVF5YjhpN1BzSUNZWDhuTEp4Vl9FelpaVlY0a1BmRzExREdmUjNWanFoQXZpUVRMM2lqLVRZT1hndWVRa25sbU40Tk9MbkFOUlNNSmozNG9EMjNVdWdHNnBaUkc1THdpRHFoUGhYRQ?oc=5\" target=\"_blank\">Board of Peace sets $400M limit for Gaza administration’s financial commitments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">middleeastmonitor.com</font>",
+    "sources": [
+      {
+        "name": "middleeastmonitor.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlpBNXNmQzRZbHZsY2ZEczY5SThOSHBCZ3NXMk95N292YkxyN09pWDF4d2ZwR083Tnp4RFpQS3RuWDJlNXdNdDM4MkgtYlc3dmNHRmx1WGlFN0pobTRLQXRNQUllZmVVX1BmOU5tNjBVeDF1cGVnaVpoUWFoc3VtTExVa2IxcXhDV3pjSTZYbXl4UUhaLXdxNUZqakV1aFVWanBSZ1h3SXV1UzBOVmdRcFBDUDFqY2hyRThSODFn0gHDAUFVX3lxTFBDLWd3RXR6U3VBVTVMSEN0ZlNLSU1ETlhjeFJEV29nSTFSaVViMGVJTWRuaDVuc29ZcWxvTmVzZjFBdWJyOGtLdVRWT01EWVBZSFhWNU1ZQWFHUHdjaVF5YjhpN1BzSUNZWDhuTEp4Vl9FelpaVlY0a1BmRzExREdmUjNWanFoQXZpUVRMM2lqLVRZT1hndWVRa25sbU40Tk9MbkFOUlNNSmozNG9EMjNVdWdHNnBaUkc1THdpRHFoUGhYRQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" transfer"
   }
 ]
