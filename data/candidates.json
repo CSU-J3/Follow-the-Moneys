@@ -4930,5 +4930,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" transfer"
+  },
+  {
+    "id": "ev-307",
+    "date": "2026-06-23",
+    "title": "Congress Must Scrutinize Trump’s Iran Deal Before $300 Billion Reconstruction Plan Moves Forward - democracydefendersaction.org",
+    "amount": 300000000000,
+    "amount_display": "$300B",
+    "category": "governance",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc04zWTRrN3FwUFBtQTFJVW1JV3JnNW11MDF4dmgtdnlsamt5NVpZUG90VEQ1S1Nlc1JsaUpEcjd4TU5uUVdhUmFKemdLSmN4eVR1OGlrQXdPUzhZRUxOaW1tbHMzUUJEalhtemNVaTNxajhtRXB6T3o4dTd4TndHbGd5WmxWbDNLSXcwLUozVmxiOFdKNjdrRnFkanMxZjF4cGV1YXpGeERhUzZvY0xVZEUyWnJCLXR1dWN0R2VUdU1wbVBjNGcyTnNPYURCWXVGZGpSaFJKdV8?oc=5\" target=\"_blank\">Congress Must Scrutinize Trump’s Iran Deal Before $300 Billion Reconstruction Plan Moves Forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">democracydefendersaction.org</font>",
+    "sources": [
+      {
+        "name": "democracydefendersaction.org",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc04zWTRrN3FwUFBtQTFJVW1JV3JnNW11MDF4dmgtdnlsamt5NVpZUG90VEQ1S1Nlc1JsaUpEcjd4TU5uUVdhUmFKemdLSmN4eVR1OGlrQXdPUzhZRUxOaW1tbHMzUUJEalhtemNVaTNxajhtRXB6T3o4dTd4TndHbGd5WmxWbDNLSXcwLUozVmxiOFdKNjdrRnFkanMxZjF4cGV1YXpGeERhUzZvY0xVZEUyWnJCLXR1dWN0R2VUdU1wbVBjNGcyTnNPYURCWXVGZGpSaFJKdV8?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
