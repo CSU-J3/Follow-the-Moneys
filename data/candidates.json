@@ -4948,5 +4948,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-308",
+    "date": "2026-02-19",
+    "title": "War-hammered Gaza needs basics like homes, roads and power. FIFA is offering a $50M soccer stadium - AP News",
+    "amount": 50000000,
+    "amount_display": "$50M",
+    "category": "international",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3FSREZvaFYwbnNIUEQ5QXVUMVBKb09HeWtJdUltekQ3VXVTQ3FmOUlvV1BWdHVzSWJXc0ZRZHJ3MUxZa3NobjdMUmJYblh0cTYtRnZfcHBlNTRyWVRjOVh2TUZqb1pOSlZoa2FpT0ZrZ2VobFZ5Tm1mSEJ6SWNyLVN0MXFZSkJDRGg3LWtUWlNNbENm?oc=5\" target=\"_blank\">War-hammered Gaza needs basics like homes, roads and power. FIFA is offering a $50M soccer stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+    "sources": [
+      {
+        "name": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3FSREZvaFYwbnNIUEQ5QXVUMVBKb09HeWtJdUltekQ3VXVTQ3FmOUlvV1BWdHVzSWJXc0ZRZHJ3MUxZa3NobjdMUmJYblh0cTYtRnZfcHBlNTRyWVRjOVh2TUZqb1pOSlZoa2FpT0ZrZ2VobFZ5Tm1mSEJ6SWNyLVN0MXFZSkJDRGg3LWtUWlNNbENm?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
