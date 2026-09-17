@@ -4966,5 +4966,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-309",
+    "date": "2026-02-19",
+    "title": "FIFA president, Infantino, pledges $2.5m to Gaza football facilities under Board of Peace deal - AnewZ",
+    "amount": 2500000,
+    "amount_display": "$2M",
+    "category": "international",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGdTblVEYVVDdGRNZU02UlgtM1VrbkkzekhOSEk5bDRCY1Y1bnNTcE1oTG1HN0loTGNMZXh0by0teTZuZVZBeklOZ0FvdlhKaEMyZ3FuUldCbDdveXd2UHZXM0Z4c28yT19UVW9WVXVFb2NtSkhFSXhMb1plVlJBMkpZQWRSamt0VkE4ZVo2TDhFb1lvM2dHRjRyaFVSakNlUzVtYzJR?oc=5\" target=\"_blank\">FIFA president, Infantino, pledges $2.5m to Gaza football facilities under Board of Peace deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AnewZ</font>",
+    "sources": [
+      {
+        "name": "AnewZ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGdTblVEYVVDdGRNZU02UlgtM1VrbkkzekhOSEk5bDRCY1Y1bnNTcE1oTG1HN0loTGNMZXh0by0teTZuZVZBeklOZ0FvdlhKaEMyZ3FuUldCbDdveXd2UHZXM0Z4c28yT19UVW9WVXVFb2NtSkhFSXhMb1plVlJBMkpZQWRSamt0VkE4ZVo2TDhFb1lvM2dHRjRyaFVSakNlUzVtYzJR?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" pledge"
   }
 ]
