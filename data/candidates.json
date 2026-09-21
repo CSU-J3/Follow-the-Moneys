@@ -4984,5 +4984,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" pledge"
+  },
+  {
+    "id": "ev-310",
+    "date": "2026-08-20",
+    "title": "US commits $206 million to Trump’s stalled Gaza peacekeeping force - The Arab Weekly",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnhQS3Fqc012eTNUbUZxMnZTd211U0xGSXhWNm9SaHRFNHRaT0ZtYm9sVzI3c0wxQXM0Z2NDUE9rNS1zbGhOUkU2VlpWZ2pocUpsMjVpa0YwU0Q0ZnFfWlRRYU9SUlBfUlVFUC1QUXpIZ19jakhSUHVEUzRZODB4Z3k4bzV0M0RjMnNWVlRsMVc?oc=5\" target=\"_blank\">US commits $206 million to Trump’s stalled Gaza peacekeeping force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arab Weekly</font>",
+    "sources": [
+      {
+        "name": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnhQS3Fqc012eTNUbUZxMnZTd211U0xGSXhWNm9SaHRFNHRaT0ZtYm9sVzI3c0wxQXM0Z2NDUE9rNS1zbGhOUkU2VlpWZ2pocUpsMjVpa0YwU0Q0ZnFfWlRRYU9SUlBfUlVFUC1QUXpIZ19jakhSUHVEUzRZODB4Z3k4bzV0M0RjMnNWVlRsMVc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" fund"
   }
 ]
