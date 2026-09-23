@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T15:42:44+00:00",
+  "last_updated": "2026-09-23T20:47:19+00:00",
   "summary": {
     "congressional_votes": 0,
     "reconstruction_need_low": 53000000000,
@@ -592,6 +592,24 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVEN3dTZ4OF80SGwwTXpoYTA1dks2bjlIZk5KbVJPVFdGYTJXM0s5YVZwbWRKYW93ODZ6OHlWRFpHYVlqUTdnSDlTYzFuZXhRbnM5bHhwX3RBVXZFS29nOG9rTWNyX0hVZE1FUmhrQ01MLU9XODg2MjR0azNMRmVOcUt4RU0zYTlDZjJYV3ZsYmFhdGxxbzhBX2dGT21qbGxEbHE1T253R3lSRDhYUm1HQnhUWENYTXJyczk0d3Z2RWNHUQ?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-336",
+      "date": "2026-09-23",
+      "title": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction - PBS",
+      "amount": 2450000000,
+      "amount_display": "$2.45B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGd5cjZHcTNyUkM0cXc0ZUZVRVp6VjRqRmpxX3BPYmFkZFBZMFo4cWE0N0EtQk9mR2tMZHVHZVlGSGVVa3FkUUdkVlNWWWlVOGJRMHdHQVQzUUpqSVQ2XzdUY0M3dV93ZlRSYjF6Wkl3Tk94bENyTHV6djdmbzRMQ1pDdEE1Tm1tdnNSd3NrNGJ6aThDY0xDNXoxZWJhWWh4NUFSMmZ3T3J5NmVDZmdkUkF4eDhTb3Ny?oc=5\" target=\"_blank\">Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXY4eS1Qcnh5UFU2bXRBQlNOb0E4M1RHUkZsQVdpT0EzUkdfTV9yRXU5ZDAzdnl6Sy05WHZaMlZBdGJwdXJ2cTNZa0NUUTdCcnoydy1nLXQtbF9mSXBvM2tERWIxZ1BWY1l3eno2YjNCdjlYOWhOZGRmcjh5b25tSWJqblJTQ1FXcEYxTUljNldzV3REbHAtVFltbHV4dVRpZldLcUl2S3hiQlhVUU50bE4wQ1ZreElLT0E?oc=5\" target=\"_blank\">Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORFNDM0tPU1oxbGV4bVl6YTNQQlg3a2dtajRNZTFTQ3ctVmNGU0Zsa3htLVF4cUdkVG9QVVVOUHZkTWQ2dEd2b0FpaDdvd2VrTDdYc3lQNHVUb0owalJZaHpqMi13MVJTS3U3eTFiZkFJUTlfbzdYX0VTUVlaLXhEVWV5aEs?oc=5\" target=\"_blank\">Scoop: Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQWF6ckNFcEdPSGl6X042dld3ZmE0UjJ4Uk5zUDdoeXZyTkNfZlFsTmNHOEkyMktNRnRSZE1EUXZEc3poNm1CYU9mYXRya0pVckJzajR6anFaczM5RmlPQm5BbVZnOFRrQzhWeWd0X18wc1VldmRzZUE0Q0FVOE9NdEp3OFNaWXhfcFdnM0RzelMwQjRRbS0tT28zVlhhNnVhWlVtYnQzdTlYaEwyYlJma3V5MEtheHJDeWIyYXM1T1BGZUE?oc=5\" target=\"_blank\">Board of Peace ask partners for Gaza funding for $2.45 billion recovery plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVEN3dTZ4OF80SGwwTXpoYTA1dks2bjlIZk5KbVJPVFdGYTJXM0s5YVZwbWRKYW93ODZ6OHlWRFpHYVlqUTdnSDlTYzFuZXhRbnM5bHhwX3RBVXZFS29nOG9rTWNyX0hVZE1FUmhrQ01MLU9XODg2MjR0azNMRmVOcUt4RU0zYTlDZjJYV3ZsYmFhdGxxbzhBX2dGT21qbGxEbHE1T253R3lSRDhYUm1HQnhUWENYTXJyczk0d3Z2RWNHUQ?oc=5\" target=\"_blank\">Trump Gaza board pitches $2.45 billion Gaza plan, implementation uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFNzT1FCS1BLTkhvX2VSUFZYWVE5ZkpveFlLa2hBWWxOS1J2YTl1Smc5SGFVak1WdUkxZUJaTlZkLVIyM3RVdGliSWtZazltY3lYZlNMcGJsbWpIeE41ZFpCcGE0SEFKNnhHR2VRUG1VTE90WjFmVWhEd0VSaDdINzJUNHZiZDJQSHZiRUhaLUhTd2ZnUHJVSnFYWVFBX1BOVnV0aElsT1JXS1hXdVg4TE1uNnM?oc=5\" target=\"_blank\">Trump’s Board of Peace Earmarks $2.5 Billion for Gaza Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQkVhYko1ZWNxVVFqaTlDcjBiMUc3cmFNcHUxYXVXbExMSUlQSFdIRmpHXzRzaTZuNWxRSHRRY0V5Vm54TFhhYVp2ektQdDVuZDcxWVJWNUZRaG5GTHZkcVUta1NJeEhTcXlYalJwanVxRUhaMnRkZEJVTmtnZW42Mm03TVZNTlVoM3RUWVl0OWZoenAxUmhaWm96V2RlckF2dWJEdDI0OXc4NzJGSC1XajBVYWdxM3RhVExMUVBGZEFKeVdSd2JiUUJrYVB4NnRrZmJad0lYNnlQS2V6YXFpWUk5dzNTV0IzWlp1SThuM3RNWGQ1?oc=5\" target=\"_blank\">Report: Trump's Board of Peace to unveil $2.45 billion plan for Gaza recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPMFJPMVFWYzFtT2RyMTYwd1Z1TmxCNTFTQ3Nqb2ViamY1OUF0WktqU01ZQUhxVmM1bTRmWlZiaFNjNG4xZURrenJpeVV2d1NITTBRRGFUcnc0M2dIMjlwVUp3clNrTTNSejBqb2pUdHM2akNVQWpjS3BaQmlZS1F2QUlkdzI5TC0zU3Z4THFuT1BCcFZHSEplU2YzUWkwcmg4NDR5THoybkQwLW9xX1lpNkUwdU1tUzZNdEhDNjM3djRjcnBjWHUwTkxmdE5tdFhNRDBYUVp6bXVOQ0xEcnVKR2gwUGJ1c1BkdlZGd0NKVXZOc2tpMW4zSVNrMDZRWDlqUGNkV1JMcHlEVkQ4SDY0?oc=5\" target=\"_blank\">Trump’s Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toronto Star</font></li></ol>",
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGd5cjZHcTNyUkM0cXc0ZUZVRVp6VjRqRmpxX3BPYmFkZFBZMFo4cWE0N0EtQk9mR2tMZHVHZVlGSGVVa3FkUUdkVlNWWWlVOGJRMHdHQVQzUUpqSVQ2XzdUY0M3dV93ZlRSYjF6Wkl3Tk94bENyTHV6djdmbzRMQ1pDdEE1Tm1tdnNSd3NrNGJ6aThDY0xDNXoxZWJhWWh4NUFSMmZ3T3J5NmVDZmdkUkF4eDhTb3Ny?oc=5"
         }
       ],
       "_collector": "news",
