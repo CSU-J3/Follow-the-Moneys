@@ -6118,5 +6118,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-375",
+    "date": "2026-09-24",
+    "title": "Trump’s Board of Peace pitches $3.48 billion Gaza restoration plan - ntnews.com.au",
+    "amount": 3480000000,
+    "amount_display": "$3.48B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFBKUEtLcll5U0M0WjRZUDFDdXZwVFlpME0zMENRc0Z5U050QmRoUm44MXl4NFpwWUpuaUsycDJFazhudHhhQnhpVU5raHNrZ0xrVEJKNDZmNGotaGlnUHNMV0JYbDhHY3BhdU82YlF0NVJQenp3emx2TDctSUEwdG16WjZYMWRpMFhfVW9rc0c2QlNRLU13YmNkSTgzSjdCR1Z0NERnWHBQdGRiVWFXUjlsMGhuWDhvdE5PNWFUUkxub1pDUTB0WHJGYWZsZTk2UUlTLW13?oc=5\" target=\"_blank\">Trump’s Board of Peace pitches $3.48 billion Gaza restoration plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ntnews.com.au</font>",
+    "sources": [
+      {
+        "name": "ntnews.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFBKUEtLcll5U0M0WjRZUDFDdXZwVFlpME0zMENRc0Z5U050QmRoUm44MXl4NFpwWUpuaUsycDJFazhudHhhQnhpVU5raHNrZ0xrVEJKNDZmNGotaGlnUHNMV0JYbDhHY3BhdU82YlF0NVJQenp3emx2TDctSUEwdG16WjZYMWRpMFhfVW9rc0c2QlNRLU13YmNkSTgzSjdCR1Z0NERnWHBQdGRiVWFXUjlsMGhuWDhvdE5PNWFUUkxub1pDUTB0WHJGYWZsZTk2UUlTLW13?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
