@@ -6154,5 +6154,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-377",
+    "date": "2026-09-23",
+    "title": "Board of Peace unveils $2.4B Gaza recovery plan, but hurdles remain before implementation - The Times of Israel",
+    "amount": 2400000000,
+    "amount_display": "$2.4B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNT19ER2VqTTdnOWlId0xlb3JkZW56MWdqcUpuX0N2RWNQS09SOVpKdDBzZ1BfOFZ0eWZPb2NiclZMbEFXYkE1eGhZLThFTjRhTjRQTC15XzljZWpVZ2E5eE1RV0pWdkd5OVNhcmo4T3B3ZTd5Y3hPM1JydEdjWG1DMXc4X3N0UXZxTUQyN0xwN21YZUNiaHpiN25Cc2RndTJBMDMyMjFPckIwanBPZ1BpVWhpWjdPd3FNQUHSAb8BQVVfeXFMTlFJdC1TeHZFNlpZcTl1OUpQbGJYQXJtOGxIT1hRbkw4QndpdE1fdTRJSS1YdVhNaDVFTUo3cDVFRGFXWlZrUzNxNVE1S0ZfUThUNy15NUVzNVZWSWJFeEdJUTlhb3R2a0tBYWJ0M1c1R1JJRkdCTVNBc21weWRzQW55NGE2RV9xaENLWnJwbDRwdGRLZng4bmJDcmVjTnFRWTNRSjVxaUdUWXROWDNyWVI4QzhRek9yUGtDYVA2YWs?oc=5\" target=\"_blank\">Board of Peace unveils $2.4B Gaza recovery plan, but hurdles remain before implementation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+    "sources": [
+      {
+        "name": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT19ER2VqTTdnOWlId0xlb3JkZW56MWdqcUpuX0N2RWNQS09SOVpKdDBzZ1BfOFZ0eWZPb2NiclZMbEFXYkE1eGhZLThFTjRhTjRQTC15XzljZWpVZ2E5eE1RV0pWdkd5OVNhcmo4T3B3ZTd5Y3hPM1JydEdjWG1DMXc4X3N0UXZxTUQyN0xwN21YZUNiaHpiN25Cc2RndTJBMDMyMjFPckIwanBPZ1BpVWhpWjdPd3FNQUHSAb8BQVVfeXFMTlFJdC1TeHZFNlpZcTl1OUpQbGJYQXJtOGxIT1hRbkw4QndpdE1fdTRJSS1YdVhNaDVFTUo3cDVFRGFXWlZrUzNxNVE1S0ZfUThUNy15NUVzNVZWSWJFeEdJUTlhb3R2a0tBYWJ0M1c1R1JJRkdCTVNBc21weWRzQW55NGE2RV9xaENLWnJwbDRwdGRLZng4bmJDcmVjTnFRWTNRSjVxaUdUWXROWDNyWVI4QzhRek9yUGtDYVA2YWs?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
