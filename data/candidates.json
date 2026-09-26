@@ -6172,5 +6172,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-378",
+    "date": "2026-07-15",
+    "title": "Israel allocates $434m to build 34 new settlements in West Bank - アラブニュース",
+    "amount": 434000000,
+    "amount_display": "$434M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1FWLUhZaU5aUHBxRGp3RGhfS1BFUnFOZEJ4cE1pZzQ0Umlwdm5sd3Nta2NyNnp4R18xdTdOSWowY0ZyM0xmMmdNMWk4THJXVVpwTXNQdThHZmNRTmdkeUhwU2RodkltLXlidWItLU9Vc3l6Q2RoSWRoVUZxX3gwMHJoUGZVWHpXMUloX3U1aTJhTVRnSERKYmFHTVBLdUdYN1ZDV2g2WUFaSDEy?oc=5\" target=\"_blank\">Israel allocates $434m to build 34 new settlements in West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アラブニュース</font>",
+    "sources": [
+      {
+        "name": "アラブニュース",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1FWLUhZaU5aUHBxRGp3RGhfS1BFUnFOZEJ4cE1pZzQ0Umlwdm5sd3Nta2NyNnp4R18xdTdOSWowY0ZyM0xmMmdNMWk4THJXVVpwTXNQdThHZmNRTmdkeUhwU2RodkltLXlidWItLU9Vc3l6Q2RoSWRoVUZxX3gwMHJoUGZVWHpXMUloX3U1aTJhTVRnSERKYmFHTVBLdUdYN1ZDV2g2WUFaSDEy?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
