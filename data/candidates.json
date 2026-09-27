@@ -6244,5 +6244,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-383",
+    "date": "2026-09-23",
+    "title": "Trump’s Board of Peace to unveil $2.45 billion Gaza recovery plan - freepresskashmir.news",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0N1RjUxaWsyb19hdFFkdmFzcXlIdXdTVmFWb04zY2FLVzFjNVhMaDdjTXVLXzE2eXM3bDhCajJ6aFppYlFmTkU5WWNvMzNNVzVlTDRVb3pQTHgxUlU0MWVpMWVvalRuZVNwREEtS1lDSFlEZjR5UnpKQzY1MHBLOXNIZmtPT2pvV3NLX0ZBWloxZTBiS1d2NHVRYUFNaGRsQjNoZW5JbkjSAa4BQVVfeXFMTnRnMXVpVUdkbkJFNlZzS3dSNzNGNi1xSjlfb2lieEVPZGZ4RGdiTFYxak5kb0llOWpRU2NZVjlTWDU0eHZ6ZWRrREp3eHBNNURzSER3dVc5c3pBNHktYnJ3UGphMkE5M25hMWNkZXpnbk92Ykk4dWZoa3pCQ0NYZk9IRzA0ZXRlRUdZYm83SjNKWV9XRW1VLUJ3bFptWU4yOVVHcURkc2VabkJrMUlB?oc=5\" target=\"_blank\">Trump’s Board of Peace to unveil $2.45 billion Gaza recovery plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">freepresskashmir.news</font>",
+    "sources": [
+      {
+        "name": "freepresskashmir.news",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0N1RjUxaWsyb19hdFFkdmFzcXlIdXdTVmFWb04zY2FLVzFjNVhMaDdjTXVLXzE2eXM3bDhCajJ6aFppYlFmTkU5WWNvMzNNVzVlTDRVb3pQTHgxUlU0MWVpMWVvalRuZVNwREEtS1lDSFlEZjR5UnpKQzY1MHBLOXNIZmtPT2pvV3NLX0ZBWloxZTBiS1d2NHVRYUFNaGRsQjNoZW5JbkjSAa4BQVVfeXFMTnRnMXVpVUdkbkJFNlZzS3dSNzNGNi1xSjlfb2lieEVPZGZ4RGdiTFYxak5kb0llOWpRU2NZVjlTWDU0eHZ6ZWRrREp3eHBNNURzSER3dVc5c3pBNHktYnJ3UGphMkE5M25hMWNkZXpnbk92Ykk4dWZoa3pCQ0NYZk9IRzA0ZXRlRUdZYm83SjNKWV9XRW1VLUJ3bFptWU4yOVVHcURkc2VabkJrMUlB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-384",
+    "date": "2026-09-24",
+    "title": "Trump's Board of Peace Proposes $2.45B to Rebuild Gaza - en.tempo.co",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlB1WFpHZGVUR1p2SDloVzk4YllicmNVb3l4TkZfaWN3NjF0SlFPYlNCeE80Qlh5d1RmQnVRLU9zX2psUjE5bkJtYU9BcFd4bFl5ajJrZmQwQ2tfaUhIbW0wamo3dDhvTXozbzNCRTBZUWp3RFdEVWl2Nkh6S28ydkJkSzNTcG96blRfRHN3?oc=5\" target=\"_blank\">Trump's Board of Peace Proposes $2.45B to Rebuild Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">en.tempo.co</font>",
+    "sources": [
+      {
+        "name": "en.tempo.co",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlB1WFpHZGVUR1p2SDloVzk4YllicmNVb3l4TkZfaWN3NjF0SlFPYlNCeE80Qlh5d1RmQnVRLU9zX2psUjE5bkJtYU9BcFd4bFl5ajJrZmQwQ2tfaUhIbW0wamo3dDhvTXozbzNCRTBZUWp3RFdEVWl2Nkh6S28ydkJkSzNTcG96blRfRHN3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
