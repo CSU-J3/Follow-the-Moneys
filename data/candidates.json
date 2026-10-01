@@ -6370,5 +6370,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-390",
+    "date": "2026-09-23",
+    "title": "Trump's Board of Peace to unveil US$2.45 billion Gaza recovery plan, Axios reports - Awani International",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxJOElsaU1NVGFmZ2s0VzRldEdPcUVzZmtwMzF0QklpYTlpWl9idlRsOS1wN2hmcXdtNDZ0Uy1FYkJST0w4MVphVnhBRWg3WGFuRklIZnMyWklfb3lwelNGT19HSGN1QmlUSjVmSVN3T2ZEZUtROGd5WlpHM3JrLVpkM3NEcnVNNXNXY2pacDZETy1BSzYxRlFGdjVTdW4yVTBTTkZLc2JlbE1uSFdvdUxSR3oyQlB6MkpZNzl3?oc=5\" target=\"_blank\">Trump's Board of Peace to unveil US$2.45 billion Gaza recovery plan, Axios reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awani International</font>",
+    "sources": [
+      {
+        "name": "Awani International",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxJOElsaU1NVGFmZ2s0VzRldEdPcUVzZmtwMzF0QklpYTlpWl9idlRsOS1wN2hmcXdtNDZ0Uy1FYkJST0w4MVphVnhBRWg3WGFuRklIZnMyWklfb3lwelNGT19HSGN1QmlUSjVmSVN3T2ZEZUtROGd5WlpHM3JrLVpkM3NEcnVNNXNXY2pacDZETy1BSzYxRlFGdjVTdW4yVTBTTkZLc2JlbE1uSFdvdUxSR3oyQlB6MkpZNzl3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
