@@ -629,6 +629,24 @@
       ],
       "_collector": "news",
       "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-391",
+      "date": "2026-09-24",
+      "title": "Licensable video: Trump's Board Of Peace Seeks $2.45 Billion For Gaza Recovery Plan - reutersconnect.com",
+      "amount": 2450000000,
+      "amount_display": "$2.45B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0tzZFJVMzJNekZnWktMMjhYU0ZJMFEyM0g0S2NkOGw4eGN1YVNwN05oeHVwbDJ6QnpFVV9zNnZnRVVReDBsUVhpcXdDVWF2NlhZTkVlNnRNU0dzeWU0QlB6czIweURGTlpQcEpZZzB4bTRCT1VCbG1sV0NLWTllMFl6cnZxYmpCcllMU21WaV9nM1FhQk5oVzgwbjlWcmFSODRiVDZWSWJzTGV6YWxIVERPa3dHSHBrTzZmMHNfMUdsZmRVRldiVmQxLVcxZ3lXQmJSRWJUYmdYM2I1XzhyeDl0czFTeFRKaG5FVzItRGJPS00?oc=5\" target=\"_blank\">Licensable video: Trump's Board Of Peace Seeks $2.45 Billion For Gaza Recovery Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reutersconnect.com</font>",
+      "sources": [
+        {
+          "name": "reutersconnect.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0tzZFJVMzJNekZnWktMMjhYU0ZJMFEyM0g0S2NkOGw4eGN1YVNwN05oeHVwbDJ6QnpFVV9zNnZnRVVReDBsUVhpcXdDVWF2NlhZTkVlNnRNU0dzeWU0QlB6czIweURGTlpQcEpZZzB4bTRCT1VCbG1sV0NLWTllMFl6cnZxYmpCcllMU21WaV9nM1FhQk5oVzgwbjlWcmFSODRiVDZWSWJzTGV6YWxIVERPa3dHSHBrTzZmMHNfMUdsZmRVRldiVmQxLVcxZ3lXQmJSRWJUYmdYM2I1XzhyeDl0czFTeFRKaG5FVzItRGJPS00?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
     }
   ]
 }
