@@ -6460,5 +6460,41 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-396",
+    "date": "2026-10-04",
+    "title": "US pays $160 million of more than $4 billion owed to UN - politiko.com.ph",
+    "amount": 160000000,
+    "amount_display": "$160M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3EtNEFFTVB6MmNXeWF4d2RaX2ZkOGhVYmwzd0xxT0VOdk10Q3NWQU1NVU0zMWhXU1IyY2Q0d3Jwb3dWU2lLcmNySzl3c2xWbWFpYmU4SlNmeVM2QzV5cERiVlpGLUdrVWVqWkl3OS1wYW5MWGR4VHVraDByVU55a3dsTUg?oc=5\" target=\"_blank\">US pays $160 million of more than $4 billion owed to UN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politiko.com.ph</font>",
+    "sources": [
+      {
+        "name": "politiko.com.ph",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3EtNEFFTVB6MmNXeWF4d2RaX2ZkOGhVYmwzd0xxT0VOdk10Q3NWQU1NVU0zMWhXU1IyY2Q0d3Jwb3dWU2lLcmNySzl3c2xWbWFpYmU4SlNmeVM2QzV5cERiVlpGLUdrVWVqWkl3OS1wYW5MWGR4VHVraDByVU55a3dsTUg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-397",
+    "date": "2026-09-23",
+    "title": "Axios: Trump's Board of Peace will unveil a six-month, $2.45 billion recovery plan for Gaza today. The plan estimates physical damage in Gaza at $35.2B and says full recovery and reconstruction will require about $71.4B over the next decade. - news.cgtn.com",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1CNW9KSkJlcGgtSGs4YXBsUndpTm5xR3VjTmpock9mOGs5RTh5bjU0ZUdmcVpVb0xXRTBGV0FZa09VZVVDVWlwa24tMUhNaEVGTzZCLUpONXhROXlUcUtTVk1ZcnEzU3duenhJQzZn?oc=5\" target=\"_blank\">Axios: Trump's Board of Peace will unveil a six-month, $2.45 billion recovery plan for Gaza today. The plan estimates physical damage in Gaza at $35.2B and says full recovery and reconstruction will require about $71.4B over the next decade.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
+    "sources": [
+      {
+        "name": "news.cgtn.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CNW9KSkJlcGgtSGs4YXBsUndpTm5xR3VjTmpock9mOGs5RTh5bjU0ZUdmcVpVb0xXRTBGV0FZa09VZVVDVWlwa24tMUhNaEVGTzZCLUpONXhROXlUcUtTVk1ZcnEzU3duenhJQzZn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
