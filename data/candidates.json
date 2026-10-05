@@ -6496,5 +6496,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-398",
+    "date": "2026-09-23",
+    "title": "Media: Trump's Board of Peace estimates Gaza recovery to cost over $70 billion - Caliber.Az",
+    "amount": 70000000000,
+    "amount_display": "$70B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFFJOFo0cDZ6TjB3NDQyYVBwX25RTkcxdTdiX1FiRWMtY2puX21rdmtFOHhJaWRzRnZVQTcwNnlLaWZMM2VQcjc4bGVfV1FHX0kxcUFNWEI3dHZreFUxQVJVNzRsc2dwWlZiVEcwU09WTlFWdzkwX3RmOEVCU1R2LVh5SVhJTTZoOWhsY1lmYnIyekpnaUpBYjdGYW5MYzB1NzNUcmd3?oc=5\" target=\"_blank\">Media: Trump's Board of Peace estimates Gaza recovery to cost over $70 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caliber.Az</font>",
+    "sources": [
+      {
+        "name": "Caliber.Az",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFFJOFo0cDZ6TjB3NDQyYVBwX25RTkcxdTdiX1FiRWMtY2puX21rdmtFOHhJaWRzRnZVQTcwNnlLaWZMM2VQcjc4bGVfV1FHX0kxcUFNWEI3dHZreFUxQVJVNzRsc2dwWlZiVEcwU09WTlFWdzkwX3RmOEVCU1R2LVh5SVhJTTZoOWhsY1lmYnIyekpnaUpBYjdGYW5MYzB1NzNUcmd3?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
