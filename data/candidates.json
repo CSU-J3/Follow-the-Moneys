@@ -6514,5 +6514,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-399",
+    "date": "2026-09-24",
+    "title": "Trump's Board of Peace proposes US$2.45 billion Gaza recovery plan - CNA",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmVYVEZ2bjlSYnVDY0VUanJuc3ZlODRMNmdNZ0h3c0NpeURkM003djMwVmlXUndGSllCZmdiTzBIaGhWSXB4dE8zOG0xaXdLS2JzaVowdlZPNkh1ak0wd1AySWVvOTVoekk0VzQtSXVIdm03ZjM1R3FZRGM2aUxZLUYwRGRjeVpz?oc=5\" target=\"_blank\">Trump's Board of Peace proposes US$2.45 billion Gaza recovery plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+    "sources": [
+      {
+        "name": "CNA",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmVYVEZ2bjlSYnVDY0VUanJuc3ZlODRMNmdNZ0h3c0NpeURkM003djMwVmlXUndGSllCZmdiTzBIaGhWSXB4dE8zOG0xaXdLS2JzaVowdlZPNkh1ak0wd1AySWVvOTVoekk0VzQtSXVIdm03ZjM1R3FZRGM2aUxZLUYwRGRjeVpz?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
