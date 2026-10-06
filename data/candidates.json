@@ -6532,5 +6532,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-400",
+    "date": "2026-09-28",
+    "title": "Canada has allocated an additional nearly $640,000 to support Ukrainian prisoners of war - UA.NEWS",
+    "amount": 640000,
+    "amount_display": "$640,000",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWRZaWxHUWlzWHBqOEF2T3pOSDFpenNueks1TnpBb3Z6d0d4V2pwMWhSazZCY1NmMFNUdUZXZ21JODhKYkVUbXJIN2pkcFJQcktXM0I1TFd4VDhEWHhzcnM1MDZiNWhzeV96Si1GNV96b2M4WTRWNERCcm5rYTdneXU1N19fQlNtblFyZ0VRb2VJUjlRLUJHZXc5eVBYR2p2UVhVdXBTX1M?oc=5\" target=\"_blank\">Canada has allocated an additional nearly $640,000 to support Ukrainian prisoners of war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
+    "sources": [
+      {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWRZaWxHUWlzWHBqOEF2T3pOSDFpenNueks1TnpBb3Z6d0d4V2pwMWhSazZCY1NmMFNUdUZXZ21JODhKYkVUbXJIN2pkcFJQcktXM0I1TFd4VDhEWHhzcnM1MDZiNWhzeV96Si1GNV96b2M4WTRWNERCcm5rYTdneXU1N19fQlNtblFyZ0VRb2VJUjlRLUJHZXc5eVBYR2p2UVhVdXBTX1M?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
