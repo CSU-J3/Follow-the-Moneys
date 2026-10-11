@@ -6550,5 +6550,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-401",
+    "date": "2026-09-24",
+    "title": "Trump peace board pitches $2.45 billion Gaza plan, implementation uncertain - Prothom Alo English",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EUVIySkFzOTJRWWgzbmVzbnFuM2txeWxzQ2NiRjg0TnpEQ3NPOVhvZjlLdmNITVplVVVtNVBoT1ZyYmFoYlE4NWpxa3dMVElLMHlHLXd5UlRZQnlSc2Nv0gFsQVVfeXFMTXVsc1BNUmlrUVRBUE5QTmtvUkxSdW14a1JFWVF2VXAyWEhQeTBnckJrSnotUWhQV3duYXpONlRzN0hBVERDeG5iRHFiaHNTamVNUXhqb08teHdsUnNBa2JVTXFyNm11NTBkcll1?oc=5\" target=\"_blank\">Trump peace board pitches $2.45 billion Gaza plan, implementation uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prothom Alo English</font>",
+    "sources": [
+      {
+        "name": "Prothom Alo English",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EUVIySkFzOTJRWWgzbmVzbnFuM2txeWxzQ2NiRjg0TnpEQ3NPOVhvZjlLdmNITVplVVVtNVBoT1ZyYmFoYlE4NWpxa3dMVElLMHlHLXd5UlRZQnlSc2Nv0gFsQVVfeXFMTXVsc1BNUmlrUVRBUE5QTmtvUkxSdW14a1JFWVF2VXAyWEhQeTBnckJrSnotUWhQV3duYXpONlRzN0hBVERDeG5iRHFiaHNTamVNUXhqb08teHdsUnNBa2JVTXFyNm11NTBkcll1?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
