@@ -6568,5 +6568,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-402",
+    "date": "2026-09-25",
+    "title": "Trump's Board of Peace Announces $2.45 Billion Recovery Plan for Gaza - Nacionale News",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkgwVHMtOGVRcXpXd2dSUUNXLU9CSTV5S0k5cE5TQllwRTExZS1Fa3NucklxM3lWdGVKMTZiZ0U1MDJTWHNXbW55NjBVbE14MjA5Uk9hd21ScXJsM3VDYnowWndXVXZneVdzZlQyWDRaLW9XV0txSWxudEFoeGpYcEFFWHdnMXU5THBMR3RIVU5YZmtEWnl3em1aX1ZkWFZIa0JJWExlM0U?oc=5\" target=\"_blank\">Trump's Board of Peace Announces $2.45 Billion Recovery Plan for Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nacionale News</font>",
+    "sources": [
+      {
+        "name": "Nacionale News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkgwVHMtOGVRcXpXd2dSUUNXLU9CSTV5S0k5cE5TQllwRTExZS1Fa3NucklxM3lWdGVKMTZiZ0U1MDJTWHNXbW55NjBVbE14MjA5Uk9hd21ScXJsM3VDYnowWndXVXZneVdzZlQyWDRaLW9XV0txSWxudEFoeGpYcEFFWHdnMXU5THBMR3RIVU5YZmtEWnl3em1aX1ZkWFZIa0JJWExlM0U?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
