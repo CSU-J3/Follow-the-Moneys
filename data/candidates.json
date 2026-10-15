@@ -6604,5 +6604,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-404",
+    "date": "2026-10-15",
+    "title": "Israel refuses to allow Gaza military base for Moroccan and Kosovan troops despite $17 billion pledged by US, Saudi Arabia and 8 other countries - Business Insider Africa",
+    "amount": 17000000000,
+    "amount_display": "$17B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU9fYzRNZ3RMYTM3SnMtNmlpSjNpc1pwMlN6RU9xb3RNOW9UQ2JvQVVhZGQwc05SVnZVSXE1VkZaYmNTV3lhR0d4aVBac1RWd2d1ZTVIdVVlankwVzlJdkpaanZjNi14LWFDX1hQM1Y4N3QtUFlmNGRKRGZRZmJROEVfZFJmNnhGTkpzYk0zZ2lOVVh5amRvc2xZa0dObjlGTHhUT2dOR0Vxd3BRSzVNX3VheEx3OS1UU3NZNVIxTU5pdlFRLVpjb2Z1Sm9VZmFXTzBFVVdn?oc=5\" target=\"_blank\">Israel refuses to allow Gaza military base for Moroccan and Kosovan troops despite $17 billion pledged by US, Saudi Arabia and 8 other countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+    "sources": [
+      {
+        "name": "Business Insider Africa",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU9fYzRNZ3RMYTM3SnMtNmlpSjNpc1pwMlN6RU9xb3RNOW9UQ2JvQVVhZGQwc05SVnZVSXE1VkZaYmNTV3lhR0d4aVBac1RWd2d1ZTVIdVVlankwVzlJdkpaanZjNi14LWFDX1hQM1Y4N3QtUFlmNGRKRGZRZmJROEVfZFJmNnhGTkpzYk0zZ2lOVVh5amRvc2xZa0dObjlGTHhUT2dOR0Vxd3BRSzVNX3VheEx3OS1UU3NZNVIxTU5pdlFRLVpjb2Z1Sm9VZmFXTzBFVVdn?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
