@@ -6586,5 +6586,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-403",
+    "date": "2026-09-24",
+    "title": "Trump's Board of Peace seeks $2.45 billion for six-month Gaza recovery - Yahoo News UK",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSTRGWG5jWG1Qa1htZHlTakFuLXlIZVZ4bVAxcEhXY3otSmNTeGN1TUk0TTMxQzZNV3RsUF96YTZFb2dmSVNVY01uUmhYZFJGSFAwaXJxc3UtTFpRTkROWDYzV0NxQTA3alBFOVlMYmpsNW9LWXc?oc=5\" target=\"_blank\">Trump's Board of Peace seeks $2.45 billion for six-month Gaza recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+    "sources": [
+      {
+        "name": "Yahoo News UK",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSTRGWG5jWG1Qa1htZHlTakFuLXlIZVZ4bVAxcEhXY3otSmNTeGN1TUk0TTMxQzZNV3RsUF96YTZFb2dmSVNVY01uUmhYZFJGSFAwaXJxc3UtTFpRTkROWDYzV0NxQTA3alBFOVlMYmpsNW9LWXc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
