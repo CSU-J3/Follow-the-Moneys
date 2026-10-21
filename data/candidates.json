@@ -6622,5 +6622,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-405",
+    "date": "2026-09-24",
+    "title": "Trump Gaza board pitches $2.45 billion Gaza plan, implementation uncertain - Arab News",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWRnQVptUW9jOURpSFl1MTcwZ21sX25iTG1Va0tCNHhrcE1pWURxWnIxeGF0SlJycTNYd3BpSEYwQ0daQWtneGlTZk92cFdROTFPdk5NNVJvcG1Fa2xyLUFlRDZoOXlYbnZqY2F5anBEOGVpWlVGV2pxMzhHVnNjcTlOdVMxUHhIYXBKSmJUMll5bkpwbERnM0hZUXdlVUZNX3BRQ0MtamxaVkxBRzFpLUk1NTFqZnc?oc=5\" target=\"_blank\">Trump Gaza board pitches $2.45 billion Gaza plan, implementation uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arab News</font>",
+    "sources": [
+      {
+        "name": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWRnQVptUW9jOURpSFl1MTcwZ21sX25iTG1Va0tCNHhrcE1pWURxWnIxeGF0SlJycTNYd3BpSEYwQ0daQWtneGlTZk92cFdROTFPdk5NNVJvcG1Fa2xyLUFlRDZoOXlYbnZqY2F5anBEOGVpWlVGV2pxMzhHVnNjcTlOdVMxUHhIYXBKSmJUMll5bkpwbERnM0hZUXdlVUZNX3BRQ0MtamxaVkxBRzFpLUk1NTFqZnc?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
