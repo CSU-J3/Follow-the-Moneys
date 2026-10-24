@@ -6640,5 +6640,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-407",
+    "date": "2026-01-22",
+    "title": "Putin offers $1B in frozen assets for Gaza Board of Peace — will US unfreeze them? - Al-Monitor",
+    "amount": 1000000000,
+    "amount_display": "$1B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3JDRWNUNnp5Nk1KcUM4QzBHenlCZzhIM3UySDU4RHdIdzdzNkt3RHUxNVdUOERzRWp6VExxZVJQZ0hWcU8yMEV5SDZJSERNUmRoUURuWTVVb1RNQTZBQ3QtQ3ZfYmYybEZ6WFZwTmhNeThsaWFEdEtFX1dBNXptNVZXaDhyTzFnNVlST2xGMHNmQUlYYXBXU01UcU5DT09qNTAwandZVzBKMFBzUWdYeDRpUQ?oc=5\" target=\"_blank\">Putin offers $1B in frozen assets for Gaza Board of Peace — will US unfreeze them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al-Monitor</font>",
+    "sources": [
+      {
+        "name": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3JDRWNUNnp5Nk1KcUM4QzBHenlCZzhIM3UySDU4RHdIdzdzNkt3RHUxNVdUOERzRWp6VExxZVJQZ0hWcU8yMEV5SDZJSERNUmRoUURuWTVVb1RNQTZBQ3QtQ3ZfYmYybEZ6WFZwTmhNeThsaWFEdEtFX1dBNXptNVZXaDhyTzFnNVlST2xGMHNmQUlYYXBXU01UcU5DT09qNTAwandZVzBKMFBzUWdYeDRpUQ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
