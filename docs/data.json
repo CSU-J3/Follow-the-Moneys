@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T20:44:35+00:00",
+  "last_updated": "2026-10-24T02:20:15+00:00",
   "summary": {
     "congressional_votes": 0,
     "reconstruction_need_low": 53000000000,
@@ -646,6 +646,24 @@
         {
           "name": "reutersconnect.com",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0tzZFJVMzJNekZnWktMMjhYU0ZJMFEyM0g0S2NkOGw4eGN1YVNwN05oeHVwbDJ6QnpFVV9zNnZnRVVReDBsUVhpcXdDVWF2NlhZTkVlNnRNU0dzeWU0QlB6czIweURGTlpQcEpZZzB4bTRCT1VCbG1sV0NLWTllMFl6cnZxYmpCcllMU21WaV9nM1FhQk5oVzgwbjlWcmFSODRiVDZWSWJzTGV6YWxIVERPa3dHSHBrTzZmMHNfMUdsZmRVRldiVmQxLVcxZ3lXQmJSRWJUYmdYM2I1XzhyeDl0czFTeFRKaG5FVzItRGJPS00?oc=5"
+        }
+      ],
+      "_collector": "news",
+      "_query": "\"Board of Peace\" billion"
+    },
+    {
+      "id": "ev-406",
+      "date": "2026-01-17",
+      "title": "Trump wants nations to pay $1 billion to stay on his peace board, report says - Reuters",
+      "amount": 1000000000,
+      "amount_display": "$1B",
+      "category": "uncategorized",
+      "status": null,
+      "detail": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJBUWd2bjdQeDhkMld4THh5N2xnWFZ3aFhWa3pxZkFDbGJkZ2xoVE5pNFVrWWV3cGF6d2FTc3JjYW9hZ25hYXZoWXo1V2c1MC1SRTZjMjg1amhTcUNKaS1zbmRESEhsY0V4RTd2emo0cmlZanZ1eEw5RVlmVDNCR29VQkdZOFJTY2NlUXlWZlNLOGg5NGhuaGtpSmJGaFF0Y2dBQ3dDcFp4YXow?oc=5\" target=\"_blank\">Trump wants nations to pay $1 billion to stay on his peace board, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJBUWd2bjdQeDhkMld4THh5N2xnWFZ3aFhWa3pxZkFDbGJkZ2xoVE5pNFVrWWV3cGF6d2FTc3JjYW9hZ25hYXZoWXo1V2c1MC1SRTZjMjg1amhTcUNKaS1zbmRESEhsY0V4RTd2emo0cmlZanZ1eEw5RVlmVDNCR29VQkdZOFJTY2NlUXlWZlNLOGg5NGhuaGtpSmJGaFF0Y2dBQ3dDcFp4YXow?oc=5"
         }
       ],
       "_collector": "news",
