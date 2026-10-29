@@ -6658,5 +6658,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-408",
+    "date": "2026-08-20",
+    "title": "Donald Trump told US Congress to provide $206 million for Gaza peacekeeping force - The Jerusalem Post",
+    "amount": 206000000,
+    "amount_display": "$206M",
+    "category": "governance",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ydXJhRVNvbTliY2wzaENFQTBzcXpOdHdXVGc4TXFPTXF1X1RvTmduQS1NYThOc2Q5eG82eVhOTjdTcnVfeDhZRnZRLW1zcTdDbmtneU95bkhZTjBJ?oc=5\" target=\"_blank\">Donald Trump told US Congress to provide $206 million for Gaza peacekeeping force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+    "sources": [
+      {
+        "name": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ydXJhRVNvbTliY2wzaENFQTBzcXpOdHdXVGc4TXFPTXF1X1RvTmduQS1NYThOc2Q5eG82eVhOTjdTcnVfeDhZRnZRLW1zcTdDbmtneU95bkhZTjBJ?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
