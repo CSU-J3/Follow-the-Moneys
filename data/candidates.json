@@ -6676,5 +6676,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-409",
+    "date": "2026-09-23",
+    "title": "Peace Council to Unveil $2.45B Gaza Recovery Plan... - Jordan News",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3p6NEJhZ0RwNWRSS3owc012YzVtYmNUNGNlRmthajdpOVB2VURxYUo5V2UxSlN4TC1VTXRsRHNFUEpYYm5JV3dPOFZSX3lPYVlKMEdXUEhIT1gtR0hBX3djdi0xdWFkcE9waFY2WTU4SWpBeHJkUXJIdVRpR29oNkdTcEtZNVdwcWdvY2JOM2FUR2w0WElLdEZoLV83cGQ1c2VmVkFB?oc=5\" target=\"_blank\">Peace Council to Unveil $2.45B Gaza Recovery Plan...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jordan News</font>",
+    "sources": [
+      {
+        "name": "Jordan News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3p6NEJhZ0RwNWRSS3owc012YzVtYmNUNGNlRmthajdpOVB2VURxYUo5V2UxSlN4TC1VTXRsRHNFUEpYYm5JV3dPOFZSX3lPYVlKMEdXUEhIT1gtR0hBX3djdi0xdWFkcE9waFY2WTU4SWpBeHJkUXJIdVRpR29oNkdTcEtZNVdwcWdvY2JOM2FUR2w0WElLdEZoLV83cGQ1c2VmVkFB?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
