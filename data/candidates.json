@@ -6712,5 +6712,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-411",
+    "date": "2026-10-05",
+    "title": "Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan, Axios reports - NewsCord",
+    "amount": 2450000000,
+    "amount_display": "$2.45B",
+    "category": "gulf_pledge",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE54c2dtNHZrTlZEOGFubFkxcFpOLWRveEduaEYzc2F1M1pjZ1ZoUzFUVnJtRGgzdkxKei1hTUQzUElDRW13N3NXNng5QkZ1VWt4SjJsOEVfTl9fZTlfbExOeGVDUU8yNnpwVnB5VWMxdmFPa1FOcVpBZFBZYW5Xb1k?oc=5\" target=\"_blank\">Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan, Axios reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsCord</font>",
+    "sources": [
+      {
+        "name": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c2dtNHZrTlZEOGFubFkxcFpOLWRveEduaEYzc2F1M1pjZ1ZoUzFUVnJtRGgzdkxKei1hTUQzUElDRW13N3NXNng5QkZ1VWt4SjJsOEVfTl9fZTlfbExOeGVDUU8yNnpwVnB5VWMxdmFPa1FOcVpBZFBZYW5Xb1k?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
