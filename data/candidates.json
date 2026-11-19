@@ -6694,5 +6694,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" allocate"
+  },
+  {
+    "id": "ev-410",
+    "date": "2026-11-17",
+    "title": "Gaza Rebuilding Stalled Despite $18 Billion Pledged A Year Ago - teleSUR English",
+    "amount": 18000000000,
+    "amount_display": "$18B",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWh3aGtQT3p6QjVCTi11bWFVRzVXTjZpeFdnS2xTWlJEekpPcUNianpyM3BSTWpzbGt5VW5CLXU5V2VsNlJSX3hnTWZ5YkY3ekktSmZhMnRpM2lzckFGMDhwWFdLZ2d0R3VCaGo0Q21QNl9uVVRTTkdYZm9nbzVLeVZmQmVMNlFCcjRoM3UtWENCd2R1T0NhRg?oc=5\" target=\"_blank\">Gaza Rebuilding Stalled Despite $18 Billion Pledged A Year Ago</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">teleSUR English</font>",
+    "sources": [
+      {
+        "name": "teleSUR English",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWh3aGtQT3p6QjVCTi11bWFVRzVXTjZpeFdnS2xTWlJEekpPcUNianpyM3BSTWpzbGt5VW5CLXU5V2VsNlJSX3hnTWZ5YkY3ekktSmZhMnRpM2lzckFGMDhwWFdLZ2d0R3VCaGo0Q21QNl9uVVRTTkdYZm9nbzVLeVZmQmVMNlFCcjRoM3UtWENCd2R1T0NhRg?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" billion"
   }
 ]
