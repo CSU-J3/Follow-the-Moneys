@@ -6730,5 +6730,23 @@
     ],
     "_collector": "news",
     "_query": "\"Board of Peace\" billion"
+  },
+  {
+    "id": "ev-412",
+    "date": "2025-02-26",
+    "title": "Israel’s Central Bank Advises Allocation of $841 Million War Aid - Bloomberg.com",
+    "amount": 841000000,
+    "amount_display": "$841M",
+    "category": "uncategorized",
+    "status": null,
+    "detail": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDVVeHZyVmZWckVIWkVzWVRBbS1Ddy1mYk5oS3M4T25fUk5NQ1lQNkI4ZlZDQ2EweGs1TGV0WVdwNGUyRWFuMFZicGpVendTY3hsdmlWRTlUaWpydi1mUnphRnRBYXRfNXE1am9wN3FuX1ZzRFlCYnhQYV9tOUNlbUtkc3JUTTFfcWZBSGxBS0U4M05aUW1DUGg2QjQ0Z3R0RjlaaHNfZ3k2aUZTU21zTHBPT1I?oc=5\" target=\"_blank\">Israel’s Central Bank Advises Allocation of $841 Million War Aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "sources": [
+      {
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDVVeHZyVmZWckVIWkVzWVRBbS1Ddy1mYk5oS3M4T25fUk5NQ1lQNkI4ZlZDQ2EweGs1TGV0WVdwNGUyRWFuMFZicGpVendTY3hsdmlWRTlUaWpydi1mUnphRnRBYXRfNXE1am9wN3FuX1ZzRFlCYnhQYV9tOUNlbUtkc3JUTTFfcWZBSGxBS0U4M05aUW1DUGg2QjQ0Z3R0RjlaaHNfZ3k2aUZTU21zTHBPT1I?oc=5"
+      }
+    ],
+    "_collector": "news",
+    "_query": "\"Board of Peace\" allocate"
   }
 ]
